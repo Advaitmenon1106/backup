@@ -1,0 +1,198 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+"""
+Problem Statement / Question :-
+In the Forbes 2000 list, what are the changes undergone by companies between 2019 (pre pandemic)
+and 2020 (pandemic era)
+Note 1 : only companies common to both the 2019 and 2020 listed in 2020 on the Forbes 2000
+list are being compared, so the row length does not sum up to 2000 
+
+Note 2: The source (CSV) file is standardised (to billions of USD) before utiling the same for the code.
+
+Note for self: Methodology of database calculations: https://www.forbes.com/2011/04/20/global-2000-11-methodology.html?sh=29be8cf72a22
+"""
+df1 = pd.read_csv("Forbes 2019.csv")
+df2 = pd.read_csv("Forbes 2020 Final.csv")
+
+# Top 10 company data in 2019
+
+print (df1.iloc[:10])
+
+#Top 10 company data in 2020
+
+print (df2.iloc[:10])
+
+# merging common companies from 2019 and 2020 on the basis of common company names:- 
+df3 = pd.merge(df1, df2, on="Name")
+df3.drop(columns="Country_y")
+df3.rename(columns={"Country_x" : "Country"}, inplace=True)
+
+"""
+as a result of the merge, the company details from 2019 are termed as <column name>_x
+while company details from 2020 are named as <column name>_y
+"""
+
+# Change in rank between 2019 and 2020
+
+rankChange = pd.to_numeric(df3["Rank_y"])-pd.to_numeric(df3["Rank_x"])
+df3["Change in Rank"] = rankChange
+
+# Change in Market Value between 2019 and 2020
+
+mktChange = pd.to_numeric(df3["Market Value_y"])-pd.to_numeric(df3["Market Value_x"])
+df3["Change in Market Value"] = mktChange
+
+# How did the company's assets change between 2019 and 2020?
+
+assetsChange = pd.to_numeric(df3["Assets_y"])-pd.to_numeric(df3["Assets_x"])
+df3["Changes in Assets Owned"] = assetsChange
+
+# Change in profits between 2019 and 2020
+
+profitsChange = pd.to_numeric(df3["Profit_y"])-pd.to_numeric(df3["Profit_x"])
+df3["Changes in Profits"] = profitsChange
+
+# Change in sales between 2019 and 2020
+
+changeInSales = pd.to_numeric(df3["Sales_y"])-pd.to_numeric(df3["Sales_x"])
+df3["Changes in Sales"] = changeInSales
+
+
+print (df3)
+
+# Number of companies from different countries that made the Forbes list in 2019 and 2020
+
+count1 = df1["Country"].value_counts()
+print (count1,"\n")
+
+count2 = df2["Country"].value_counts()
+print (count2, "\n")
+
+count3 = df3["Country"].value_counts()
+print (count3, "\n")
+
+# Probability that the company in the 2019, 20 and merged datasets is established in a country:-
+
+prob1 =df1["Country"].value_counts(normalize=True)
+print ("Marginal Probabilities 2019:- ", "\n")
+print (prob1, end="\n") 
+
+prob2 =df2["Country"].value_counts(normalize=True)
+print ("Marginal Probabilities 2020:- ", "\n")
+print (prob2, end="\n") 
+
+prob3 =df3["Country"].value_counts(normalize=True)
+print ("Marginal Probabilities (merged):- ", "\n")
+print (prob3, end="\n") 
+
+
+#Analysis in code format:-
+
+#Analysis 1
+print ("1. Maximum drop in rank: ", df3.iloc[df3["Change in Rank"].argmax(), 1], end=", ")
+print("with a drop of ", df3["Change in Rank"].max())
+print ("and the minimum cdrop being ", df3["Change in Rank"].min(), end=" by " )
+print(df3.iloc[df3["Change in Rank"].argmin(), 1])
+
+#Analysis 2
+
+print ("2. Maximum assets gained by a company: ", df3.iloc[df3["Changes in Assets Owned"].argmax(), 1], end=", ")
+print("with a change of ", df3["Changes in Assets Owned"].max())
+print ("and the minimum change being ", df3["Changes in Assets Owned"].min(), end=" by " )
+print(df3.iloc[df3["Changes in Assets Owned"].argmin(), 1])
+
+#Analysis 3
+
+print ("3. Maximum change in market value experienced by: ", df3.iloc[df3["Change in Market Value"].argmax(), 1], end=", ")
+print("with a change of ", df3["Change in Market Value"].max(), end=", ")
+print ("and the minimum change being ", df3["Change in Market Value"].min(), end=" by " )
+print(df3.iloc[df3["Change in Market Value"].argmin(), 1])
+
+#Analysis 4
+
+print ("4. Maximum profits gained by: ", df3.iloc[df3["Changes in Profits"].argmax(), 1], end=", ")
+print("with a change of ", df3["Changes in Profits"].max(), end=", ")
+print ("and the max loss incurred- ", df3["Changes in Profits"].min(), end=" by " )
+print(df3.iloc[df3["Changes in Profits"].argmin(), 1])
+
+#Analysis 5
+
+print ("5. Maximum sales gained by: ", df3.iloc[df3["Changes in Sales"].argmax(), 1], end=", ")
+print("with a change of ", df3["Changes in Sales"].max(), end=", ")
+print ("and the max sales lost- ", df3["Changes in Sales"].min(), end=" by " )
+print(df3.iloc[df3["Changes in Sales"].argmin(), 1])
+
+""" Analysis in text form:-
+1. Maximum drop in rank:  Unibail-Rodamco, with a drop of  1092
+and the minimum cdrop being  -889 by Lundbergs.
+
+2. Maximum assets gained by a company:  China Construction Bank, with a change of  439.578
+and the minimum change being  -449.29999999999995 by Sberbank
+
+3. Maximum change in market value experienced by:  Microsoft, with a change of  412.47900000000004, and the minimum change being  -146.831 by ExxonMobil
+
+4. Maximum profits gained by:  Berkshire Hathaway, with a change of  77.379, and the max loss incurred-  -21.482 by Samsung Electronics
+
+5. Maximum sales gained by:  Cigna, with a change of  105.89, and the max sales lost-  -71.02599999999995 by Royal Dutch Shell
+
+"""
+
+# Given values > some value, probability of a company being from <region>
+
+p1 = pd.crosstab(df3.Country, df3.Assets_y>100, normalize='columns')
+print (p1)
+
+# Grouped chart for various numerical yearly parameters:-
+
+# Comparing Ranks graphically
+
+x0 = np.arange(len(df3["Name"]))
+width0 = 0.40
+plt.bar(x0-0.2, df3["Rank_x"], width0)
+plt.bar(x0+0.2, df3["Rank_y"], width0)
+plt.xticks(x0, df3["Name"])
+plt.xlabel("Company Names")
+plt.ylabel("Market Values")
+plt.legend([2019, 2020])
+plt.show()
+
+# Comparing market values graphically
+
+plt.bar(x0-0.2, df3["Market Value_x"], width0)
+plt.bar(x0+0.2, df3["Market Value_y"], width0)
+plt.xticks(x0, df3["Name"])
+plt.xlabel("Company Names")
+plt.ylabel("Market Values")
+plt.legend([2019, 2020])
+plt.show()
+
+# Comparing assets graphically
+
+plt.bar(x0-0.2, df3["Assets_x"], width0)
+plt.bar(x0+0.2, df3["Assets_y"], width0)
+plt.xticks(x0, df3["Name"])
+plt.xlabel("Company Names")
+plt.ylabel("Assets")
+plt.legend([2019, 2020])
+plt.show()
+
+# Comparing assets graphically
+
+plt.bar(x0-0.2, df3["Sales_x"], width0)
+plt.bar(x0+0.2, df3["Sales_y"], width0)
+plt.xticks(x0, df3["Name"])
+plt.xlabel("Company Names")
+plt.ylabel("Sales")
+plt.legend([2019, 2020])
+plt.show()
+
+# Comparing assets graphically
+
+plt.bar(x0-0.2, df3["Profit_x"], width0)
+plt.bar(x0+0.2, df3["Profit_y"], width0)
+plt.xticks(x0, df3["Name"])
+plt.xlabel("Company Names")
+plt.ylabel("Profit")
+plt.legend([2019, 2020])
+plt.show()
