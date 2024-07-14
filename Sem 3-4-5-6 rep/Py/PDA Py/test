@@ -1,0 +1,12 @@
+#nums = list(map(int,input().split()))
+nums = [2, 7, 11, 15]
+target = int(input())
+output = []
+length = len(nums)
+half = length//2
+for x in range (0, length):
+    for y in range (0, length):
+        if nums[x]+nums[y] == target:
+            output.append(x)
+            output.append(y)
+print (output)

@@ -1,0 +1,87 @@
+CREATE TABLE EMPLOYEE(
+EMP_ID INT,
+EMP_NAME VARCHAR (100),
+DEPARTMENT VARCHAR (100),
+CONTACT_NO INT,
+EMAIL_ID VARCHAR(100),
+EMP_HEAD_ID INT);
+
+INSERT INTO EMPLOYEE VALUES
+(101, "Isha", "E-101", 1234567890, "isha@gmail.com", 105),
+(102, "Priya", "E-104", 1234567890, "priya@yahoo.com", 103),
+(103, "Neha", "E-101", 1234567890 "neha@gmail.com", 101),
+(104, "Rahul", "E-102", 1234567890, "rahul@yahoo.com", 105),
+(105, "Abhishek", "E-101", 1234567890, "abhishek@gmail.com", 102);
+
+CREATE TABLE DEPT(
+DEPT_ID VARCHAR(100),
+DEPT_NAME VARCHAR(100),
+DEPT_OFF VARCHAR(100),
+DEPT_HEAD INT);
+
+INSERT INTO DEPT VALUES
+("E-101", "HR", "Monday", 105),
+("E-102", "Development", "Tuesday", 101),
+("E-103", "Housekeeping", "Saturday", 103),
+("E-104", "Sales", "Sunday", 104),
+("E-105", "Purchase", "Tuesday", 104);
+
+CREATE TABLE SALARY(
+EMP_ID INT,
+SALARY INT,
+IS_PERMANENT VARCHAR(5));
+
+INSERT INTO SALARY VALUES
+(101, 2000, "Yes"),
+(102, 10000, "Yes"),
+(103, 5000, "No"),
+(104, 1900, "Yes"),
+(105, 2300, "Yes");
+
+CREATE TABLE PROJECT(
+PROJECT_ID VARCHAR(25),
+DURATION INT),
+
+INSERT INTO PROJECT VALUES
+("P-1", 23),
+("P-2", 15),
+("P-3", 45),
+("P-4", 2),
+("P-5", 30);
+
+CREATE TABLE COUNTRY(
+C_ID VARCHAR (25),
+C_NAME VARCHAR (100));
+
+INSERT INTO COUNTRY VALUES
+("C-1", "India"),
+("C-2", "USA"),
+("C-3", "China"),
+("C-4", "Pakistan"),
+("C-5", "Russia");
+
+CREATE TABLE CLIENTS(
+CLIENT_ID VARCHAR (50),
+CLIENT_NAME VARCHAR (100),
+C_ID VARCHAR (25));
+
+INSERT INTO CLIENTS(
+("C1-1", "ABC Group", "C-1"),
+("C1-2", "PQR", "C-1"),
+("C1-3", "XYZ", "C-2"),
+("C1-4", "Tech Altum", "C-3"),
+("C1-5", "MNP", "C-5");
+
+CREATE TABLE EMP_PROJECT(
+EMP_ID INT,
+PROJECT_ID VARCHAR(50),
+CLIENT_ID VARCHAR (50),
+START_YEAR INT,
+END_YEAR INT);
+
+INSERT INTO EMP_PROJECT VALUES
+(101, "P-1", "C1-1", 2010, 2010),
+(102, "P-2", "C1-2", 2010, 2012),
+(103, "P-1", "C1-3", 2013, NULL),
+(104, "P-4", "C1-1", 2014, 2015),
+(105, "P-4", "C1-5", 2015, NULL);

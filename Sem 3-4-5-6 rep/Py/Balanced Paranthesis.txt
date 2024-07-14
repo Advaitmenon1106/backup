@@ -1,0 +1,29 @@
+import time
+
+stack = []
+expression = input("Enter a string with parantheses: ")
+top = -1
+timeInitial = time.time()
+
+for x in expression:
+    if x == '[' or x == '(' or x == '{':
+        stack.append(x)
+        top+=1
+    elif stack[top] == '[' and x == ']':
+        stack.pop()
+        top-=1
+    elif stack [top] == '(' and x == ')':
+        stack.pop()
+        top-=1
+    elif stack[top] == '{' and x == '}':
+        stack.pop()
+        top-=1
+
+if top == -1:
+    print ("Balanced")
+else:
+    print ("Unbalanced")
+
+timeFinal = time.time()
+print ("Time taken = ", timeFinal-timeInitial)
+print ("for total string length", len(expression))

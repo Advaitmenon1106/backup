@@ -1,0 +1,19 @@
+-- Online SQL Editor to Run SQL Online.
+-- Use the editor to create new tables, insert data and all other SQL operations.
+/*
+CREATE TABLE Student
+(Roll_Number int,
+ Name varchar(255),
+ Class varchar(255),
+ Marks int,
+ DOB varchar(255)
+ );
+ */
+ 
+ --INSERT INTO Student values(1, "RAM", "BE", 100, "12-02-21");
+ /*SELECT * from Student;
+ DELETE from Student where Roll_Number = 1
+ */
+ 
+ 
+ SELECT * from Student

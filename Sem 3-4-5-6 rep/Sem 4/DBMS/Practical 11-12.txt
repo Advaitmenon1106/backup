@@ -1,0 +1,23 @@
+#Part A
+#1.
+
+select sid, gpa from student where name = 'Kenny';
+
+#2.
+
+select c.course_no from course c, department d where d.dept_id = c.dept_id and c.name = 'Computer Science';
+
+#3
+
+select s.section_id from section s, department d where s.deptid = d.deptid and deptname = "Comp. Sci" and s.semester = 'Fall';
+
+#4
+
+select t.section_id from transcript t, student s where t.sid = s.sid and firstname = 'Kenny';
+
+#5
+
+select distinct firstname, lastname from student s, transcript t where sid in t.sid and grade = 'A';
+
+# Part B
+

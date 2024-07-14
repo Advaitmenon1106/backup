@@ -1,0 +1,46 @@
+1. Highlighted the rows that had "United States" as the state for demarcation purposes. 
+   Data may be incorrect but the numerical statistics might still be useful
+
+Note : disregard pt 1, it'd be biased, nevertheless a copy of the ones where US is not deleted is saved in DHV
+
+ADDENDUM to above pt: The US part IS required, however, proceed with caution, the holes in the data seem to appear 
+			    in the United States Demographics values
+
+2 options:-
+
+A. I make a {Just US} file, treat the {WITH US} dataset and the former separately, 
+   infer things (Requires MAJOR changes in {Just US})
+
+B. I use the original file directly (Requires MAJOR changes in the ENTIRE dataset)
+
+----------------------------------------- From this point on I'm working with the {WITH US} File -----------------------------------------
+
+2. Sorted the data by ascending order of years (1999 - 2015)
+
+3. Race and Hispanic Origin - needed or not? (Yes because there really are no other categories in the W/O US File). Hid it and the "Sex" & "Age" columns
+
+4. To do: Evaluate the necessity of the death rate statistics
+
+5. Washington vs District of Columbia confusion cleared
+
+5. Made a new attribute : Total yearly deaths
+
+Stats yearwise
+
+1999		California 
+2000 		California
+2001		Florida
+2002		California
+2003		California
+2004		California
+2005		California
+2006		California
+2007		California
+2008		California
+2009		California
+2010		California
+2011		California
+2012		California
+2013		California
+2014		California
+2015		California

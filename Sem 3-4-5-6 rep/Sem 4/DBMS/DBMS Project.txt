@@ -1,0 +1,26 @@
+CREATE TABLE COURTS(
+Court_ID VARCHAR (100),
+Locations VARCHAR(100),
+City VARCHAR(100),
+Benches VARCHAR (100)
+);
+
+CREATE TABLE CITATIONS(
+Section VARCHAR (100),
+Number INT,
+DESCRIPTION VARCHAR (250),
+Used_In VARCHAR (100) #case id
+);
+
+CREATE TABLE DEFENDANT(
+Bar_Association_ID VARCHAR(100),
+Party_Defended VARCHAR (150),
+Case_Associated VARCHAR (100) #Case ID
+);
+
+CREATE TABLE PROSECUTOR(
+Bar_Association_ID VARCHAR(100),
+VARCHAR (150),
+Party_Accused VARCHAR (150),
+Case_Associated VARCHAR (100) #Case ID
+);

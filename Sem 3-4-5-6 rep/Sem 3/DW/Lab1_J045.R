@@ -1,0 +1,154 @@
+#1. creating vector using c()
+vec2 = c(1, 2, 3, "hello")
+vec2
+#2. colon
+vec1 = 1:10
+vec1
+#3. Vector()
+vec_logical <- vector("complex" ,5)
+vec_logical
+#4. rep()
+vec3 = rep("Hello World", 7)
+vec3
+#5. seq()
+vec4 = seq(from = 1, to = 7, by = 3)
+vec4
+#6. seq() and c()
+vec5 = c(seq(from = 1, to = 10, by = 2), seq(from = 11, to = 20, by = 1))
+vec5
+#7. rep() and seq()
+vec6 = rep(c(seq(from = 1,10,2), seq(from = 11,20,1)), 2)
+vec6
+#8. : and c
+vec7 = c(1:5, 6)
+vec7
+#9. assign function
+assign('vec8', c(0, 1, 2, 3, 4, 5))
+vec8
+
+#10. For integer vector
+
+is.complex(vec8)
+is.numeric(vec8)
+as.complex(vec8)
+is.complex(vec8)
+is.integer(vec8)
+as.character(vec8)
+as.logical(vec8)
+
+# For character vector
+
+vec9 = c('h', 'e', 'l', 'l', 'o', 'T', 'F')
+vec9
+
+is.complex(vec9)
+is.numeric(vec9)
+as.complex(vec9)
+is.complex(vec9)
+is.integer(vec9)
+as.character(vec9)
+as.logical(vec9)
+
+#11. Complex
+
+vec10 = 0+0i
+vec10
+
+is.complex(vec10)
+is.numeric(vec10)
+as.complex(vec10)
+is.complex(vec10)
+is.integer(vec10)
+as.character(vec10)
+as.logical(vec10)
+
+# A vector can be used inside a vector to create a vector. This is called as a nested vector
+
+#12. Nested Vector
+
+vec11 = c(vec9, vec10)
+vec11
+
+vec12 = c(vec10, vec9)
+vec12
+
+#13. Negative Sign
+
+vec13 = -c(1, 2, 3, 4, 5, 6)
+-vec13
+
+# 14. Odd and even
+
+odd = seq(1,20,2)
+odd
+even = seq(2,20,2)
+even
+
+#15. Names function
+
+vec14 = c(1, 2, 3, 4, 5, 6)
+names(vec14) = c('element1', 'element2', 'element3', 'element4', 'element5', 'element6')
+vec14
+
+#16. Naming "Odd" and "Even"
+
+length(odd)
+length(even)
+names(odd) = paste("Element", as.character(1:length(odd)))
+odd
+
+#Accessing the value of a vector
+
+vec15 = (1:10)
+vec15
+vec15[5]
+odd["Element 3"] #extracting data using name
+
+#Extract all elements of Odd vector without the last element
+
+odd[1:length(odd)-1]
+
+# Negative indices
+
+odd[c(-1, -2, -3)]
+odd[-1]
+
+#extracting data from even vector using name
+
+odd[c("Element 1", "Element 2", "Element 3")]
+
+all = (1:20)
+odd1 = all[c(T, F)]
+allWithZero = (0:20)
+even1 = allWithZero[c(T, F)]
+even1
+
+#extracting mean, median, mode
+count = c(2, 0, 3, 1, 3, 2, 9, 0, 2, 1, 11, 2)
+max(count)
+mean(count)
+median(count)
+mode(count)
+table(count)
+range(count)
+max(table(count))
+fivenum(count)# min, first quartile, second quartile (median), third quartile, max [in the same order]
+
+#boxplot
+
+boxplot(count)
+count2 = c(-100, count)
+count2
+boxplot(count2)
+sort (count2, decreasing = TRUE)
+
+#inbuilt fns
+
+letters
+LETTERS
+rivers
+rivers2 = rivers
+rivers2
+names(rivers2) = paste("River", 1:length(rivers2), sep = '#')
+rivers2
+boxplot(rivers2)

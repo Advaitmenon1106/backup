@@ -1,0 +1,41 @@
+INSERT INTO COMPLETED_CASES (Case_ID,documented name,Final_Judgement_Date,judge_presiding,Defendant,Prosecutor) VALUES
+
+('INJ-008647','Delhi Development Authority vs Ajay Singhal and Ors.', '31st August, 2016','J2','NB/DL/2021/04206','NB/DL/2015/01115'),
+
+('RCS-000267','Indian Overseas Bank & Ors. vs Om Prakash Lal Srivastava','19th January, 2022','J1','NB/WB/2022/05636','NB/TS/2022/04679'),
+
+('SCS-006251','State of UP vs Shyam Lal Jaiswal','7th October, 2021','J4','NB/UP/2020/01883','NB/UP/2022/04799'),
+
+('SG-001304','Pradeep Kumar vs The State of Chattisgarh','16th March, 2023','J28','NB/CG/1970/00399','NB/MAH/2022/05265'),
+
+('RCS-004682','Asha Rani Gupta vs Sri Vineet Kumar','11th July, 2022','J5','NB/BCT/2022/06396','NB/RJ/2019/01049'),
+
+('SG-001269','Sripati Singh (since deceased) Through His Son Gaurav Singh vs The State of Jharkhand & Anr','28th October, 2021','J10','NB/CG/1970/00399','NB/WB/2020/01811'),
+
+('CD-005720','Karnataka Rural Infrastructure Development Ltd. vs TP Nataraja & Ors.','21st September, 2021','J3','NB/G/2022/05570','NB/HP/2022/05168'),
+
+('SG-003189','Kalyani (Dead) throough Lrs. vs The Sulthan Bathery Municipality','26th April, 2022','J16','NB/KL/2021/03451','NB/TR/2022/05246'),
+
+('RCS-002080','BRK Aathithan vs Sun Group & Anr.','29th November, 2022','J8','NB/HP/2022/05168','NB/CG/2023/06468'),
+
+('SG-001781','Vinod Kumar Garg & Ors. vs State Govt. of National Capital Territory of Delhi','27th November, 2019','J6','NB/TN/2021/03509','NB/DL/2021/04206'),
+
+('SDR 000124','Sharmila Bagchi @ Gangopadhayay vs Sourav Gangopadhayay','18th January, 2022','J8','NB/AP/2021/03136','NB/WB/2022/05125'),
+
+('SG-004353','M/S Sal Udyog Pvt Ltd. vs The State of Chattisgarh','8th November, 2021','J18','NB/BR/2021/03220','NB/G/2022/05570'),
+
+('RCS-009063','Century Rayon Ltd. vs IVP Ltd.','27th November, 2019','J6','NB/MAH/2019/01798','NB/BCT/2021/03481'),
+
+('SR-004846','Praveen Kumar CP vs Kerala Public Service Commission','17th August, 2021','J9','NB/KL/2000/03451','NB/TN/2021/03509'),
+
+('INJ-000378','OLX India BV vs The State of Haryana','8th March 2022','J23','NB/CG/2023/06468','NB/DL/2021/04206'),
+
+('SCS-001746','Vijay Rajmohan vs State Represented by The Inspector of Police','11th October, 2022','J10','NB/BR/2023/09132','NB/G/2021/04168'),
+
+('RCS-000380','G.T. Girish vs Y Subba Raju (D) by LRS','18th January, 2022','J2','NB/MAH/2022/05265','NB/KL/2021/03451'),
+
+('SG-007625','Raghunath Behera vs The State of Odisha','1st November, 2022','J23','NB/BR/2023/09132','NB/BCT/2021/03481'),
+
+('SfE-005789','St. Mary's Education Society vs Rajendra Prasad Bhargava','24th August, 2022','J25','NB/G/2022/05570','NB/TS/2022/04679'),
+
+('CD-005208','M/S Siddhivinayak Infrastructure vs. Kamalakar Jayant Srivastava','12th August, 2022','J9','NB/RJ/2005/01049','NB/UP/2022/04799'),

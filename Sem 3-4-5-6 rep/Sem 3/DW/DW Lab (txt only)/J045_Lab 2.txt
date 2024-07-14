@@ -1,0 +1,37 @@
+# For integer vector
+
+is.complex(vec8)
+is.numeric(vec8)
+as.complex(vec8)
+is.complex(vec8)
+is.integer(vec8)
+as.character(vec8)
+as.logical(vec8)
+
+# For character vector
+
+vec9 = c('h', 'e', 'l', 'l', 'o', 'T', 'F')
+vec9
+
+is.complex(vec9)
+is.numeric(vec9)
+as.complex(vec9)
+is.complex(vec9)
+is.integer(vec9)
+as.character(vec9)
+as.logical(vec9)
+
+# Complex
+
+vec10 = 0+0i
+vec10
+
+is.complex(vec10)
+is.numeric(vec10)
+as.complex(vec10)
+is.complex(vec10)
+is.integer(vec10)
+as.character(vec10)
+as.logical(vec10)
+
+# Priority of coercion: Character > Complex > Numeric > Integer > Logical

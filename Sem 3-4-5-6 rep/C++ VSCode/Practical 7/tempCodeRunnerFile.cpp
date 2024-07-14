@@ -1,0 +1,1 @@
+cout << "Element present in array at position " << k++;

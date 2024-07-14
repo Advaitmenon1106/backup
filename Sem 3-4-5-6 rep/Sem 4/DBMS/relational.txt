@@ -1,0 +1,3 @@
+π Bdate, Address σ Fname = 'John' and Lname = 'Smith' EMPLOYEE
+
+π Fname, Minit, Lname, Address σ Dno = Dnumber, Dname = 'Research' EMPLOYEE, DEPARTMENT

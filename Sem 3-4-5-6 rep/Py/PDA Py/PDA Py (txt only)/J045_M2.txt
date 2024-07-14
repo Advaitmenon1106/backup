@@ -1,0 +1,68 @@
+Q1.
+
+import time as t
+
+tInitial = t.time()
+
+def fib(lt):
+    initial = 0
+    next = 1
+    counter = 1
+    if lt == 1:
+        return initial
+    else:   
+        while counter < lt:
+            fibNo = initial + next
+            initial = next
+            next = fibNo
+            counter += 1
+        return next
+
+num = int(input("Enter: "))
+finalVal = fib(num)
+print (finalVal%10)
+tFinal = t.time()
+print (tFinal-tInitial)
+
+Q3.
+
+import random
+import math
+
+No_Iter = 1000000000
+counter = 0
+for i in range(0, No_Iter):
+    x = random.random()
+    y = random.random()
+    if x**2 + y**2 < 1:
+        counter += 1
+
+print('Value of PI: ', counter*4/No_Iter, 'actual value of PI: ', math.pi)
+
+
+Q4.
+
+import random as rand
+import time as t
+
+t1 = t.time()
+
+sumArray = []
+sumFreq = {}
+
+for x in range (1000000):
+    randomSum = rand.randint(2, 12)
+    sumArray.append (randomSum)
+
+for x in sumArray:
+    if x in sumFreq:
+        sumFreq[x]+=1
+    else :
+        sumFreq[x] = 1
+
+print (sumFreq)
+for key, value in sorted(sumFreq.items()):
+    print(key, value)
+t2 = t.time()
+print (t2-t1)
+

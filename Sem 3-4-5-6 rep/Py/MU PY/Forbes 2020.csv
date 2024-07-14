@@ -1,0 +1,2001 @@
+﻿Rank,Name,Country,Sales,Profit,Assets,Market Value,Year
+1,ICBC,China,177.2 B,45.3 B,4322.500,242.300,2020
+2,China Construction Bank,China,162.1 B,38.9 B,3822.000,203.800,2020
+3,JPMorgan Chase,United States,142.9 B,30 B,3139.400,291.700,2020
+4,Berkshire Hathaway,United States,254.6 B,81.4 B,817.700,455.400,2020
+5,Agricultural Bank of China,China,148.7 B,30.9 B,3697.500,147.200,2020
+6,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,329.8 B,88.2 B,398.300,1684.800,2020
+7,Ping An Insurance Group,China,155 B,18.8 B,1218.600,187.200,2020
+8,Bank of America,United States,112.1 B,24.1 B,2620.000,208.600,2020
+9,Apple,United States,267.7 B,57.2 B,320.400,1285.500,2020
+10,Bank of China,China,135.4 B,27.2 B,3387.000,112.800,2020
+11,AT&T,United States,179.2 B,14.4 B,545.400,218.600,2020
+12,Toyota Motor,Japan,280.5 B,22.7 B,495.100,173.300,2020
+13,Alphabet,United States,166.3 B,34.5 B,273.400,919.300,2020
+14,ExxonMobil,United States,256 B,14.3 B,362.600,196.600,2020
+15,Microsoft,United States,138.6 B,46.3 B,285.400,1359.000,2020
+16,Samsung Electronics,South Korea,197.6 B,18.4 B,304.900,278.700,2020
+17,Wells Fargo,United States,98.9 B,14.3 B,1981.300,118.800,2020
+18,Citigroup,United States,104.4 B,17.1 B,2219.800,101.100,2020
+19,Walmart,United States,524 B,14.9 B,236.500,344.400,2020
+20,Verizon Communications,United States,131.4 B,18.4 B,294.500,237.700,2020
+21,Royal Dutch Shell,Netherlands,311.6 B,9.9 B,394.000,126.500,2020
+22,Amazon,United States,296.3 B,10.6 B,221.200,1233.400,2020
+23,Volkswagen Group,Germany,275.2 B,12 B,538.900,70.400,2020
+24,UnitedHealth Group,United States,246.3 B,13.8 B,189.100,277.100,2020
+25,Allianz,Germany,122.4 B,8.9 B,1183.500,77.100,2020
+26,China Merchants Bank,China,58.4 B,13.7 B,1094.900,120.900,2020
+27,Comcast,United States,108.7 B,11.7 B,262.400,171.700,2020
+28,China Mobile,Hong Kong,108.1 B,15.5 B,233.900,164.900,2020
+29,Total,France,176.2 B,11.3 B,273.300,93.100,2020
+30,Postal Savings Bank Of China (PSBC),China,64.4 B,9 B,1522.400,92.000,2020
+31,Alibaba Group,China,70.6 B,24.7 B,189.400,545.400,2020
+32,Gazprom,Russia,122.6 B,22.7 B,331.700,60.800,2020
+33,PetroChina,China,364.1 B,6.6 B,392.300,65.900,2020
+34,Johnson & Johnson,United States,82.8 B,17.2 B,155.000,395.300,2020
+35,RBC,Canada,50.9 B,10 B,1116.300,87.700,2020
+36,Walt Disney,United States,74.8 B,10.4 B,200.900,195.300,2020
+37,China Life Insurance,China,103.7 B,8.5 B,536.200,60.300,2020
+38,Intel,United States,75.7 B,22.7 B,147.700,254.000,2020
+39,Facebook,United States,73.4 B,21 B,138.400,583.700,2020
+40,CVS Health,United States,256.8 B,6.6 B,224.300,80.400,2020
+41,NestlÃ©,Switzerland,93.1 B,12.7 B,132.100,304.100,2020
+42,BNP Paribas,France,128 B,8.7 B,2429.900,39.200,2020
+43,Nippon Telegraph & Tel,Japan,109.6 B,7.9 B,211.100,83.000,2020
+44,HSBC Holdings,United Kingdom,67.2 B,3.8 B,2917.800,105.300,2020
+45,Bank of Communications,China,66.6 B,11.2 B,1422.100,47.100,2020
+46,TD Bank Group,Canada,44.8 B,9.3 B,1102.000,75.800,2020
+47,Goldman Sachs Group,United States,53.9 B,7.4 B,1090.000,63.400,2020
+48,Morgan Stanley,United States,53 B,8.3 B,896.800,62.100,2020
+49,Pfizer,United States,50.7 B,15.8 B,167.500,212.800,2020
+50,Tencent Holdings,China,54.6 B,13.5 B,137.000,509.700,2020
+51,IBM,United States,76.5 B,9 B,153.400,111.500,2020
+52,Mitsubishi UFJ Financial,Japan,60.1 B,5.4 B,2893.000,51.800,2020
+53,General Electric,United States,99.9 B,6.3 B,262.000,59.500,2020
+54,Rosneft,Russia,126.9 B,10.9 B,208.500,48.100,2020
+55,Santander,Spain,89.2 B,7.3 B,1709.200,37.100,2020
+56,Anheuser-Busch InBev,Belgium,52.3 B,9.1 B,238.300,89.900,2020
+57,Industrial Bank,China,50.2 B,9.2 B,1045.000,49.000,2020
+58,Reliance Industries,India,84.8 B,6.2 B,147.200,123.800,2020
+59,Sony,Japan,79.2 B,6 B,208.300,78.700,2020
+60,Sinopec,China,369.2 B,3.3 B,254.800,76.600,2020
+61,Chevron,United States,140.1 B,2.9 B,237.400,171.800,2020
+62,Siemens,Germany,97.4 B,5.9 B,171.000,75.400,2020
+63,Cigna,United States,154.5 B,4.9 B,157.000,72.800,2020
+64,AXA Group,France,150 B,4 B,850.800,42.300,2020
+65,Shanghai Pudong Development,China,50 B,8.6 B,1029.300,44.200,2020
+66,AIA Group,Hong Kong,40.9 B,6.6 B,280.300,111.800,2020
+67,Softbank,Japan,87.4 B,2.9 B,362.600,89.700,2020
+68,Novartis,Switzerland,48.6 B,12.2 B,123.100,193.000,2020
+69,Deutsche Telekom,Germany,90.1 B,4.3 B,207.100,69.200,2020
+70,Petrobras,Brazil,78.9 B,10.2 B,230.200,43.500,2020
+71,Procter & Gamble,United States,70.3 B,5 B,118.600,291.800,2020
+72,Japan Post Holdings,Japan,112.3 B,4.7 B,2680.200,32.700,2020
+73,LVMH MoÃ«t Hennessy Louis Vuitton,France,60.1 B,8 B,108.300,194.300,2020
+74,Roche Holding,Switzerland,61.9 B,13.6 B,85.800,297.400,2020
+75,BMW Group,Germany,116.6 B,5.5 B,271.300,38.900,2020
+76,Zurich Insurance Group,Switzerland,71.8 B,4.1 B,381.900,47.400,2020
+77,CITIC,Hong Kong,72.3 B,6.9 B,1063.900,30.300,2020
+78,ItaÃº Unibanco Holding,Brazil,52 B,6.9 B,408.800,41.000,2020
+79,China State Construction Engineering,China,203 B,6.1 B,292.300,30.700,2020
+80,MetLife,United States,69 B,5.9 B,746.300,32.800,2020
+81,Sumitomo Mitsui Financial,Japan,48.4 B,6.4 B,1954.800,36.400,2020
+82,Cisco Systems,United States,51.6 B,11.1 B,90.400,179.700,2020
+83,Honda Motor,Japan,142.4 B,4.3 B,188.500,42.600,2020
+84,Commonwealth Bank,Australia,27.3 B,7 B,688.800,72.600,2020
+85,Bank of Nova Scotia,Canada,34.8 B,6.4 B,872.600,48.700,2020
+86,Raytheon Technologies,United States,77.1 B,5.5 B,139.700,56.100,2020
+87,PepsiCo,United States,68.2 B,7.2 B,85.100,183.600,2020
+88,American Express,United States,46.8 B,5.5 B,186.100,73.500,2020
+89,General Motors,United States,137.2 B,6.7 B,228.000,31.900,2020
+90,China Minsheng Bank,China,48.5 B,7.8 B,959.200,32.800,2020
+91,British American Tobacco,United Kingdom,33 B,7.3 B,186.800,88.800,2020
+92,Merck & Co.,United States,47.9 B,10.1 B,84.400,200.300,2020
+93,BHP Group,Australia,45.8 B,9.4 B,102.300,107.100,2020
+94,Oracle,United States,39.8 B,10.8 B,96.700,167.000,2020
+95,Brookfield Asset Management,Canada,69.1 B,2.8 B,324.000,51.300,2020
+96,Coca-Cola,United States,37.2 B,10 B,94.000,197.100,2020
+97,Enel,Italy,86.6 B,2.4 B,192.400,69.400,2020
+98,GlaxoSmithKline,United Kingdom,44.7 B,6.8 B,104.600,104.400,2020
+99,LukOil,Russia,116.3 B,9.9 B,95.700,41.200,2020
+100,China Vanke,China,53.5 B,5.6 B,245.300,37.600,2020
+101,Banco Bradesco,Brazil,62 B,5.7 B,337.900,31.300,2020
+102,Bayer,Germany,49.9 B,4.8 B,137.700,64.700,2020
+103,US Bancorp,United States,25.9 B,6.4 B,542.900,55.500,2020
+104,Mitsubishi,Japan,140.8 B,4.8 B,167.000,32.400,2020
+105,Anthem,United States,109.3 B,4.8 B,82.400,70.800,2020
+106,Home Depot,United States,110.2 B,11.2 B,51.200,236.100,2020
+107,BASF,Germany,66.5 B,8.8 B,101.300,47.000,2020
+108,Taiwan Semiconductor,Taiwan,37.8 B,13 B,77.500,265.500,2020
+109,UBS,Switzerland,34.2 B,4.8 B,1098.100,38.400,2020
+110,Unilever,Netherlands,58.2 B,6.3 B,72.700,130.600,2020
+111,Country Garden Holdings,China,70.1 B,5.7 B,273.800,27.800,2020
+112,EDF,France,79.8 B,5.1 B,340.400,24.700,2020
+113,China Citic Bank,China,49.3 B,7.1 B,991.400,23.900,2020
+114,Rio Tinto,United Kingdom,43.2 B,8 B,87.800,75.500,2020
+115,Lloyds Banking Group,United Kingdom,64.3 B,3.1 B,1104.700,28.600,2020
+116,Prudential Financial,United States,64.9 B,4.1 B,896.600,24.700,2020
+117,Sanofi,France,40.4 B,3.3 B,126.500,122.500,2020
+118,Credit Agricole,France,74.3 B,4.8 B,1984.200,21.900,2020
+119,AbbVie,United States,33.3 B,7.8 B,89.100,121.400,2020
+120,Iberdrola,Spain,39.7 B,4.1 B,136.600,62.500,2020
+121,Hon Hai Precision,Taiwan,172.8 B,3.7 B,110.800,35.900,2020
+122,KDDI,Japan,47.8 B,5.9 B,86.500,66.900,2020
+123,Enbridge,Canada,37.5 B,4.3 B,125.900,62.200,2020
+124,Manulife,Canada,58.3 B,4.2 B,592.000,24.500,2020
+125,Intesa Sanpaolo,Italy,41.3 B,4.7 B,916.100,27.300,2020
+126,CNOOC,Hong Kong,33.6 B,8.8 B,108.800,50.600,2020
+127,Dell Technologies,United States,91.9 B,4.6 B,118.900,31.600,2020
+128,Westpac Banking Group,Australia,26 B,4.8 B,611.900,38.400,2020
+129,Medtronic,Ireland,31.1 B,5.3 B,92.800,130.800,2020
+130,China Pacific Insurance,China,55.8 B,4 B,215.700,30.000,2020
+131,SAIC Motor,China,121.1 B,3.7 B,121.900,31.300,2020
+132,Bank of Montreal,Canada,29.1 B,4.4 B,665.200,32.600,2020
+133,Caterpillar,United States,51 B,5.3 B,75.900,63.000,2020
+134,Chubb,Switzerland,34 B,3.7 B,173.100,48.800,2020
+135,Itochu,Japan,103.1 B,4.9 B,104.600,29.600,2020
+136,Walgreens Boots Alliance,United States,138.7 B,3.5 B,90.000,38.000,2020
+137,VINCI,France,54.6 B,3.6 B,102.300,45.500,2020
+138,Bristol-Myers Squibb,United States,26.1 B,3.4 B,129.900,137.600,2020
+139,PNC Financial Services,United States,21.5 B,5 B,445.500,45.200,2020
+140,Generali Group,Italy,91.9 B,3 B,578.600,22.500,2020
+141,Visa,United States,23.5 B,11.9 B,74.800,383.900,2020
+142,Costco Wholesale,United States,158.4 B,3.8 B,48.800,133.800,2020
+143,United Parcel Service,United States,74.8 B,4.3 B,57.900,81.300,2020
+144,Duke Energy,United States,25.1 B,3.7 B,163.600,62.100,2020
+145,Lockheed Martin,United States,61.1 B,6.2 B,49.200,109.100,2020
+146,HDFC Bank,India,20.7 B,3.8 B,209.000,73.100,2020
+147,Allstate,United States,44.3 B,4.8 B,121.100,32.200,2020
+148,China Everbright Bank,China,35.6 B,5.5 B,737.600,22.300,2020
+149,Charter Communications,United States,45.8 B,1.7 B,150.600,104.000,2020
+150,SAP,Germany,31.1 B,4.7 B,69.100,142.400,2020
+151,Tokio Marine Holdings,Japan,48.5 B,2.6 B,224.500,33.000,2020
+152,CK Hutchison,Hong Kong,38.2 B,5.1 B,155.400,28.600,2020
+153,Honeywell International,United States,36.7 B,6.1 B,58.700,100.400,2020
+154,China Evergrande Group,China,69.4 B,2.5 B,316.800,23.500,2020
+155,American International Group,United States,50.1 B,3.3 B,525.100,21.900,2020
+156,Orange,France,47.3 B,3.4 B,123.000,32.300,2020
+157,AmÃ©rica MÃ³vil,Mexico,52.3 B,3.5 B,81.100,40.500,2020
+158,Abbott Laboratories,United States,32.1 B,3.5 B,66.800,162.900,2020
+159,Bank of New York Mellon,United States,20.8 B,4.5 B,468.200,33.200,2020
+160,Credit Suisse Group,Switzerland,32.8 B,4 B,860.100,22.000,2020
+161,Capital One Financial,United States,31.1 B,2.8 B,396.900,29.500,2020
+162,Amgen,United States,23.9 B,7.7 B,61.700,140.600,2020
+163,Truist Financial,United States,17.2 B,3.5 B,506.200,50.300,2020
+164,ANZ,Australia,23.9 B,2.9 B,703.800,31.300,2020
+165,Equinor,Norway,60.3 B,1.8 B,118.100,46.400,2020
+166,Mitsui,Japan,65.5 B,3.7 B,114.300,24.100,2020
+167,Oversea-Chinese Banking,Singapore,24.9 B,3.6 B,365.700,28.300,2020
+168,China Shenhua Energy,China,35 B,6.1 B,80.800,35.600,2020
+169,Exelon,United States,33.8 B,2.9 B,125.000,36.100,2020
+170,PTT,Thailand,71.5 B,2.9 B,82.900,31.300,2020
+171,State Bank of India,India,51.1 B,2 B,559.900,22.600,2020
+172,Poly Developments & Holdings Group,China,31 B,4 B,148.300,27.500,2020
+173,Lowe's,United States,72.1 B,4.3 B,41.000,79.100,2020
+174,China Telecom,China,54.4 B,3 B,101.000,27.900,2020
+175,Southern Company,United States,20.8 B,3.5 B,118.900,60.000,2020
+176,L'OrÃ©al,France,33.4 B,4.2 B,49.200,162.500,2020
+177,BlackRock,United States,15.1 B,4.2 B,168.600,77.900,2020
+178,Linde,United Kingdom,28.2 B,2.3 B,86.600,96.600,2020
+179,Canadian Imperial Bank,Canada,21.6 B,3.9 B,508.200,26.400,2020
+180,NextEra Energy,United States,17.2 B,3.5 B,120.600,113.100,2020
+181,Barclays,United Kingdom,28.8 B,2.6 B,1790.900,23.100,2020
+182,Deere & Company,United States,38.9 B,3.3 B,71.800,45.500,2020
+183,Union Pacific,United States,21.6 B,6 B,62.200,108.400,2020
+184,Thermo Fisher Scientific,United States,25.6 B,3.7 B,58.700,132.200,2020
+185,Deutsche Post,Germany,70.9 B,2.9 B,61.000,36.700,2020
+186,Gilead Sciences,United States,22.6 B,5 B,59.700,105.800,2020
+187,Phillips 66,United States,107.4 B,3.1 B,58.700,32.000,2020
+188,Mondelez International,United States,26 B,3.7 B,63.600,73.400,2020
+189,Hyundai Motor,South Korea,90.5 B,2.3 B,163.300,20.100,2020
+190,Qatar National Bank,Qatar,15.9 B,3.9 B,264.900,43.700,2020
+191,NAB - National Australia Bank,Australia,21.4 B,2.3 B,567.800,32.000,2020
+192,Broadcom,United States,22.7 B,2.6 B,81.000,108.600,2020
+193,Legal & General Group,United Kingdom,85.2 B,2.3 B,735.000,15.300,2020
+194,ING Group,Netherlands,20.5 B,5.4 B,1001.000,21.400,2020
+195,3M,United States,32.3 B,5 B,46.200,87.400,2020
+196,Target,United States,78.1 B,3.3 B,42.800,54.900,2020
+197,Marathon Petroleum,United States,123.4 B,2.6 B,98.600,20.900,2020
+198,Hitachi,Japan,82.9 B,1.8 B,94.600,29.300,2020
+199,Progressive,United States,39.1 B,3.6 B,56.300,45.200,2020
+200,DBS,Singapore,14.5 B,4.3 B,451.600,36.000,2020
+201,ConocoPhillips,United States,29.5 B,3.6 B,65.000,45.300,2020
+202,UniCredit,Italy,28.8 B,3.6 B,960.500,17.200,2020
+203,Philip Morris International,United States,30.2 B,7.6 B,37.500,116.200,2020
+204,China Railway Group,China,122.9 B,3.2 B,151.600,14.800,2020
+205,Accenture,Ireland,44.7 B,5 B,33.500,118.000,2020
+206,Munich Re,Germany,36.1 B,1.4 B,317.200,31.100,2020
+207,Royal Bank of Scotland,United Kingdom,23.5 B,4.5 B,957.800,16.800,2020
+208,Banco do Brasil,Brazil,42 B,3.8 B,359.500,14.700,2020
+209,McDonald's,United States,20.8 B,5.8 B,47.500,139.500,2020
+210,China Resources Land,Hong Kong,21.6 B,4.1 B,109.400,29.300,2020
+211,China Railway Construction,China,116.8 B,2.8 B,154.400,14.900,2020
+212,Saudi Basic Industries,Saudi Arabia,37.3 B,1.5 B,83.400,59.800,2020
+213,Aviva,United Kingdom,89.5 B,3.2 B,593.100,12.000,2020
+214,General Dynamics,United States,38.8 B,3.4 B,53.700,37.500,2020
+215,MS&AD Insurance,Japan,50.6 B,2.6 B,220.100,16.700,2020
+216,PICC,China,78.2 B,3.2 B,158.500,14.500,2020
+217,Aflac,United States,22 B,2.9 B,151.600,26.900,2020
+218,E.ON,Germany,45.9 B,1.8 B,118.000,26.100,2020
+219,Travelers,United States,31.8 B,2.4 B,109.400,25.600,2020
+220,Prudential,United Kingdom,94.5 B,768 M,440.400,36.900,2020
+221,Eli Lilly,United States,23.1 B,5.5 B,39.300,148.000,2020
+222,Kraft Heinz Company,United States,25.2 B,1.9 B,104.100,37.100,2020
+223,Sunac China Holdings,China,25.3 B,3.8 B,137.900,20.700,2020
+224,Charles Schwab,United States,11.5 B,3.5 B,370.800,48.600,2020
+225,HCA Healthcare,United States,51.7 B,3 B,45.400,37.200,2020
+226,Danaher,United States,19.9 B,2.6 B,62.100,113.900,2020
+227,Schneider Electric,France,30.4 B,2.7 B,50.500,50.400,2020
+228,SociÃ©tÃ© GÃ©nÃ©rale,France,47.8 B,2.8 B,1522.500,12.400,2020
+229,Midea Group,China,39.9 B,3.4 B,40.000,52.900,2020
+230,Dai-ichi Life Insurance,Japan,62.6 B,1.8 B,560.800,14.400,2020
+231,ENGIE,France,67.2 B,1.1 B,179.400,26.200,2020
+232,Fiat Chrysler Automobiles,United Kingdom,121.1 B,3.2 B,110.100,13.800,2020
+233,Volvo Group,Sweden,43.4 B,3.1 B,55.600,26.300,2020
+234,Seven & I Holdings,Japan,61 B,2 B,55.600,29.300,2020
+235,Humana,United States,67.7 B,2.6 B,34.600,50.500,2020
+236,Longfor Group Holdings,China,21.7 B,2.6 B,93.600,29.800,2020
+237,AstraZeneca,United Kingdom,26.2 B,1.5 B,57.200,137.700,2020
+238,JD.com,China,83.4 B,1.8 B,37.300,53.600,2020
+239,Air Liquide,France,24.5 B,2.5 B,49.000,60.000,2020
+240,Fresenius,Germany,39.6 B,2.1 B,75.200,23.800,2020
+241,Northrop Grumman,United States,34.3 B,2.3 B,43.200,55.100,2020
+242,Mizuho Financial,Japan,35.9 B,831 M,1874.900,29.800,2020
+243,Sun Life Financial,Canada,24.6 B,2 B,226.100,20.100,2020
+244,Inditex,Spain,31.6 B,4.1 B,31.500,79.300,2020
+245,Nike,United States,41.3 B,4.3 B,26.200,135.600,2020
+246,Gree Electric Appliances,China,28.8 B,3.6 B,40.300,46.700,2020
+247,Central Japan Railway,Japan,17 B,3.7 B,89.000,31.200,2020
+248,Danone,France,28.3 B,2.1 B,50.900,45.000,2020
+249,PayPal,United States,17.5 B,2.5 B,51.300,144.300,2020
+250,Cathay Financial,Taiwan,24.2 B,2 B,335.500,17.700,2020
+251,Surgutneftegas,Russia,24.7 B,6.8 B,80.800,17.900,2020
+252,Suncor Energy,Canada,28.9 B,2.2 B,69.000,27.300,2020
+253,Standard Chartered,United Kingdom,24.7 B,1.9 B,720.400,16.200,2020
+254,Tesco,United Kingdom,82.7 B,1.2 B,66.800,29.000,2020
+255,ICICI Bank,India,20.8 B,1.3 B,182.800,32.800,2020
+256,Panasonic,Japan,70.4 B,2.6 B,61.800,18.000,2020
+257,Safran,France,28.1 B,2.7 B,48.100,36.700,2020
+258,Qualcomm,United States,24.7 B,4 B,31.900,88.500,2020
+259,Royal Ahold Delhaize N.V.,Netherlands,74.2 B,2 B,46.600,26.400,2020
+260,KBC Group,Belgium,14.9 B,2.7 B,326.400,22.500,2020
+261,East Japan Railway,Japan,27.1 B,1.8 B,79.100,27.800,2020
+262,National Grid,United Kingdom,19 B,1.9 B,81.700,41.300,2020
+263,Delta Air Lines,United States,45.1 B,3.5 B,68.700,16.500,2020
+264,Peugeot,France,83.6 B,3.6 B,78.300,12.800,2020
+265,TelefÃ³nica,Spain,54.2 B,1 B,133.400,23.400,2020
+266,Kroger,United States,122.3 B,1.7 B,47.900,25.200,2020
+267,China Communications Construction,China,79.8 B,2.8 B,161.100,10.800,2020
+268,Shinhan Financial Group,South Korea,33.9 B,2.9 B,477.700,11.700,2020
+269,Oil & Natural Gas,India,60.1 B,4.4 B,72.600,13.400,2020
+270,Sun Hung Kai Properties,Hong Kong,11.2 B,5.1 B,103.600,39.800,2020
+271,Huaxia Bank,China,21.3 B,3.1 B,440.100,14.300,2020
+272,Fubon Financial,Taiwan,33.3 B,1.9 B,284.600,14.600,2020
+273,Diageo,United Kingdom,16.8 B,3.9 B,42.000,81.000,2020
+274,Anglo American,United Kingdom,29.9 B,3.5 B,56.200,22.000,2020
+275,Mastercard,United States,17 B,7.9 B,30.600,276.100,2020
+276,Dominion Energy,United States,16.4 B,1.4 B,103.800,64.600,2020
+277,Micron Technology,United States,19.6 B,2.3 B,49.600,53.300,2020
+278,KB Financial Group,South Korea,37.3 B,2.7 B,449.900,11.100,2020
+279,HDFC,India,13.2 B,2.3 B,98.200,44.200,2020
+280,LafargeHolcim,Switzerland,26.9 B,2.2 B,60.200,25.500,2020
+281,United Overseas Bank,Singapore,12 B,3.2 B,300.800,23.900,2020
+282,Bank of Beijing,China,17.9 B,3.1 B,393.100,14.900,2020
+283,Japan Tobacco,Japan,20 B,3.2 B,51.100,33.400,2020
+284,Netflix,United States,21.4 B,2.2 B,35.100,184.700,2020
+285,Centene,United States,82.2 B,845 M,66.400,38.600,2020
+286,China Unicom,Hong Kong,42.1 B,1.6 B,82.000,19.800,2020
+287,Jardine Matheson,Bermuda,40.9 B,2.8 B,97.000,13.400,2020
+288,Starbucks,United States,26.7 B,3.4 B,27.500,89.600,2020
+289,American Electric,United States,15.5 B,1.9 B,79.100,41.100,2020
+290,Sumitomo,Japan,49.9 B,2.7 B,77.100,14.400,2020
+291,Nordea Bank,Finland,13 B,1.7 B,622.800,26.100,2020
+292,Orix,Japan,21.3 B,3 B,118.200,15.400,2020
+293,TJX Cos,United States,41.7 B,3.3 B,24.100,59.500,2020
+294,Mitsubishi Electric,Japan,41.3 B,2.1 B,40.900,26.900,2020
+295,State Street,United States,12.3 B,2.4 B,362.500,22.200,2020
+296,SK Hynix,South Korea,23.2 B,1.3 B,55.200,47.000,2020
+297,RWE Group,Germany,14.7 B,9.5 B,79.400,17.700,2020
+298,ABB,Switzerland,28 B,1.4 B,46.100,40.500,2020
+299,Nomura,Japan,19.1 B,2.3 B,425.500,13.000,2020
+300,BCE,Canada,18.1 B,2.4 B,46.400,36.600,2020
+301,Automatic Data Processing,United States,14.7 B,2.5 B,43.400,63.000,2020
+302,HP,United States,58.4 B,3 B,31.700,22.200,2020
+303,First Abu Dhabi Bank,United Arab Emirates,8.9 B,3.1 B,227.400,34.400,2020
+304,EssilorLuxottica,France,19.5 B,1.2 B,59.000,53.900,2020
+305,Henkel,Germany,22.5 B,2.3 B,35.900,38.500,2020
+306,Canadian Natural Resources,Canada,17.2 B,4.1 B,62.300,19.800,2020
+307,Greenland Holdings Group,China,57.7 B,2 B,159.400,9.800,2020
+308,EMD Group,Germany,18.1 B,1.5 B,49.600,50.500,2020
+309,Swiss Re,Switzerland,49 B,734 M,238.600,20.300,2020
+310,Bank Of Shanghai,China,12.9 B,2.7 B,322.300,16.500,2020
+311,Archer Daniels Midland,United States,64.4 B,1.5 B,44.000,20.700,2020
+312,Anhui Conch Cement,China,22.7 B,4.9 B,25.700,41.700,2020
+313,Ecopetrol,Colombia,22.1 B,4 B,41.300,21.900,2020
+314,BT Group,United Kingdom,29.6 B,2.8 B,63.300,14.500,2020
+315,Poste Italiane,Italy,36.7 B,1.5 B,267.400,11.000,2020
+316,Novatek,Russia,13.2 B,13.4 B,32.500,42.600,2020
+317,TC Energy,Canada,9.8 B,3.1 B,76.600,43.300,2020
+318,CRH,Ireland,28.1 B,1.9 B,41.900,23.800,2020
+319,Macquarie Group,Australia,11.5 B,2.2 B,148.000,22.800,2020
+320,BBVA-Banco Bilbao Vizcaya,Spain,38.3 B,617 M,802.000,21.800,2020
+321,JXTG Holdings,Japan,95.5 B,1.5 B,81.600,11.500,2020
+322,Kering,France,17.8 B,2.4 B,30.500,63.000,2020
+323,Baoshan Iron & Steel,China,43 B,2.1 B,48.300,15.300,2020
+324,Daiwa House Industry,Japan,40 B,2.3 B,42.700,17.100,2020
+325,Couche Tard,Canada,57.5 B,2.1 B,24.800,31.100,2020
+326,Daimler,Germany,189.2 B,418 M,326.600,37.000,2020
+327,Bridgestone,Japan,32.3 B,2.7 B,36.300,20.700,2020
+328,Fannie Mae,United States,122.8 B,14.2 B,3503.300,2.000,2020
+329,Tyson Foods,United States,43.1 B,2 B,33.800,22.300,2020
+330,New China Life Insurance,China,25.2 B,2.1 B,125.800,10.800,2020
+331,Saint-Gobain,France,47.7 B,1.6 B,56.100,14.400,2020
+332,CSX,United States,11.8 B,3.3 B,38.800,50.700,2020
+333,DNB,Norway,9.7 B,2.8 B,317.900,19.100,2020
+334,Novo Nordisk,Denmark,18.3 B,5.8 B,18.900,146.800,2020
+335,Saudi Telecom,Saudi Arabia,14.6 B,2.9 B,32.100,48.300,2020
+336,LyondellBasell Industries,United Kingdom,34.7 B,3.4 B,30.400,19.300,2020
+337,EOG Resources,United States,17.6 B,2.7 B,37.100,27.700,2020
+338,Sempra Energy,United States,10.8 B,2.2 B,65.700,36.200,2020
+339,Eaton,Ireland,20.9 B,2.1 B,30.800,34.400,2020
+340,Freddie Mac,United States,79.3 B,7.2 B,2203.600,1.100,2020
+341,Heineken,Netherlands,26.8 B,1.2 B,52.200,22.400,2020
+342,Kweichow Moutai,China,11.3 B,6.2 B,25.600,225.500,2020
+343,CK Asset Holdings,Hong Kong,10.9 B,3.7 B,65.200,23.300,2020
+344,Becton Dickinson,United States,17.4 B,899 M,52.000,68.500,2020
+345,Stryker,United States,15 B,2.2 B,29.400,69.900,2020
+346,CRRC,China,31.7 B,1.5 B,55.900,15.200,2020
+347,Bank Rakyat Indonesia (BRI),Indonesia,10.5 B,2.4 B,102.100,22.500,2020
+348,China Merchants Shekou Industrial Zone Holdings,China,12.8 B,2.3 B,88.700,18.800,2020
+349,Maybank,Malaysia,10.5 B,2 B,204.000,19.800,2020
+350,Kinder Morgan,United States,12.8 B,1.3 B,73.500,34.400,2020
+351,Emirates NBD,United Arab Emirates,10.7 B,3.6 B,188.300,14.800,2020
+352,Marsh & McLennan,United States,17.2 B,1.8 B,31.400,49.200,2020
+353,Ameriprise Financial,United States,14.4 B,1.9 B,151.800,14.100,2020
+354,Dollar General,United States,27.8 B,1.7 B,25.100,44.100,2020
+355,Shin-Etsu Chemical,Japan,14.2 B,2.9 B,29.900,46.700,2020
+356,Barrick Gold,Canada,9.7 B,4 B,44.400,45.900,2020
+357,BP,United Kingdom,271.6 B,-3.3 B,273.900,79.400,2020
+358,Etisalat,United Arab Emirates,14.2 B,2.4 B,35.400,36.700,2020
+359,Canon,Japan,33 B,1.1 B,43.900,22.700,2020
+360,Sompo,Japan,32.8 B,1.3 B,111.800,11.900,2020
+361,ASML Holding,Netherlands,13.4 B,2.9 B,25.500,124.500,2020
+362,Natixis,France,33.5 B,2 B,576.000,7.500,2020
+363,Vivendi,France,17.8 B,1.8 B,41.900,25.300,2020
+364,Swiss Life Holding,Switzerland,25.5 B,1.2 B,235.800,11.300,2020
+365,Posco,South Korea,53.2 B,1.3 B,67.600,12.100,2020
+366,Biogen,United States,12.8 B,5.9 B,26.100,48.400,2020
+367,Mitsui Fudosan,Japan,17.5 B,1.5 B,67.200,18.200,2020
+368,Canadian National Railway,Canada,11.2 B,3.3 B,32.600,58.800,2020
+369,Booking Holdings,United States,15.1 B,4.9 B,21.400,60.600,2020
+370,NN Group,Netherlands,18.9 B,2.2 B,277.900,9.300,2020
+371,Fosun International,China,20.7 B,2.1 B,102.700,10.800,2020
+372,Wilmar International,Singapore,42.6 B,1.3 B,47.000,16.100,2020
+373,General Mills,United States,16.8 B,2.1 B,30.200,36.300,2020
+374,Carrefour,France,83 B,1.3 B,57.000,11.800,2020
+375,Daikin Industries,Japan,23.5 B,1.7 B,26.100,38.300,2020
+376,Tata Consultancy Services,India,22.1 B,4.6 B,16.000,100.700,2020
+377,Power Corp of Canada,Canada,31.5 B,874 M,352.100,11.500,2020
+378,Boston Scientific,United States,10.8 B,4.3 B,30.600,52.400,2020
+379,Discover Financial Services,United States,14.1 B,2.2 B,112.700,13.100,2020
+380,Synchrony Financial,United States,15.3 B,2.9 B,98.000,11.600,2020
+381,Michelin Group,France,27 B,1.9 B,35.600,17.400,2020
+382,Paccar,United States,24.3 B,2.1 B,27.300,23.900,2020
+383,Sumitomo Mitsui Trust,Japan,13.8 B,1.8 B,509.300,11.100,2020
+384,Xiaomi,China,29.8 B,1.5 B,26.400,31.500,2020
+385,Hartford Financial Services,United States,20.5 B,1.7 B,68.700,13.600,2020
+386,Philips,Netherlands,21.8 B,1.3 B,30.300,38.800,2020
+387,IntercontinentalExchange,United States,6.6 B,2.1 B,138.900,49.100,2020
+388,Norfolk Southern,United States,11.1 B,2.4 B,37.400,43.800,2020
+389,BAE Systems,United Kingdom,23.4 B,1.9 B,34.500,20.600,2020
+390,Indian Oil,India,69.9 B,1.8 B,47.100,10.600,2020
+391,Bank of Ningbo,China,8.6 B,2.1 B,202.900,20.800,2020
+392,Sysco,United States,60.5 B,1.8 B,19.400,28.600,2020
+393,CNP Assurances,France,46.6 B,1.5 B,470.300,7.100,2020
+394,Denso,Japan,47.4 B,626 M,52.400,27.600,2020
+395,Newmont Mining,United States,9.7 B,2.8 B,40.000,48.000,2020
+396,National Commercial Bank,Saudi Arabia,6.8 B,3.1 B,135.200,29.600,2020
+397,Adidas,Germany,25 B,1.5 B,22.800,44.900,2020
+398,CTBC Financial,Taiwan,14.1 B,1.4 B,207.500,13.100,2020
+399,Danske Bank,Denmark,16 B,1.5 B,589.300,10.100,2020
+400,China National Building,China,36.6 B,1.6 B,64.100,10.600,2020
+401,Richemont,Switzerland,16.4 B,1.6 B,34.000,32.100,2020
+402,Sberbank,Russia,47.6 B,10.6 B,410.000,59.900,2020
+403,VMware,United States,10.2 B,6.4 B,26.300,55.000,2020
+404,Nippon Steel,Japan,55.7 B,2.3 B,71.400,7.900,2020
+405,Komatsu,Japan,23.2 B,1.9 B,34.300,18.200,2020
+406,Transneft,Russia,16.4 B,2.8 B,54.300,13.400,2020
+407,Talanx,Germany,43.6 B,1 B,193.000,9.000,2020
+408,Xcel Energy,United States,11.5 B,1.4 B,52.700,33.400,2020
+409,Consolidated Edison,United States,12.5 B,1.3 B,58.100,26.300,2020
+410,Naturgy Energy Group,Spain,24.2 B,1.4 B,44.000,17.100,2020
+411,Fiserv,United States,10.2 B,893 M,77.500,69.700,2020
+412,Bank Of Jiangsu,China,13.8 B,2 B,309.800,9.900,2020
+413,Boeing,United States,70.6 B,-3.4 B,143.100,79.600,2020
+414,Waste Management,United States,15.5 B,1.7 B,28.200,42.400,2020
+415,Woolworths,Australia,43 B,1.1 B,25.800,29.500,2020
+416,Texas Instruments,United States,14.1 B,4.9 B,17.300,106.500,2020
+417,Hyundai Mobis,South Korea,31.9 B,1.8 B,38.700,13.200,2020
+418,Adobe,United States,11.6 B,3.2 B,21.200,170.400,2020
+419,DuPont de Nemours,United States,35.7 B,496 M,69.400,34.500,2020
+420,Hana Financial Group,South Korea,28.3 B,2.1 B,364.500,6.600,2020
+421,L3Harris Technologies,United States,12.9 B,1.3 B,38.300,42.000,2020
+422,Fujitsu,Japan,35.7 B,1.4 B,28.700,20.000,2020
+423,Shimao Property Holdings,Hong Kong,16.2 B,1.6 B,67.700,13.900,2020
+424,Norilsk Nickel,Russia,13.6 B,5.8 B,19.400,43.800,2020
+425,Imperial Brands,United Kingdom,20.5 B,1.3 B,41.600,20.000,2020
+426,China Zheshang Bank,China,13.4 B,1.7 B,257.700,10.300,2020
+427,Tokyo Electric Power,Japan,58.9 B,5.2 B,110.800,5.400,2020
+428,Fast Retailing,Japan,20.5 B,1.4 B,22.800,49.200,2020
+429,Emerson Electric,United States,18 B,2.2 B,21.700,34.100,2020
+430,Toyota Industries,Japan,20 B,1.3 B,48.900,15.800,2020
+431,Femsa,Mexico,26.3 B,1 B,33.800,23.400,2020
+432,Hewlett Packard Enterprise,United States,28.4 B,1.2 B,52.200,13.000,2020
+433,China Yangtze Power,China,7.5 B,3.4 B,41.800,54.400,2020
+434,Recruit Holdings,Japan,21.9 B,1.8 B,18.300,49.100,2020
+435,Keurig Dr Pepper,United States,11.2 B,1.2 B,48.800,37.200,2020
+436,Applied Materials,United States,15 B,2.8 B,19.800,45.600,2020
+437,Edison International,United States,12.3 B,1.3 B,64.400,21.300,2020
+438,Principal Financial Group,United States,17.1 B,1.3 B,246.900,10.000,2020
+439,AIRBUS,Netherlands,76.2 B,-2.1 B,128.400,49.600,2020
+440,CME Group,United States,5.2 B,2.4 B,137.900,63.900,2020
+441,OMV Group,Austria,26.3 B,1.9 B,47.700,10.700,2020
+442,Marubeni,Japan,63.6 B,1.4 B,62.700,8.500,2020
+443,AmerisourceBergen,United States,182.1 B,649 M,40.000,18.500,2020
+444,Larsen & Toubro,India,20.8 B,1.4 B,40.400,16.800,2020
+445,Bouygues,France,42.5 B,1.3 B,44.200,11.700,2020
+446,Nutrien,Canada,20 B,999 M,46.800,20.400,2020
+447,Kansai Electric Power,Japan,30.1 B,1.5 B,68.600,9.200,2020
+448,Sherwin-Williams,United States,18 B,1.6 B,20.600,48.700,2020
+449,Fujifilm Holdings,Japan,21.7 B,1.4 B,31.800,19.700,2020
+450,American Tower,United States,7.8 B,1.9 B,40.800,105.500,2020
+451,Pernod Ricard,France,10.6 B,1.6 B,36.800,40.000,2020
+452,VTB Bank,Russia,23 B,2.9 B,249.800,6.100,2020
+453,Telstra,Australia,16.6 B,1.4 B,32.000,23.700,2020
+454,Lennar,United States,22.9 B,2 B,29.200,15.600,2020
+455,Chubu Electric Power,Japan,28.6 B,1.6 B,49.800,10.300,2020
+456,Ecolab,United States,15 B,1.5 B,22.300,56.000,2020
+457,Cummins,United States,22.6 B,2.1 B,20.100,24.100,2020
+458,Marriott International,United States,21 B,1.3 B,25.100,29.500,2020
+459,SEB AB,Sweden,7.2 B,1.9 B,331.600,17.800,2020
+460,Investor AB,Sweden,7.3 B,2.7 B,48.700,38.500,2020
+461,JBS,Brazil,51.8 B,1.5 B,31.400,11.700,2020
+462,CaixaBank,Spain,11.3 B,1.4 B,456.900,10.700,2020
+463,National Bank of Canada,Canada,9 B,1.7 B,218.700,13.600,2020
+464,Svenska Handelsbanken,Sweden,7.2 B,1.7 B,363.000,18.300,2020
+465,Vodafone,United Kingdom,49.4 B,-2.5 B,174.400,37.900,2020
+466,Sampo,Finland,12.7 B,1.3 B,58.100,18.400,2020
+467,Power Construction Corporation of China,China,50.1 B,1 B,116.700,7.700,2020
+468,Carnival,United States,20.9 B,1.9 B,46.900,10.900,2020
+469,Eni,Italy,72.5 B,-4.3 B,131.700,34.100,2020
+470,The EstÃ©e Lauder Companies,United States,15.8 B,1.9 B,17.900,63.400,2020
+471,Fifth Third Bank,United States,9 B,1.8 B,185.400,13.300,2020
+472,ViacomCBS,United States,18.1 B,2.1 B,49.500,10.600,2020
+473,Al Rajhi Bank,Saudi Arabia,5.3 B,2.8 B,102.400,38.100,2020
+474,China Fortune Land Development,China,15.1 B,2.1 B,67.000,10.100,2020
+475,Kimberly-Clark,United States,18.8 B,2.4 B,15.700,47.200,2020
+476,Fortescue Metals Group,Australia,12.9 B,5 B,21.300,24.100,2020
+477,Public Service Enterprise Group,United States,9.5 B,1.7 B,47.700,25.600,2020
+478,KIA Motors,South Korea,50.9 B,1.2 B,45.800,9.800,2020
+479,Subaru,Japan,30 B,1.3 B,29.100,15.600,2020
+480,Suzuki Motor,Japan,33.6 B,1.1 B,31.700,15.700,2020
+481,Mitsubishi Heavy Industries,Japan,37 B,1.5 B,51.000,8.700,2020
+482,Southwest Airlines,United States,21.5 B,1.8 B,26.900,15.900,2020
+483,Mitsubishi Estate,Japan,11.2 B,1.1 B,55.200,22.300,2020
+484,Glencore International,Switzerland,215.1 B,-416 M,124.100,24.500,2020
+485,Aon,Ireland,11 B,1.5 B,29.400,39.900,2020
+486,Ford Motor,United States,149.9 B,-3.1 B,264.200,20.200,2020
+487,Bank Central Asia,Indonesia,6 B,2 B,66.200,42.800,2020
+488,Thales,France,20.6 B,1.3 B,35.000,16.100,2020
+489,NVIDIA,United States,10.9 B,2.8 B,17.300,179.000,2020
+490,Suning.com,China,38.8 B,1.4 B,34.000,10.900,2020
+491,Takeda Pharmaceutical,Japan,29.7 B,-498 M,119.900,56.600,2020
+492,EnBW-Energie Baden,Germany,22.3 B,822 M,52.400,14.700,2020
+493,Valero Energy,United States,106.1 B,422 M,47.700,25.800,2020
+494,Colgate-Palmolive,United States,15.7 B,2.4 B,15.000,60.300,2020
+495,Bank Mandiri,Indonesia,8.6 B,1.9 B,95.000,14.000,2020
+496,H&M - Hennes & Mauritz,Sweden,24.8 B,1.5 B,19.300,23.100,2020
+497,NTPC,India,13.5 B,1.8 B,47.700,12.600,2020
+498,Murata Manufacturing,Japan,14 B,1.7 B,20.600,36.000,2020
+499,SingTel,Singapore,12.5 B,933 M,36.400,32.700,2020
+500,Las Vegas Sands,United States,11.9 B,2.1 B,21.200,36.700,2020
+501,Magna International,Canada,39.4 B,1.8 B,25.800,11.700,2020
+502,Weichai Power,China,24.1 B,1.2 B,33.100,13.900,2020
+503,Fairfax Financial,Canada,20.7 B,2 B,70.500,7.500,2020
+504,China Tower Corp.,China,11.1 B,756 M,48.500,39.300,2020
+505,Compass Group,United Kingdom,31.7 B,1.4 B,16.400,26.800,2020
+506,Entergy,United States,10.8 B,1.3 B,51.700,19.200,2020
+507,Erste Group Bank,Austria,11.2 B,1.5 B,276.700,8.900,2020
+508,Toyota Tsusho,Japan,61.6 B,1.2 B,42.100,8.500,2020
+509,Citic Securities,China,6 B,1.8 B,113.700,23.400,2020
+510,Samsung C&T,South Korea,25.7 B,970 M,34.800,14.300,2020
+511,Illinois Tool Works,United States,14.1 B,2.5 B,15.100,51.600,2020
+512,Nissan Motor,Japan,96.3 B,383 M,166.400,13.500,2020
+513,FedEx,United States,69.7 B,-350 M,70.000,33.100,2020
+514,Vale,Brazil,36.2 B,179 M,84.800,42.500,2020
+515,eBay,United States,10.5 B,4.7 B,18.900,31.700,2020
+516,Wesfarmers,Australia,19.9 B,1.4 B,18.300,28.000,2020
+517,Bank of Nanjing,China,8.7 B,1.7 B,209.000,10.900,2020
+518,M&G,United Kingdom,41.7 B,1.4 B,283.900,4.300,2020
+519,Asahi Group Holdings,Japan,19.2 B,1.3 B,28.900,16.000,2020
+520,Atlantia,Italy,10.4 B,1.2 B,91.100,13.300,2020
+521,DTE Energy,United States,12 B,1.1 B,43.200,20.000,2020
+522,Kotak Mahindra Bank,India,7.4 B,1.2 B,56.500,34.600,2020
+523,Aegon,Netherlands,29.5 B,1.4 B,470.900,5.300,2020
+524,Carrier Global,United States,18.6 B,2.1 B,22.400,15.300,2020
+525,United Airlines Holdings,United States,41.6 B,1 B,53.100,8.500,2020
+526,Northern Trust,United States,6.9 B,1.5 B,161.700,16.500,2020
+527,Swisscom,Switzerland,11.5 B,1.7 B,25.000,26.900,2020
+528,CNH Industrial,United Kingdom,28.1 B,1.4 B,47.400,8.400,2020
+529,Kubota,Japan,17.6 B,1.4 B,28.900,15.400,2020
+530,Samsung Life Insurance,South Korea,23.8 B,838 M,270.400,7.200,2020
+531,Best Buy,United States,43.6 B,1.5 B,15.600,19.800,2020
+532,Haier Smart Home,China,27.6 B,1.1 B,26.600,14.400,2020
+533,Cognizant,United States,16.8 B,1.8 B,16.200,31.800,2020
+534,Nintendo,Japan,11.2 B,2 B,17.500,49.700,2020
+535,McKesson,United States,224.9 B,-917 M,60.900,25.000,2020
+536,FirstRand,South Africa,7.5 B,2 B,122.700,12.400,2020
+537,China Cinda Asset Management,China,11.1 B,1.9 B,217.200,7.400,2020
+538,Hengli Petrochemical,China,16.2 B,1.7 B,27.800,14.100,2020
+539,Tatneft,Russia,14.8 B,3 B,19.900,16.700,2020
+540,Tenaga Nasional,Malaysia,12.3 B,1.1 B,43.700,16.200,2020
+541,SK Holdings,South Korea,85.1 B,615 M,114.200,7.300,2020
+542,Deutsche Bank,Germany,37.7 B,-6.1 B,1636.200,15.300,2020
+543,M&T Bank,United States,6.8 B,1.7 B,124.600,14.600,2020
+544,Standard Bank Group,South Africa,9.3 B,1.8 B,162.700,8.900,2020
+545,China Taiping Insurance,Hong Kong,31.8 B,1.1 B,116.300,6.100,2020
+546,Telecom Italia,Italy,20.1 B,1 B,78.700,8.300,2020
+547,Astellas Pharma,Japan,11.8 B,2 B,18.300,30.700,2020
+548,Veolia Environnement,France,30.4 B,693 M,46.000,11.800,2020
+549,Grupo Mexico,Mexico,10.7 B,2.2 B,29.100,16.800,2020
+550,Kyocera,Japan,14.7 B,991 M,30.100,19.600,2020
+551,Rogers Communications,Canada,11.2 B,1.5 B,28.200,21.200,2020
+552,Loews,United States,14.8 B,932 M,82.200,9.800,2020
+553,Trane Technologies,Ireland,16.6 B,1.4 B,20.500,20.900,2020
+554,Air Products & Chemicals,United States,9 B,2 B,19.500,49.800,2020
+555,Aeon,Japan,78.9 B,246 M,102.600,17.100,2020
+556,Sinopharm Group,China,61.5 B,904 M,38.700,8.400,2020
+557,PPL,United States,7.8 B,1.7 B,45.700,19.500,2020
+558,EXOR,Netherlands,160.9 B,-801 M,193.800,12.700,2020
+559,RELX,United Kingdom,10 B,1.9 B,18.300,43.600,2020
+560,Lincoln National,United States,17.2 B,885 M,335.900,6.900,2020
+561,Allergan,Ireland,16.1 B,-5.3 B,94.700,61.600,2020
+562,NetEase,China,9.8 B,3.1 B,16.100,44.500,2020
+563,Naspers,South Africa,3.3 B,4.4 B,35.200,67.800,2020
+564,Grupo ACS,Spain,43.7 B,1.1 B,43.300,7.600,2020
+565,TELUS,Canada,11 B,1.3 B,29.300,20.700,2020
+566,MTR,Hong Kong,7 B,1.5 B,37.100,34.200,2020
+567,KeyCorp,United States,7.6 B,1.5 B,156.200,11.200,2020
+568,Prologis,United States,3.5 B,1.7 B,55.000,65.900,2020
+569,Evonik,Germany,14.7 B,2.4 B,26.200,11.500,2020
+570,Citizens Financial Group,United States,7.7 B,1.8 B,176.700,9.600,2020
+571,D.R. Horton,United States,18.5 B,1.9 B,17.100,17.200,2020
+572,Dow,United States,41.8 B,-1.7 B,60.700,27.200,2020
+573,Orsted,Denmark,8.1 B,1.3 B,28.500,42.500,2020
+574,Willis Towers Watson,United Kingdom,9.2 B,1.1 B,37.700,23.000,2020
+575,DISH Network,United States,12.8 B,1.4 B,33.600,13.100,2020
+576,Athene Holding,Bermuda,11.7 B,2.2 B,146.900,6.200,2020
+577,Swedbank,Sweden,6.2 B,1.3 B,270.000,13.200,2020
+578,Salesforce.com,United States,17.1 B,126 M,55.100,144.900,2020
+579,Altria Group,United States,20.5 B,-880 M,52.600,72.900,2020
+580,Otsuka Holding,Japan,12.8 B,1.2 B,23.800,21.600,2020
+581,Eversource Energy,United States,8.5 B,909 M,41.100,26.700,2020
+582,Sekisui House,Japan,22.1 B,1.3 B,24.300,11.800,2020
+583,Parker-Hannifin,United States,14.2 B,1.3 B,20.400,20.300,2020
+584,Discovery,United States,11.1 B,2 B,33.700,11.700,2020
+585,Banorte,Mexico,11 B,1.8 B,74.000,8.000,2020
+586,Tesla,United States,26 B,-144 M,37.300,144.200,2020
+587,TD Ameritrade Holding,United States,5.8 B,1.9 B,51.000,21.200,2020
+588,Baxter International,United States,11.5 B,1 B,19.100,45.000,2020
+589,Deutsche Boerse,Germany,3.7 B,1.1 B,154.000,28.500,2020
+590,Saudi Electricity,Saudi Arabia,17.3 B,370 M,127.900,18.900,2020
+591,Associated British Foods,United Kingdom,20.3 B,901 M,20.500,18.900,2020
+592,Sumitomo Realty,Japan,9.3 B,1.3 B,47.800,12.900,2020
+593,WH Group,Hong Kong,24.1 B,1.5 B,17.300,14.200,2020
+594,Korea Electric Power,South Korea,50.7 B,-2 B,170.900,12.600,2020
+595,Williams,United States,8.2 B,850 M,47.700,23.500,2020
+596,WEC Energy Group,United States,7.5 B,1.1 B,35.800,28.600,2020
+597,Inpex,Japan,12.2 B,1.5 B,44.600,9.400,2020
+598,Edp-energias De Portugal,Portugal,16.1 B,573 M,47.600,15.300,2020
+599,Mitsubishi Chemical,Japan,34.1 B,732 M,49.800,8.200,2020
+600,Dollar Tree,United States,23.6 B,827 M,19.600,18.900,2020
+601,Bharat Petroleum,India,42.6 B,1.1 B,20.500,10.700,2020
+602,Infosys,India,12.8 B,2.3 B,12.300,40.600,2020
+603,MGM Resorts,United States,12 B,2.8 B,39.100,8.300,2020
+604,Kao,Japan,13.7 B,1.4 B,14.500,37.400,2020
+605,International Paper,United States,22.1 B,660 M,33.200,13.500,2020
+606,CGN Power,China,8.8 B,1.2 B,54.600,12.600,2020
+607,Formosa Petrochemical,Taiwan,20.9 B,1.2 B,13.300,28.700,2020
+608,PPG,United States,14.9 B,1.2 B,18.100,21.400,2020
+609,Swire Pacific,Hong Kong,10.9 B,1.1 B,56.600,9.900,2020
+610,Coca-Cola European Partners,United Kingdom,13.4 B,1.2 B,21.000,18.100,2020
+611,CSL,Australia,8.9 B,2 B,14.100,92.000,2020
+612,Coal India,India,13.8 B,2.6 B,19.700,12.300,2020
+613,Woori Financial Group,South Korea,16.7 B,1.1 B,301.100,5.000,2020
+614,Daiichi Sankyo,Japan,9 B,1.2 B,19.500,44.700,2020
+615,SK Telecom,South Korea,15.2 B,750 M,38.600,12.700,2020
+616,Fox,United States,11.7 B,1.8 B,20.500,15.700,2020
+617,Crown Castle International,United States,5.8 B,911 M,38.600,66.400,2020
+618,Ageas,Belgium,12.4 B,1.1 B,122.000,6.900,2020
+619,Republic Services,United States,10.3 B,1.1 B,22.700,25.000,2020
+620,Metallurgical Corp of China,China,49.8 B,964 M,67.600,3.600,2020
+621,Neste,Finland,17 B,1.9 B,10.800,27.200,2020
+622,MÃ¸ller-Maersk,Denmark,38.9 B,-73 M,55.400,20.000,2020
+623,CBRE Group,United States,23.9 B,1.3 B,16.200,14.400,2020
+624,International Airlines,United Kingdom,28.6 B,1.9 B,40.000,5.600,2020
+625,Nokia,Finland,25.8 B,391 M,43.600,20.500,2020
+626,Omnicom Group,United States,14.9 B,1.3 B,23.700,12.200,2020
+627,Essity Ab,Sweden,13.8 B,1.1 B,17.400,22.800,2020
+628,Ross Stores,United States,16 B,1.7 B,10.300,32.500,2020
+629,Industrial Bank of Korea,South Korea,13.8 B,1.3 B,275.100,3.700,2020
+630,Schlumberger,United States,32.5 B,-17.9 B,48.600,23.300,2020
+631,Deutsche Lufthansa,Germany,40.8 B,1.4 B,48.700,4.300,2020
+632,Stanley Black & Decker,United States,14.2 B,919 M,22.900,17.000,2020
+633,Wheelock,Hong Kong,6.2 B,1.2 B,78.200,15.000,2020
+634,Asahi Kasei,Japan,19.9 B,1.2 B,24.900,9.900,2020
+635,Kellogg,United States,13.5 B,1 B,18.200,22.400,2020
+636,SSE,United Kingdom,9 B,1.6 B,25.800,16.300,2020
+637,Daqin Railway,China,10.9 B,1.8 B,21.000,15.100,2020
+638,Haitong Securities,China,7 B,1.4 B,91.400,10.500,2020
+639,Fidelity National Information,United States,10.3 B,298 M,83.800,81.500,2020
+640,Henderson Land,Hong Kong,3.1 B,2.2 B,58.400,19.800,2020
+641,Regions Financial,United States,6.5 B,1.4 B,133.500,10.300,2020
+642,JFE Holdings,Japan,34.9 B,1.5 B,45.400,3.900,2020
+643,NEC,Japan,28 B,762 M,28.000,10.100,2020
+644,Capgemini,France,15.8 B,958 M,20.400,15.900,2020
+645,Repsol,Spain,55.2 B,-4.3 B,65.000,13.500,2020
+646,Continental,Germany,49.8 B,-1.4 B,49.400,16.900,2020
+647,Regeneron Pharmaceuticals,United States,7.9 B,2.1 B,14.800,59.200,2020
+648,New World Development,Hong Kong,7.6 B,1 B,76.200,12.000,2020
+649,Royal Caribbean Cruises,United States,11 B,1.9 B,30.300,9.800,2020
+650,ArcelorMittal,Luxembourg,70.5 B,-2.5 B,87.900,11.100,2020
+651,Reckitt Benckiser Group,United Kingdom,16.4 B,-4.7 B,42.600,59.400,2020
+652,Vonovia,Germany,4.2 B,1.3 B,63.400,26.800,2020
+653,Fortis (Canada),Canada,6.6 B,1.3 B,42.300,18.000,2020
+654,Resona Holdings,Japan,7.6 B,1.3 B,549.500,7.200,2020
+655,FirstEnergy,United States,10.9 B,533 M,42.100,22.400,2020
+656,Ally Financial,United States,11.3 B,1 B,182.500,6.100,2020
+657,Zimmer Biomet,United States,8 B,1.1 B,24.600,24.700,2020
+658,Atlas Copco,Sweden,10.9 B,1.7 B,12.100,42.200,2020
+659,Lam Research,United States,9.6 B,2.1 B,12.900,37.100,2020
+660,CLP Holdings,Hong Kong,10.9 B,594 M,28.400,27.000,2020
+661,Cardinal Health,United States,149.7 B,-4.2 B,41.000,14.400,2020
+662,Activision Blizzard,United States,6.5 B,1.5 B,19.800,49.100,2020
+663,West Japan Railway,Japan,13.9 B,822 M,30.300,11.900,2020
+664,Public Bank,Malaysia,5 B,1.3 B,105.800,14.800,2020
+665,WPP,United Kingdom,16.9 B,702 M,41.500,9.500,2020
+666,CarMax,United States,20.3 B,888 M,21.300,12.000,2020
+667,CNPC Capital,China,5.4 B,1.1 B,134.000,12.900,2020
+668,Simon Property Group,United States,5.7 B,2.1 B,31.200,20.400,2020
+669,Occidental Petroleum,United States,18.5 B,-672 M,113.000,14.900,2020
+670,London Stock Exchange,United Kingdom,3 B,532 M,1064.600,33.000,2020
+671,Eiffage,France,20.9 B,812 M,36.900,8.000,2020
+672,TE Connectivity,Switzerland,13.1 B,699 M,19.400,24.500,2020
+673,Sodexo,France,25.2 B,756 M,21.500,11.600,2020
+674,Sumitomo Electric,Japan,28.9 B,812 M,29.000,8.100,2020
+675,Porsche Automobil Holding,Germany,130 M,4.9 B,40.100,15.400,2020
+676,Reinsurance Group of America,United States,14.3 B,870 M,76.700,6.500,2020
+677,National Bank of Kuwait,Kuwait,4.6 B,1.3 B,96.500,16.300,2020
+678,HeidelbergCement,Germany,10.8 B,983 M,44.500,9.400,2020
+679,AutoZone,United States,12.1 B,1.6 B,12.900,23.800,2020
+680,Nidec,Japan,14.1 B,550 M,19.600,34.400,2020
+681,Lenovo Group,Hong Kong,51.8 B,741 M,35.000,6.500,2020
+682,Johnson Controls International,Ireland,24.1 B,278 M,42.500,22.200,2020
+683,Unipol Gruppo,Italy,17.6 B,1 B,84.300,2.500,2020
+684,S.F. Holding,China,17.4 B,781 M,13.500,29.200,2020
+685,First Republic Bank,United States,4.3 B,922 M,123.900,17.900,2020
+686,Xiamen C&D,China,50.1 B,819 M,47.100,3.400,2020
+687,Beijing-Shanghai High-Speed Railway,China,4.8 B,1.7 B,26.600,45.300,2020
+688,Hong Kong Exchanges,Hong Kong,2.1 B,1.2 B,35.800,41.100,2020
+689,CIMB Group Holdings,Malaysia,7.4 B,1.1 B,140.100,8.000,2020
+690,WestRock,United States,18.4 B,862 M,30.900,8.300,2020
+691,Telenor,Norway,13.3 B,528 M,26.400,21.900,2020
+692,Commerzbank,Germany,14.5 B,722 M,520.400,4.600,2020
+693,Siam Cement,Thailand,13.9 B,882 M,21.600,12.800,2020
+694,Tokyo Electron,Japan,10.4 B,1.7 B,11.800,33.400,2020
+695,Dongfeng Motor Group,China,14.6 B,1.9 B,39.000,5.700,2020
+696,Gemdale,China,8.4 B,1.5 B,48.100,8.600,2020
+697,Seazen Group,China,12.6 B,1.1 B,67.200,6.000,2020
+698,Huatai Securities,China,4.4 B,1.3 B,80.700,15.100,2020
+699,Wens Foodstuff Group,China,11 B,2.3 B,9.700,22.500,2020
+700,Bharti Airtel,India,12 B,-3.8 B,49.200,37.400,2020
+701,China Energy Engineering,China,35.7 B,733 M,60.500,3.200,2020
+702,Nucor,United States,22.1 B,785 M,17.900,12.400,2020
+703,Sany Heavy Industry,China,10.9 B,1.6 B,13.000,23.300,2020
+704,Ericsson,Sweden,23.8 B,215 M,29.500,28.900,2020
+705,Baidu,China,15.5 B,297 M,43.300,27.600,2020
+706,Kirin Holdings,Japan,17.8 B,547 M,22.200,16.900,2020
+707,SM Investments,Philippines,9.2 B,861 M,22.600,20.200,2020
+708,Telkom Indonesia,Indonesia,9.4 B,1.4 B,15.100,23.300,2020
+709,Riyad Bank,Saudi Arabia,3.8 B,1.5 B,70.900,13.600,2020
+710,Legend Holding,China,56.3 B,527 M,89.600,2.800,2020
+711,Grupo Aval,Colombia,11.1 B,924 M,85.000,6.300,2020
+712,Ferguson,United Kingdom,22.1 B,988 M,12.600,16.100,2020
+713,Uber,United States,14.1 B,-8.5 B,31.800,52.300,2020
+714,Kasikornbank,Thailand,8.9 B,1.1 B,106.100,6.400,2020
+715,DP World,United Arab Emirates,7.4 B,1.2 B,34.100,13.300,2020
+716,Geely Automobile Holdings,Hong Kong,14.1 B,1.2 B,15.500,14.400,2020
+717,Credicorp,Peru,5.8 B,1.3 B,56.900,11.900,2020
+718,Isbank,Turkey,13.9 B,985 M,90.300,3.200,2020
+719,LG Chem,South Korea,24.6 B,131 M,30.500,23.700,2020
+720,Analog Devices,United States,5.8 B,1.2 B,21.400,40.400,2020
+721,Guangzhou R&F,China,13.1 B,1.4 B,61.300,4.400,2020
+722,EletrobrÃ¡s,Brazil,7 B,2.7 B,44.100,8.100,2020
+723,Coles Group,Australia,25.8 B,824 M,14.200,13.500,2020
+724,HermÃ¨s International,France,7.7 B,1.7 B,11.100,76.200,2020
+725,Raiffeisen Bank International,Austria,5.3 B,8.8 B,1.300,170.800,2020
+726,S&P Global,United States,6.9 B,2.4 B,10.500,70.600,2020
+727,Axis Bank,India,11.3 B,263 M,122.700,16.700,2020
+728,Samsung Fire & Marine,South Korea,19.1 B,551 M,73.000,6.600,2020
+729,Carlsberg,Denmark,9.9 B,985 M,18.500,18.100,2020
+730,Mega Financial Holding,Taiwan,3.3 B,937 M,122.900,13.800,2020
+731,China Reinsurance Group,China,20.4 B,878 M,54.300,5.000,2020
+732,Grupa PZU,Poland,10.7 B,858 M,90.200,6.300,2020
+733,Mapfre,Spain,24.5 B,591 M,76.700,5.600,2020
+734,Keyence,Japan,5.1 B,1.8 B,17.000,87.900,2020
+735,Raymond James Financial,United States,8.3 B,959 M,49.800,9.200,2020
+736,Hikvision,China,8.1 B,1.8 B,10.300,42.500,2020
+737,Thomson Reuters,Canada,5.9 B,1.6 B,17.300,35.000,2020
+738,VF,United States,12.3 B,1.3 B,10.800,22.900,2020
+739,Aptiv,Ireland,14.4 B,990 M,13.500,17.800,2020
+740,Conagra Brands,United States,10.4 B,765 M,22.200,16.300,2020
+741,T&D Holdings,Japan,18.6 B,572 M,150.900,5.300,2020
+742,Canadian Pacific Railway,Canada,6.1 B,1.8 B,16.500,30.900,2020
+743,Link REIT,Hong Kong,1.3 B,2.3 B,29.600,18.500,2020
+744,CenturyLink,United States,22.4 B,-5.3 B,64.700,11.700,2020
+745,Siam Commercial Bank,Thailand,6.8 B,1.3 B,95.600,7.200,2020
+746,O'Reilly Automotive,United States,10.2 B,1.4 B,11.100,28.700,2020
+747,CenterPoint Energy,United States,12.1 B,791 M,36.300,8.600,2020
+748,Wanhua Chemical Group,China,9.6 B,1.3 B,15.200,20.000,2020
+749,Corteva,United States,16.7 B,-1 B,42.400,19.600,2020
+750,Vestas Wind Systems,Denmark,13.6 B,788 M,16.100,16.800,2020
+751,Guotai Junan Securities,China,4.5 B,1.2 B,80.300,12.800,2020
+752,Shengjing Bank,China,7.2 B,791 M,146.800,8.100,2020
+753,Huntington Bank,United States,5.4 B,1.1 B,113.900,9.400,2020
+754,BÃ¢loise Group,Switzerland,10.8 B,699 M,89.300,6.800,2020
+755,Fortum,Finland,6.1 B,1.7 B,26.200,14.700,2020
+756,Vistra Energy,United States,11.5 B,928 M,26.600,9.500,2020
+757,Roper Technologies,United States,5.4 B,1.6 B,18.100,35.600,2020
+758,Otis Worldwide,United States,13.1 B,1.1 B,9.700,22.000,2020
+759,Arch Capital Group,Bermuda,6.7 B,1.6 B,36.700,9.800,2020
+760,Shenzhen Overseas,China,6.6 B,1.7 B,56.900,7.600,2020
+761,CapitaLand,Singapore,5 B,1.6 B,61.200,10.800,2020
+762,Rosseti,Russia,15.9 B,1.2 B,43.500,3.500,2020
+763,Infineon Technologies,Germany,8.9 B,925 M,16.400,23.100,2020
+764,Intuit,United States,7.1 B,1.6 B,6.700,70.300,2020
+765,Formosa Chemicals,Taiwan,10.2 B,961 M,18.400,14.900,2020
+766,Kone,Finland,11.1 B,1 B,8.800,31.400,2020
+767,Unum,United States,12 B,1.1 B,68.400,3.500,2020
+768,Wuliangye Yibin,China,5.2 B,2 B,14.900,74.700,2020
+769,Publicis Groupe,France,12.3 B,941 M,36.700,7.000,2020
+770,LG Electronics,South Korea,52.5 B,411 M,37.400,8.100,2020
+771,Cheniere Energy,United States,9.3 B,648 M,38.200,11.800,2020
+772,Huishang Bank,China,7.9 B,1.4 B,162.600,4.300,2020
+773,Logan Property Holdings,China,8.4 B,1.6 B,29.600,8.700,2020
+774,UPM-Kymmene,Finland,10.9 B,1.1 B,16.400,14.800,2020
+775,PKN Orlen,Poland,29 B,1.2 B,18.800,6.400,2020
+776,Abu Dhabi Commercial Bank,United Arab Emirates,5.4 B,1.2 B,110.300,8.400,2020
+777,Suncorp Group,Australia,9.3 B,712 M,66.900,7.600,2020
+778,Zijin Mining Group,China,20.3 B,638 M,19.700,10.500,2020
+779,ZTE,China,13.1 B,740 M,20.300,12.000,2020
+780,Samba Financial Group,Saudi Arabia,2.8 B,1.1 B,68.100,12.400,2020
+781,Telia,Sweden,9.2 B,688 M,26.800,13.700,2020
+782,Kuehne & Nagel International,Switzerland,21 B,766 M,9.800,17.100,2020
+783,CP All,Thailand,17.7 B,688 M,12.500,19.700,2020
+784,Teva Pharmaceutical,Israel,17.4 B,-1 B,57.500,12.100,2020
+785,Voya Financial,United States,8.8 B,814 M,169.900,5.700,2020
+786,TDK,Japan,12.6 B,854 M,18.900,11.100,2020
+787,DSM,Netherlands,10.1 B,848 M,15.100,21.000,2020
+788,China Coal Energy,China,18.7 B,903 M,39.100,3.500,2020
+789,George Weston,Canada,37.8 B,182 M,36.900,10.900,2020
+790,Bank Of Hangzhou,China,6.5 B,917 M,137.400,7.000,2020
+791,Absa Group,South Africa,9.7 B,987 M,100.100,4.100,2020
+792,Inner Mongolia Yili,China,12.5 B,833 M,9.900,24.500,2020
+793,Secom,Japan,9.7 B,829 M,16.600,18.400,2020
+794,Pioneer Natural Resources,United States,9.7 B,751 M,20.600,14.700,2020
+795,Hilton,United States,9.5 B,881 M,15.000,21.000,2020
+796,Alexion Pharmaceuticals,United States,5 B,2.4 B,17.500,23.900,2020
+797,Renault,France,62.2 B,-158 M,137.100,5.800,2020
+798,Shin Kong Financial,Taiwan,15.6 B,536 M,132.800,3.700,2020
+799,Garanti Bank,Turkey,9.9 B,1.1 B,72.900,5.000,2020
+800,Obayashi,Japan,18.9 B,1.2 B,20.800,6.400,2020
+801,Kuwait Finance House,Kuwait,4 B,826 M,63.900,14.600,2020
+802,Nan Ya Plastics,Taiwan,9.3 B,747 M,18.500,17.700,2020
+803,Ball,United States,11.5 B,566 M,17.400,21.400,2020
+804,Deutsche Wohnen,Germany,2.6 B,1.7 B,31.700,14.500,2020
+805,Shaanxi Coal Industry,China,9.2 B,1.6 B,17.400,10.400,2020
+806,Meituan Dianping,China,14.1 B,313 M,19.000,77.900,2020
+807,Restaurant Brands International,Canada,5.6 B,1.1 B,22.400,21.700,2020
+808,Chunghwa Telecom,Taiwan,6.6 B,1.1 B,15.900,28.600,2020
+809,HCL Technologies,India,9.7 B,1.5 B,10.600,19.600,2020
+810,Ameren,United States,5.9 B,828 M,28.900,18.000,2020
+811,Schindler Holding,Switzerland,11.3 B,868 M,10.900,23.900,2020
+812,Zoetis,United States,6.3 B,1.5 B,11.500,61.400,2020
+813,Oneok,United States,9.4 B,800 M,22.000,12.400,2020
+814,Saudi British Bank,Saudi Arabia,2.9 B,803 M,70.800,13.500,2020
+815,Chongqing Rural Bank,China,7 B,1.4 B,147.900,5.000,2020
+816,Ryanair Holdings,Ireland,9.6 B,1.2 B,16.700,12.400,2020
+817,BOE Technology Group,China,16.5 B,207 M,48.100,12.300,2020
+818,Idemitsu Kosan,Japan,51.8 B,409 M,38.000,6.800,2020
+819,Toshiba,Japan,32.2 B,-1.4 B,33.100,11.400,2020
+820,Power Finance,India,7.5 B,1.4 B,91.500,3.400,2020
+821,Asr Nederland,Netherlands,9.3 B,1 B,77.600,3.800,2020
+822,STMicroelectronics,Switzerland,9.7 B,1 B,11.900,23.100,2020
+823,Assa Abloy,Sweden,9.9 B,1 B,12.800,20.000,2020
+824,QBE Insurance Group,Australia,12.2 B,567 M,40.700,8.100,2020
+825,Equitable Holdings,United States,13.6 B,-1.7 B,249.900,8.300,2020
+826,Phoenix Group Holdings,United Kingdom,37.1 B,79 M,311.600,5.500,2020
+827,CDW,United States,18 B,737 M,8.000,15.800,2020
+828,Tata Steel,India,21.1 B,773 M,34.400,4.500,2020
+829,Hormel Foods,United States,9.5 B,980 M,8.300,25.200,2020
+830,Toray Industries,Japan,20.8 B,589 M,25.600,7.500,2020
+831,Rakuten,Japan,11.6 B,-292 M,84.300,11.600,2020
+832,BYD,China,17.6 B,237 M,28.200,17.200,2020
+833,Whirlpool,United States,20 B,865 M,19.400,7.000,2020
+834,CMS Energy,United States,6.7 B,710 M,27.400,16.300,2020
+835,Quanta Computer,Taiwan,33.3 B,516 M,20.500,8.400,2020
+836,KoÃ§ Holding,Turkey,27 B,773 M,25.400,5.600,2020
+837,Banco de Sabadell,Spain,7.6 B,859 M,251.200,2.400,2020
+838,Formosa Plastics,Taiwan,6.7 B,1.2 B,16.600,18.800,2020
+839,Amphenol,United States,8.1 B,1.1 B,12.100,26.100,2020
+840,Seagate Technology,Ireland,10.4 B,1.8 B,8.800,13.000,2020
+841,OTP Bank,Hungary,5.1 B,1.4 B,61.700,8.300,2020
+842,Luxshare Precision Industry,China,10 B,729 M,7.500,35.900,2020
+843,SVB Financial Group,United States,3.5 B,984 M,75.000,9.900,2020
+844,Uni-President,Taiwan,14.5 B,615 M,15.900,13.300,2020
+845,Power Grid of India,India,5 B,1.4 B,35.600,11.300,2020
+846,Bank Leumi,Israel,4.9 B,989 M,135.800,7.900,2020
+847,DSV Panalpina,Denmark,15.2 B,455 M,14.700,23.100,2020
+848,Hershey,United States,8 B,1.1 B,8.900,27.500,2020
+849,Electronic Arts,United States,5.3 B,2.8 B,11.200,33.100,2020
+850,Akbank,Turkey,8.3 B,1.2 B,66.700,4.400,2020
+851,Hanwha,South Korea,43.2 B,77 M,157.600,1.200,2020
+852,American Financial Group,United States,7.9 B,897 M,70.300,6.000,2020
+853,Genuine Parts,United States,19.4 B,621 M,14.600,11.500,2020
+854,Trip.com Group,China,5.2 B,1 B,28.700,15.300,2020
+855,Bangkok Bank,Thailand,5.8 B,1.1 B,103.500,6.100,2020
+856,Bancolombia,Colombia,7 B,950 M,71.900,6.200,2020
+857,United Rentals,United States,9.4 B,1.2 B,18.900,9.300,2020
+858,China Gas Holdings,Hong Kong,7.5 B,1.1 B,14.200,19.300,2020
+859,Global Payments,United States,4.9 B,431 M,44.500,49.800,2020
+860,Fortive,United States,7.3 B,739 M,17.400,21.600,2020
+861,Leonardo,Italy,15.4 B,919 M,30.200,4.000,2020
+862,China Jinmao,Hong Kong,6.3 B,937 M,46.800,8.200,2020
+863,Equinix,United States,5.5 B,508 M,24.000,58.000,2020
+864,Old Mutual,South Africa,12.2 B,636 M,64.500,3.400,2020
+865,China Eastern Airlines,China,17.5 B,464 M,40.400,6.800,2020
+866,Freeport-McMoRan,United States,13.5 B,-769 M,40.200,12.800,2020
+867,Jinke Property Group,China,9.5 B,828 M,46.100,6.000,2020
+868,DaVita,United States,11.4 B,811 M,18.100,9.600,2020
+869,Sandvik,Sweden,10.6 B,759 M,12.500,19.400,2020
+870,MediaTek,Taiwan,8 B,745 M,15.300,22.100,2020
+871,China Gezhouba,China,15.7 B,788 M,33.700,4.300,2020
+872,RiseSun Real Estate Development,China,10.1 B,1.3 B,35.900,5.000,2020
+873,Intact Financial,Canada,8.7 B,568 M,23.700,13.600,2020
+874,Tohoku Electric Power,Japan,20.7 B,580 M,40.000,4.700,2020
+875,New Hope Liuhe,China,11.9 B,730 M,9.200,19.300,2020
+876,ASE Technology Holding,Taiwan,13.7 B,619 M,18.900,9.600,2020
+877,Towngas,Hong Kong,5.2 B,889 M,18.000,30.300,2020
+878,Corning,United States,11.1 B,365 M,28.900,16.700,2020
+879,T Rowe Price,United States,5.8 B,1.9 B,8.600,26.300,2020
+880,Liberty Global,United Kingdom,11.5 B,-795 M,49.000,12.300,2020
+881,Snam,Italy,2.9 B,1.2 B,26.700,14.800,2020
+882,Equity Residential,United States,2.7 B,968 M,21.200,24.200,2020
+883,Pembina Pipeline,Canada,5.4 B,1.1 B,25.600,12.600,2020
+884,Baker Hughes Company,United States,23.6 B,-10.1 B,37.200,9.100,2020
+885,NRG Energy,United States,9.7 B,4.1 B,12.500,8.400,2020
+886,Sabanci Holding,Turkey,10.7 B,665 M,68.300,2.400,2020
+887,NortonLifeLock,United States,3.7 B,3.7 B,18.500,12.800,2020
+888,Shiseido,Japan,10.4 B,675 M,11.200,23.800,2020
+889,St. James's Place,United Kingdom,21.1 B,187 M,155.300,5.700,2020
+890,Sanlam,South Africa,10.8 B,495 M,63.600,6.700,2020
+891,Vedanta Limited,India,12.5 B,1.2 B,27.000,4.400,2020
+892,China National Nuclear Power,China,6.5 B,612 M,49.800,9.600,2020
+893,Expedia Group,United States,12.1 B,565 M,21.400,10.000,2020
+894,Taisei,Japan,15.9 B,1.1 B,16.600,6.700,2020
+895,TransDigm Group,United States,6.9 B,726 M,18.200,19.500,2020
+896,Everest Re Group,Bermuda,8 B,1 B,27.300,7.900,2020
+897,Sumitomo Chemical,Japan,20.7 B,611 M,33.800,5.100,2020
+898,Aisin Seiki,Japan,34.8 B,221 M,37.000,7.900,2020
+899,IQVIA,United States,11.2 B,215 M,23.100,27.200,2020
+900,Pegatron,Taiwan,44.2 B,625 M,19.000,5.800,2020
+901,E.Sun Financial,Taiwan,2.6 B,650 M,83.300,10.700,2020
+902,Guangzhou Automobile Group,China,8.6 B,967 M,19.700,9.200,2020
+903,CEZ Group,Czech Republic,9.2 B,530 M,31.100,10.000,2020
+904,Wipro,India,8.6 B,1.4 B,10.800,14.400,2020
+905,Beiersdorf,Germany,8.6 B,804 M,11.400,23.700,2020
+906,Guangzhou Rural Commercial Bank,China,5.9 B,1.1 B,128.500,4.600,2020
+907,ITC,India,5.5 B,1.6 B,10.100,29.800,2020
+908,CIFI Holdings Group,China,7.9 B,932 M,46.300,6.000,2020
+909,China Southern Airlines,China,22.3 B,384 M,44.100,6.400,2020
+910,Yanzhou Coal Mining,China,9.8 B,1.4 B,30.300,3.700,2020
+911,Nedbank,South Africa,7.6 B,852 M,81.800,2.800,2020
+912,E-Trade Financial,United States,3.1 B,846 M,67.900,9.000,2020
+913,Motorola Solutions,United States,7.9 B,869 M,10.600,24.700,2020
+914,Daiwa Securities,Japan,6.5 B,573 M,224.600,6.400,2020
+915,Vertex Pharmaceuticals,United States,4.8 B,1.5 B,8.900,65.100,2020
+916,Gallagher,United States,6.9 B,681 M,20.800,14.900,2020
+917,Moody's,United States,5 B,1.5 B,11.300,45.700,2020
+918,Western Digital,United States,16.1 B,-595 M,25.500,13.800,2020
+919,GF Securities,China,4 B,1.1 B,56.600,8.300,2020
+920,Akzo Nobel,Netherlands,10.2 B,653 M,14.600,14.900,2020
+921,Rolls-Royce Holdings,United Kingdom,21.2 B,-1.7 B,42.700,8.000,2020
+922,Alleghany,United States,8.4 B,858 M,27.100,7.700,2020
+923,WW Grainger,United States,11.7 B,769 M,7.200,14.700,2020
+924,BAIC Motor,China,25.3 B,575 M,27.700,3.500,2020
+925,Shanghai International Port,China,5.2 B,1.3 B,20.400,13.700,2020
+926,Stora Enso,Finland,10.7 B,889 M,15.900,9.300,2020
+927,Fukuoka Financial Group,Japan,2.5 B,1.5 B,235.400,2.800,2020
+928,Constellation Brands,United States,8.3 B,-12 M,27.300,31.400,2020
+929,SK Innovation,South Korea,42.8 B,-31 M,34.200,7.100,2020
+930,Tokyo Gas,Japan,17.7 B,399 M,23.500,9.700,2020
+931,Kajima,Japan,18.4 B,891 M,20.200,5.400,2020
+932,Air Canada,Canada,14.5 B,1.1 B,21.400,3.800,2020
+933,Dubai Islamic Bank,United Arab Emirates,3.7 B,1.2 B,63.100,7.200,2020
+934,Banque Saudi Fransi,Saudi Arabia,2.5 B,886 M,47.500,9.900,2020
+935,ItaÃºsa,Brazil,1.3 B,2.6 B,16.800,14.000,2020
+936,Lonza Group,Switzerland,6 B,761 M,14.300,32.400,2020
+937,BDO Unibank,Philippines,4.3 B,840 M,64.600,8.800,2020
+938,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Vietnam,3.7 B,774 M,48.500,10.800,2020
+939,Iliad,France,6 B,1.9 B,20.400,8.700,2020
+940,First Financial Holding,Taiwan,3.1 B,627 M,107.000,9.200,2020
+941,Banco BPM,Italy,5.8 B,888 M,187.500,1.800,2020
+942,Shimizu,Japan,16.1 B,1.1 B,16.900,6.000,2020
+943,Aena,Spain,4.8 B,1.5 B,16.800,19.000,2020
+944,Agile Group Holdings,China,8.7 B,1.1 B,39.200,4.400,2020
+945,Contemporary Amperex Technology,China,6.4 B,611 M,14.300,44.600,2020
+946,Isuzu Motors,Japan,19.1 B,797 M,19.600,5.700,2020
+947,Legrand,France,7.4 B,934 M,13.300,18.000,2020
+948,Digital Realty Trust,United States,3.2 B,580 M,23.100,38.800,2020
+949,Mazda Motor,Japan,32.1 B,540 M,26.400,3.600,2020
+950,Scor,France,16.5 B,472 M,50.100,5.200,2020
+951,Japan Airlines,Japan,13.6 B,1.1 B,17.900,6.100,2020
+952,Bajaj Finserv,India,7 B,570 M,33.400,10.800,2020
+953,Cintas,United States,7.3 B,950 M,7.900,23.100,2020
+954,Intuitive Surgical,United States,4.6 B,1.4 B,9.900,59.600,2020
+955,Chugoku Electric Power,Japan,12.4 B,828 M,30.200,4.900,2020
+956,Altice USA,United States,9.8 B,163 M,35.000,15.500,2020
+957,CGI Group,Canada,9.8 B,163 M,35.000,15.500,2020
+958,PKO Bank Polski,Poland,4.8 B,1.1 B,91.900,6.600,2020
+959,Grifols,Spain,5.7 B,700 M,17.400,23.300,2020
+960,Sika,Switzerland,8.2 B,757 M,10.400,23.500,2020
+961,Huaneng Power International,China,24.9 B,29 M,61.500,5.900,2020
+962,Japan Exchange Group,Japan,1.1 B,438 M,623.300,10.100,2020
+963,Suntory Beverage & Food,Japan,11.9 B,632 M,14.400,11.700,2020
+964,Muyuan Foodstuff,China,3.6 B,1.5 B,10.000,39.100,2020
+965,Hindalco Industries,India,18.6 B,786 M,21.500,3.900,2020
+966,Sharp,Japan,21.9 B,583 M,17.800,6.800,2020
+967,American Airlines Group,United States,43.7 B,-740 M,58.600,5.100,2020
+968,Amadeus IT Group,Spain,6.2 B,1.3 B,11.700,21.700,2020
+969,Molina Healthcare,United States,16.8 B,737 M,6.800,10.000,2020
+970,Novolipetsk Steel,Russia,10.1 B,1.2 B,9.700,10.400,2020
+971,Hoya,Japan,5.3 B,1.1 B,7.500,34.700,2020
+972,Yara International,Norway,12.9 B,600 M,16.700,9.300,2020
+973,Qatar Islamic Bank,Qatar,1.5 B,784 M,45.600,10.100,2020
+974,Galaxy Entertainment,Hong Kong,3.8 B,1.7 B,12.300,28.200,2020
+975,Welltower,United States,5.1 B,484 M,33.400,21.000,2020
+976,China Development Financial,Taiwan,12.4 B,414 M,101.000,4.400,2020
+977,Helvetia Holding,Switzerland,10.6 B,543 M,63.300,4.500,2020
+978,China Hongqiao Group,China,12.2 B,880 M,25.800,4.300,2020
+979,Tokyu,Japan,10.7 B,524 M,23.200,9.200,2020
+980,Adecco,Switzerland,26.2 B,812 M,11.900,7.100,2020
+981,Emaar Properties,United Arab Emirates,7.1 B,1.7 B,31.800,5.300,2020
+982,KT,South Korea,20.9 B,531 M,29.500,4.800,2020
+983,Public Storage,United States,2.9 B,1.5 B,11.800,32.400,2020
+984,AvalonBay Communities,United States,2.3 B,784 M,19.100,22.900,2020
+985,IHS Markit,United Kingdom,4.4 B,878 M,16.400,26.800,2020
+986,Taiwan Cooperative Financial,Taiwan,3.1 B,558 M,124.700,8.800,2020
+987,PG&E,United States,17.1 B,-7.6 B,94.000,5.600,2020
+988,Toppan Printing,Japan,13.5 B,966 M,20.700,5.200,2020
+989,Mitsubishi UFJ Lease,Japan,8.5 B,692 M,54.200,4.300,2020
+990,Yum! Brands,United States,5.6 B,1.1 B,6.100,26.000,2020
+991,Turkish Airlines,Turkey,13.2 B,798 M,24.700,2.100,2020
+992,Amcor,United Kingdom,11.1 B,445 M,16.800,14.400,2020
+993,Boston Properties,United States,3 B,921 M,21.800,15.100,2020
+994,Osaka Gas,Japan,12.9 B,580 M,19.600,7.800,2020
+995,Financiere de l'Odet,France,27.8 B,137 M,63.800,2.700,2020
+996,ENN Energy Holdings,China,10.2 B,824 M,11.700,12.700,2020
+997,Leidos,United States,11.1 B,667 M,9.700,14.000,2020
+998,Vornado Realty,United States,5.3 B,3.1 B,18.300,8.400,2020
+999,China Merchants Securities,China,3.5 B,938 M,54.800,7.400,2020
+1000,Macy's,United States,25.3 B,564 M,22.600,1.800,2020
+1001,Alcon,Switzerland,7.5 B,-659 M,27.700,26.000,2020
+1002,EN+ Group International,Cyprus,11.8 B,860 M,25.000,4.600,2020
+1003,Thai Beverage,Thailand,8.7 B,782 M,13.800,12.300,2020
+1004,Gecina,France,1.1 B,1.7 B,23.000,9.600,2020
+1005,VakifBank,Turkey,8.5 B,593 M,68.100,1.600,2020
+1006,Edwards Lifesciences,United States,4.5 B,1.1 B,6.100,44.900,2020
+1007,ATOS,France,13 B,525 M,20.900,7.700,2020
+1008,Skanska,Sweden,18.4 B,664 M,13.300,7.900,2020
+1009,Shanghai Pharmaceuticals,China,27 B,592 M,19.700,5.000,2020
+1010,American Water Works,United States,3.6 B,621 M,22.700,22.000,2020
+1011,Halliburton,United States,21.7 B,-2.3 B,23.600,9.200,2020
+1012,China Life Insurance (Taiwan),Taiwan,11.8 B,440 M,66.700,3.100,2020
+1013,Arab National Bank,Saudi Arabia,2.3 B,844 M,48.900,8.200,2020
+1014,Randstad N.V.,Netherlands,26.5 B,678 M,11.400,7.300,2020
+1015,KLA,United States,5.3 B,1.1 B,9.300,25.700,2020
+1016,Zhongsheng Group Holdings,China,17.9 B,651 M,9.000,9.200,2020
+1017,Guosen Securities,China,2.4 B,639 M,35.100,12.400,2020
+1018,Twitter,United States,3.5 B,1.3 B,13.500,22.500,2020
+1019,China Huarong Asset Management,China,12.9 B,216 M,244.800,4.400,2020
+1020,Dassault Systemes,France,4.5 B,689 M,15.600,37.800,2020
+1021,Polyus,Russia,4 B,1.9 B,8.300,21.800,2020
+1022,Bank Hapoalim,Israel,4.8 B,505 M,134.200,8.600,2020
+1023,Grupo Elektra,Mexico,6.2 B,839 M,18.400,11.300,2020
+1024,Finatis,France,42.7 B,-173 M,42.800,160.000,2020
+1025,NXP Semiconductors,Netherlands,8.8 B,243 M,19.500,27.800,2020
+1026,Aroundtown,Luxembourg,2.4 B,1.5 B,28.600,8.300,2020
+1027,China Mengniu Dairy,Hong Kong,11.4 B,595 M,11.300,14.000,2020
+1028,Jiangsu Zhongnan Construction Group,China,10.2 B,603 M,41.700,4.300,2020
+1029,Evergy,United States,5.1 B,670 M,26.000,13.200,2020
+1030,Givaudan,Switzerland,6.2 B,706 M,10.700,30.900,2020
+1031,JM Smucker,United States,7.6 B,621 M,16.600,13.100,2020
+1032,iA Financial Corporation,Canada,9.7 B,534 M,55.600,3.500,2020
+1033,WR Berkley,United States,7.9 B,497 M,26.100,10.100,2020
+1034,SMC,Japan,4.9 B,960 M,13.000,30.500,2020
+1035,ThyssenKrupp Group,Germany,44.7 B,-741 M,40.400,4.100,2020
+1036,AMP,Australia,15.3 B,-1.7 B,103.800,3.200,2020
+1037,Tata Motors,India,40.5 B,-150 M,42.400,4.500,2020
+1038,Illumina,United States,3.6 B,942 M,7.300,46.800,2020
+1039,Advanced Micro Devices,United States,7.2 B,487 M,5.900,61.400,2020
+1040,Microchip Technology,United States,5.3 B,645 M,17.600,21.000,2020
+1041,Pan Pacific International Holdings,Japan,15.4 B,491 M,12.200,12.300,2020
+1042,Shanghai Construction,China,28.3 B,393 M,32.800,4.100,2020
+1043,China Resources Power,Hong Kong,8.6 B,841 M,27.700,5.700,2020
+1044,MOL Hungarian Oil,Hungary,18.1 B,768 M,17.400,4.000,2020
+1045,Clorox,United States,6.1 B,816 M,5.500,23.300,2020
+1046,Krung Thai Bank,Thailand,5.2 B,906 M,96.300,4.800,2020
+1047,Kerry Group,Ireland,8.1 B,634 M,10.700,20.300,2020
+1048,BBMG,China,12.5 B,498 M,40.000,2.700,2020
+1049,Monster Beverage,United States,4.2 B,1.1 B,5.300,32.500,2020
+1050,HAL Trust,Monaco,5.8 B,745 M,22.200,10.700,2020
+1051,Severstal,Russia,7.9 B,1.4 B,7.000,10.100,2020
+1052,Genworth Financial,United States,8.5 B,464 M,101.300,1.800,2020
+1053,Bank Negara Indonesia,Indonesia,5.4 B,1.1 B,60.900,5.100,2020
+1054,Terumo,Japan,5.7 B,824 M,10.900,25.100,2020
+1055,Bank of Greece,Greece,1.3 B,943 M,122.500,286.000,2020
+1056,Eastman Chemical,United States,9.1 B,808 M,16.000,8.200,2020
+1057,Quest Diagnostics,United States,7.7 B,791 M,12.000,14.700,2020
+1058,J Sainsbury,United Kingdom,37 B,165 M,35.700,5.500,2020
+1059,Shanghai Electric Group,China,15.1 B,447 M,37.100,4.700,2020
+1060,Grasim Industries,India,11 B,576 M,34.700,4.400,2020
+1061,Eisai,Japan,6.1 B,887 M,9.700,20.200,2020
+1062,Jefferies Financial,United States,5.7 B,1 B,51.800,3.700,2020
+1063,Bank of Baroda,India,12.1 B,-50 M,159.300,3.000,2020
+1064,Rockwell Automation,United States,6.8 B,712 M,6.700,21.900,2020
+1065,Ashtead Group,United Kingdom,6.4 B,1 B,13.400,12.300,2020
+1066,Jiangsu Hengrui Medicine,China,3.4 B,782 M,4.100,58.000,2020
+1067,Rongsheng Petrochemical,China,11.9 B,319 M,26.200,10.600,2020
+1068,Advanced Info Service,Thailand,5.8 B,1 B,9.700,18.200,2020
+1069,Tokyo Century,Japan,10.2 B,476 M,50.100,4.200,2020
+1070,Align Technology,United States,2.4 B,1.9 B,4.000,16.900,2020
+1071,Charoen Pokphand Foods,Thailand,17.2 B,575 M,21.200,4.800,2020
+1072,Beijing Enterprises,Hong Kong,8.7 B,1 B,23.800,4.500,2020
+1073,Foshan Haitian Flavouring and Food,China,2.9 B,788 M,3.600,47.100,2020
+1074,Yuanta Financial Holding,Taiwan,4.1 B,661 M,80.500,6.700,2020
+1075,Mediobanca,Italy,3.4 B,940 M,92.600,5.000,2020
+1076,Swatch Group,Switzerland,8.3 B,735 M,14.100,10.300,2020
+1077,Julius Baer Group,Switzerland,4.1 B,468 M,105.400,8.500,2020
+1078,Lundbergs,Sweden,2.7 B,1.3 B,18.700,10.500,2020
+1079,Hua Nan Financial,Taiwan,2.7 B,516 M,91.100,8.000,2020
+1080,Paychex,United States,4.1 B,1.1 B,9.500,24.600,2020
+1081,Terna,Italy,2.6 B,848 M,20.300,12.600,2020
+1082,Yango Group,China,8.3 B,595 M,45.900,4.000,2020
+1083,GD Power Development,China,16.6 B,270 M,52.400,5.500,2020
+1084,LabCorp,United States,11.6 B,321 M,17.300,16.000,2020
+1085,Sun Art Retail Group,Hong Kong,13.8 B,412 M,10.200,15.900,2020
+1086,Jeronimo Martins,Portugal,20.9 B,436 M,10.900,10.600,2020
+1087,Fanuc,Japan,4.7 B,675 M,14.000,32.000,2020
+1088,Marvell Technology Group,Bermuda,2.7 B,1.6 B,11.100,17.700,2020
+1089,China Resources Pharmaceutical Group,Hong Kong,26.1 B,419 M,24.400,4.000,2020
+1090,ServiceNow,United States,3.7 B,677 M,6.200,67.000,2020
+1091,Lear,United States,19.8 B,790 M,12.700,5.800,2020
+1092,Delta Electronics,Taiwan,8.8 B,710 M,10.100,12.200,2020
+1093,Markel,United States,8.1 B,-193 M,34.800,11.900,2020
+1094,TUI,Germany,21.6 B,506 M,20.100,2.400,2020
+1095,Inter Rao,Russia,16 B,1.3 B,12.400,5.000,2020
+1096,Air France-KLM,France,30.4 B,325 M,34.500,2.200,2020
+1097,Falabella,Chile,13.4 B,420 M,24.400,6.800,2020
+1098,SDIC Power Holdings,China,5.6 B,744 M,31.100,7.400,2020
+1099,Hankyu Hanshin Holdings,Japan,7.3 B,602 M,22.900,8.400,2020
+1100,Universal Health,United States,11.4 B,721 M,11.600,9.000,2020
+1101,Yum China Holdings,China,8.2 B,553 M,6.600,18.200,2020
+1102,UCB,Belgium,5.5 B,886 M,12.400,17.300,2020
+1103,Metro,Canada,12.9 B,551 M,9.200,10.500,2020
+1104,Mylan,United Kingdom,11.5 B,17 M,31.300,8.700,2020
+1105,PulteGroup,United States,10.5 B,1 B,11.400,7.600,2020
+1106,CJ Corporation,South Korea,29 B,229 M,34.900,1.900,2020
+1107,Investec,United Kingdom,5.8 B,647 M,73.600,2.000,2020
+1108,Knorr-Bremse,Germany,7.8 B,659 M,7.900,15.000,2020
+1109,Sojitz,Japan,16.1 B,559 M,20.700,2.900,2020
+1110,Vipshop Holdings,China,13.5 B,580 M,7.000,9.400,2020
+1111,Altice Europe,Netherlands,16.6 B,275 M,53.000,4.800,2020
+1112,Textron,United States,13.3 B,686 M,15.900,6.000,2020
+1113,Brown-Forman,United States,3.4 B,858 M,5.500,29.700,2020
+1114,Assurant,United States,10.1 B,383 M,44.300,6.400,2020
+1115,Ferrovial,Spain,6.8 B,300 M,27.100,18.300,2020
+1116,JSW Steel,India,11 B,756 M,17.700,5.800,2020
+1117,Olympus,Japan,7.4 B,557 M,9.100,20.700,2020
+1118,Bank of Ireland,Ireland,7.1 B,432 M,148.000,2.200,2020
+1119,Lotte Chemical,South Korea,13 B,613 M,17.300,6.100,2020
+1120,LG Household & Health Care,South Korea,6.5 B,667 M,5.400,19.100,2020
+1121,AES,United States,10.2 B,302 M,33.600,8.800,2020
+1122,Bank Of Guiyang,China,4.2 B,862 M,79.600,3.600,2020
+1123,Kyushu Electric Power,Japan,18.5 B,-4 M,45.800,3.800,2020
+1124,Alinma Bank,Saudi Arabia,1.8 B,695 M,35.100,8.400,2020
+1125,Crown Holdings,United States,11.7 B,495 M,15.500,8.700,2020
+1126,China Steel,Taiwan,11.8 B,285 M,22.200,10.400,2020
+1127,Cadence Design,United States,2.4 B,992 M,3.800,22.700,2020
+1128,Kohl's,United States,20 B,691 M,14.600,2.900,2020
+1129,Bank of Tianjin,China,5.2 B,663 M,96.100,2.600,2020
+1130,Shenzhen Mindray Bio-Medical Electronics,China,2.4 B,677 M,3.700,44.200,2020
+1131,Vienna Insurance Group,Austria,11.6 B,371 M,55.100,2.600,2020
+1132,Agilent Technologies,United States,5.2 B,764 M,9.500,23.700,2020
+1133,Cosco Shipping,China,21.8 B,-13 M,37.600,3.500,2020
+1134,Airports of Thailand,Thailand,2 B,837 M,6.700,27.500,2020
+1135,Jiangsu Yanghe Brewery,China,2.7 B,1.1 B,7.300,21.000,2020
+1136,Fastenal,United States,5.4 B,799 M,3.900,20.700,2020
+1137,All Nippon Airways,Japan,18.2 B,254 M,23.700,7.200,2020
+1138,Attijariwafa Bank,Morocco,4.3 B,605 M,55.700,7.100,2020
+1139,X5 Retail Group,Netherlands,26.8 B,302 M,17.300,8.000,2020
+1140,SGS,Switzerland,6.6 B,664 M,6.500,17.100,2020
+1141,LG,South Korea,5.2 B,935 M,19.400,8.900,2020
+1142,C.H. Robinson,United States,15.4 B,493 M,4.800,9.300,2020
+1143,Dover,United States,7.1 B,749 M,8.900,13.500,2020
+1144,Csc Financial,China,2.9 B,742 M,41.000,7.100,2020
+1145,Interpublic Group,United States,10.2 B,669 M,16.400,6.600,2020
+1146,Dassault Aviation,France,8.3 B,798 M,17.300,6.800,2020
+1147,NVR,United States,7.2 B,866 M,3.900,11.400,2020
+1148,Origin Energy,Australia,9.6 B,705 M,17.200,6.400,2020
+1149,Ferrari,Italy,4.2 B,779 M,6.100,27.700,2020
+1150,Waste Connections,Canada,5.4 B,567 M,13.800,22.800,2020
+1151,Bio-Rad Laboratories,United States,2.3 B,1.8 B,8.000,13.200,2020
+1152,China Aoyuan Group,Hong Kong,7.3 B,609 M,41.600,3.200,2020
+1153,FleetCor Technologies,United States,2.6 B,895 M,12.200,20.600,2020
+1154,Comerica,United States,3.6 B,789 M,76.300,4.800,2020
+1155,Singapore Airlines,Singapore,12.4 B,530 M,24.300,5.100,2020
+1156,Experian,Ireland,5 B,727 M,8.600,27.000,2020
+1157,Kaisa Group Holdings,China,6.9 B,668 M,38.900,2.300,2020
+1158,Molson Coors Brewing,United States,10.4 B,-27 M,28.500,8.900,2020
+1159,AerCap Holdings,Ireland,4.9 B,1.1 B,43.700,3.700,2020
+1160,Inner Mongolia Baotou Steel,China,10.1 B,502 M,20.100,7.000,2020
+1161,Ametek,United States,5.2 B,861 M,9.800,19.200,2020
+1162,Shionogi,Japan,3.2 B,1.2 B,7.000,16.700,2020
+1163,NASDAQ,United States,4.6 B,729 M,14.800,18.100,2020
+1164,Shenwan Hongyuan Group,China,4.6 B,841 M,58.700,5.400,2020
+1165,Bank of Changsha,China,4.2 B,735 M,86.400,3.800,2020
+1166,Techtronic Industries,Hong Kong,7.7 B,615 M,7.700,13.900,2020
+1167,Huadian Power International,China,13.1 B,412 M,33.300,3.400,2020
+1168,Aluminum Corp of China,China,27.5 B,93 M,29.200,3.600,2020
+1169,Korea Gas,South Korea,21.4 B,31 M,34.000,1.900,2020
+1170,Top Frontier Investment Holdings,Philippines,19.5 B,207 M,36.200,930.000,2020
+1171,Bank Of Chengdu,China,3.2 B,765 M,76.100,4.000,2020
+1172,Mitsubishi Motors,Japan,21.9 B,477 M,17.700,4.200,2020
+1173,Scentre Group,Australia,1.8 B,820 M,28.000,7.900,2020
+1174,Partners Group Holding,Switzerland,1.8 B,906 M,4.100,20.800,2020
+1175,LKQ,United States,12.4 B,588 M,12.400,8.000,2020
+1176,VeriSign,United States,1.2 B,784 M,1.800,24.200,2020
+1177,Ulta Beauty,United States,7.4 B,706 M,5.500,12.300,2020
+1178,Globe Life,United States,4.6 B,741 M,26.000,8.800,2020
+1179,Brighthouse Financial,United States,8.3 B,-740 M,228.800,2.500,2020
+1180,Longi Green Energy Technology,China,5.1 B,938 M,8.900,16.500,2020
+1181,LARGAN Precision,Taiwan,2.1 B,974 M,5.400,18.500,2020
+1182,Campbell Soup,United States,8.3 B,508 M,11.700,15.100,2020
+1183,McCormick,United States,5.3 B,699 M,10.500,20.800,2020
+1184,Anta Sports Products,China,4.9 B,773 M,5.900,22.700,2020
+1185,MTN Group,South Africa,10.5 B,620 M,21.600,4.800,2020
+1186,Solvay,Belgium,12.6 B,133 M,23.900,8.100,2020
+1187,Nitori Holdings,Japan,5.9 B,655 M,6.300,17.400,2020
+1188,Schroders,United Kingdom,3.3 B,630 M,28.200,9.200,2020
+1189,Mondi,United Kingdom,8.1 B,908 M,9.600,8.600,2020
+1190,HollyFrontier,United States,17.5 B,771 M,12.200,5.300,2020
+1191,GS Holdings,South Korea,15.1 B,467 M,21.400,3.000,2020
+1192,Quilter,United Kingdom,10 B,55 M,84.400,2.800,2020
+1193,Ricoh,Japan,18.5 B,370 M,26.400,5.000,2020
+1194,China International Capital,China,4.2 B,604 M,49.500,6.700,2020
+1195,Galp Energia,Portugal,18.6 B,157 M,15.000,9.600,2020
+1196,Centrica,United Kingdom,28.9 B,-1.3 B,25.700,2.900,2020
+1197,Punjab National Bank,India,8.9 B,-476 M,117.500,2.900,2020
+1198,Yamaha Motor,Japan,15.3 B,695 M,14.100,4.600,2020
+1199,Db Insurance,South Korea,13.1 B,324 M,47.600,2.300,2020
+1200,Franklin Resources,United States,5.5 B,971 M,14.700,9.400,2020
+1201,Expeditors International,United States,8.2 B,590 M,3.800,12.000,2020
+1202,Wolters Kluwer,Netherlands,5.2 B,749 M,9.900,19.600,2020
+1203,Xilinx,United States,3.2 B,793 M,4.700,21.700,2020
+1204,Oriental Land,Japan,4.3 B,572 M,9.400,41.900,2020
+1205,Goodman Group,Australia,1.1 B,1 B,10.800,15.700,2020
+1206,Tractor Supply,United States,8.5 B,569 M,6.000,11.800,2020
+1207,Oji Holdings,Japan,13.9 B,555 M,17.800,5.100,2020
+1208,Invesco,United States,6.5 B,651 M,37.000,4.000,2020
+1209,Lululemon Athletica,Canada,4 B,646 M,3.300,29.200,2020
+1210,Samsung SDI,South Korea,8.6 B,260 M,17.200,15.700,2020
+1211,Zhongliang Holdings,China,8.2 B,551 M,32.200,2.600,2020
+1212,Bankinter,Spain,2.6 B,616 M,94.000,3.700,2020
+1213,Meiji Holdings,Japan,11.5 B,481 M,9.500,10.100,2020
+1214,Hesteel,China,16.5 B,347 M,30.000,3.000,2020
+1215,Coloplast,Denmark,2.7 B,596 M,2.000,33.600,2020
+1216,KWG Group Holdings,Hong Kong,3.6 B,1.4 B,30.800,4.700,2020
+1217,DXC Technology,United States,20 B,-1.6 B,29.600,4.600,2020
+1218,Jiangxi Copper,China,34.6 B,354 M,19.400,3.400,2020
+1219,China Resources Gas Group,Hong Kong,7.1 B,644 M,10.400,12.300,2020
+1220,Darden Restaurants,United States,8.8 B,636 M,10.000,9.600,2020
+1221,Aeroports de Paris,France,5.3 B,658 M,18.900,9.700,2020
+1222,Garmin,Switzerland,3.8 B,974 M,6.100,15.500,2020
+1223,Hydro One,Canada,4.9 B,600 M,20.900,10.900,2020
+1224,Datang International Power,China,13.6 B,60 M,40.500,2.700,2020
+1225,Daito Trust Construction,Japan,14.3 B,714 M,7.200,6.000,2020
+1226,LG Display,South Korea,18.9 B,-2.5 B,29.500,3.200,2020
+1227,Howmet Aerospace,United States,14.2 B,470 M,17.600,5.700,2020
+1228,Storebrand,Norway,9.6 B,235 M,72.000,2.300,2020
+1229,Valeo,France,21.8 B,350 M,21.200,5.500,2020
+1230,AntarChile,Chile,23.7 B,108 M,25.500,3.100,2020
+1231,Bunge,United States,41.1 B,-1.3 B,18.300,5.600,2020
+1232,Segro,United Kingdom,552 M,1.1 B,13.400,11.500,2020
+1233,NEXON,Japan,2.3 B,1.1 B,6.600,14.100,2020
+1234,Ayala Corp,Philippines,5.1 B,681 M,26.600,7.200,2020
+1235,Skyworks Solutions,United States,3.3 B,826 M,5.100,17.600,2020
+1236,360 Security Technology,China,1.8 B,817 M,4.700,17.900,2020
+1237,Canara Bank,India,8.3 B,104 M,103.200,1.700,2020
+1238,Arista Networks,United States,2.4 B,860 M,4.200,16.600,2020
+1239,Naver,South Korea,5.8 B,497 M,10.600,23.500,2020
+1240,Saputo,Canada,10.9 B,466 M,10.200,10.300,2020
+1241,Shanghai Commercial & Savings Bank,Taiwan,2 B,474 M,69.200,6.600,2020
+1242,Bankia,Spain,4 B,479 M,229.800,3.100,2020
+1243,Insurance Australia Group,Australia,5.5 B,598 M,20.400,8.700,2020
+1244,Ahli United Bank,Bahrain,2.1 B,695 M,40.300,6.100,2020
+1245,Transurban Group,Australia,2.8 B,161 M,25.400,24.700,2020
+1246,Olam International,Singapore,24.2 B,373 M,19.100,3.400,2020
+1247,Halkbank,Turkey,9 B,253 M,76.300,930.000,2020
+1248,Mohawk Industries,United States,10 B,744 M,13.400,6.200,2020
+1249,Hexagon,Sweden,4.3 B,766 M,11.800,18.300,2020
+1250,AGC,Japan,13.9 B,408 M,21.500,5.600,2020
+1251,J.B. Hunt Transport Services,United States,9.4 B,502 M,5.400,10.700,2020
+1252,Zions Bancorp,United States,3.2 B,614 M,71.500,5.200,2020
+1253,Hess,United States,6.5 B,-408 M,21.800,14.900,2020
+1254,Power Assets Holdings,Hong Kong,172 M,910 M,12.000,14.300,2020
+1255,Jones Lang LaSalle,United States,18 B,535 M,13.700,5.500,2020
+1256,OMRON,Japan,6.2 B,698 M,7.000,12.000,2020
+1257,GAIL India,India,10.9 B,936 M,9.900,5.800,2020
+1258,Annaly Capital Management,United States,2.3 B,-5 B,96.900,8.900,2020
+1259,HNA Technology,China,47.3 B,76 M,18.300,1.200,2020
+1260,Masraf Al Rayan,Qatar,1 B,599 M,30.000,7.900,2020
+1261,Realty Income,United States,1.5 B,437 M,18.600,18.900,2020
+1262,KPN,Netherlands,6.2 B,687 M,13.800,9.700,2020
+1263,Wuchan Zhongda Group,China,51 B,350 M,16.000,3.400,2020
+1264,Midea Real Estate Holding,China,6 B,621 M,35.800,3.100,2020
+1265,Sasol,South Africa,13.8 B,-442 M,34.800,2.900,2020
+1266,Cosmo Energy Holdings,Japan,24.9 B,402 M,16.600,1.300,2020
+1267,Citrix Systems,United States,3.2 B,753 M,4.300,17.900,2020
+1268,Copart,United States,2.2 B,733 M,3.000,18.700,2020
+1269,Cerner,United States,5.7 B,510 M,6.700,21.100,2020
+1270,Wm Morrison Supermarkets,United Kingdom,22.4 B,445 M,14.400,5.500,2020
+1271,Umicore,Belgium,19.6 B,322 M,8.000,10.400,2020
+1272,Brenntag,Germany,14.4 B,522 M,9.800,7.000,2020
+1273,Metro Group,Germany,29.8 B,-405 M,20.400,3.200,2020
+1274,Check Point Software,Israel,2 B,824 M,5.600,15.400,2020
+1275,Banca Mediolanum,Italy,4.3 B,633 M,59.900,4.500,2020
+1276,Kintetsu,Japan,11.3 B,307 M,17.900,9.200,2020
+1277,Hyundai Steel,South Korea,17 B,-179 M,27.900,2.300,2020
+1278,Bank of Jinzhou,China,7.5 B,-165 M,120.100,2.200,2020
+1279,Popular,Puerto Rico,2.9 B,671 M,52.100,3.400,2020
+1280,Yonghui Superstores,China,13.2 B,288 M,7.400,13.600,2020
+1281,China Galaxy Securities,China,3 B,757 M,45.300,5.200,2020
+1282,Shenzhou International Group Holdings,Hong Kong,3.3 B,737 M,4.600,17.500,2020
+1283,Fidelity National Financial,United States,8.4 B,795 M,10.200,7.400,2020
+1284,NetApp,United States,5.6 B,1 B,7.500,9.700,2020
+1285,Hyundai Marine & Fire,South Korea,11.9 B,214 M,39.200,1.700,2020
+1286,Emera,Canada,4.4 B,534 M,24.600,9.700,2020
+1287,3i Group,United Kingdom,463 M,1.6 B,11.400,9.600,2020
+1288,Lotte Shopping,South Korea,15.1 B,-780 M,29.400,2.300,2020
+1289,Melrose Industries,United Kingdom,14 B,-50 M,23.900,6.100,2020
+1290,Bank of Chongqing,China,3.6 B,567 M,72.000,1.700,2020
+1291,Mahindra & Mahindra,India,14.5 B,291 M,23.500,6.100,2020
+1292,TCL,China,8.5 B,323 M,24.400,8.900,2020
+1293,Korea Investment Holdings,South Korea,2.6 B,652 M,52.500,2.400,2020
+1294,BCI-Banco Credito,Chile,3.8 B,572 M,66.900,5.300,2020
+1295,RHB Bank,Malaysia,2.8 B,599 M,63.000,4.400,2020
+1296,ALFA,Mexico,17.2 B,412 M,18.200,2.100,2020
+1297,Unicharm,Japan,6.6 B,423 M,8.000,22.000,2020
+1298,Maxim Integrated Products,United States,2.2 B,815 M,3.500,14.800,2020
+1299,Shinsei Bank,Japan,2.8 B,512 M,93.100,2.900,2020
+1300,Signature Bank,United States,2 B,543 M,53.100,5.900,2020
+1301,Penske Automotive,United States,23.2 B,436 M,14.600,2.900,2020
+1302,Concordia Financial Group,Japan,2.8 B,446 M,175.200,3.600,2020
+1303,Hyundai Heavy Industries Holdings,South Korea,21.8 B,-218 M,22.200,2.900,2020
+1304,MSCI,United States,1.6 B,534 M,3.900,27.800,2020
+1305,Chiba Bank,Japan,2 B,459 M,144.400,3.400,2020
+1306,Jiangsu Zhangjiagang Rural Commercial Bank,China,5.7 B,1.4 B,18.000,1.400,2020
+1307,Verbund,Austria,4.4 B,621 M,13.300,15.700,2020
+1308,Keysight Technologies,United States,4.4 B,670 M,6.800,18.100,2020
+1309,Ventas,United States,3.9 B,433 M,24.700,12.100,2020
+1310,Samsung SDS,South Korea,9 B,479 M,7.400,10.300,2020
+1311,Harbin Bank,China,4.8 B,518 M,83.700,1.900,2020
+1312,Hopson Development Holdings,Hong Kong,2.4 B,1.2 B,26.200,2.500,2020
+1313,Mirae Asset Daewoo,South Korea,3.9 B,477 M,113.500,3.200,2020
+1314,SYNNEX,United States,23.8 B,531 M,11.700,4.500,2020
+1315,Westinghouse Air Brake Technologies,United States,8.2 B,326 M,18.900,10.700,2020
+1316,Church & Dwight,United States,4.5 B,670 M,7.500,17.200,2020
+1317,Luzhou Lao Jiao,China,1.9 B,694 M,4.200,16.400,2020
+1318,Alliant Energy,United States,3.6 B,567 M,17.200,11.900,2020
+1319,Tenet Healthcare,United States,18.5 B,-232 M,23.400,2.100,2020
+1320,Mizrahi Tefahot Bank,Israel,3 B,517 M,79.100,4.900,2020
+1321,Sunny Optical Technology Group,China,5.5 B,575 M,4.400,15.600,2020
+1322,Schaeffler,Germany,16.1 B,479 M,15.000,4.500,2020
+1323,China Shipbuilding Industry,China,5.5 B,73 M,26.200,13.500,2020
+1324,Smith & Nephew,United Kingdom,5.1 B,600 M,9.300,17.200,2020
+1325,Tingyi Holding,China,9 B,482 M,8.300,10.000,2020
+1326,CJ Cheiljedang,South Korea,19.2 B,131 M,22.700,3.600,2020
+1327,Cemex,Mexico,13.5 B,88 M,29.400,3.200,2020
+1328,Woodside Petroleum,Australia,4.9 B,335 M,29.400,14.000,2020
+1329,Spotify Technology,Luxembourg,7.6 B,-210 M,5.700,27.700,2020
+1330,Bandai Namco Holdings,Japan,6.8 B,576 M,5.700,11.200,2020
+1331,Doosan,South Korea,16.1 B,-151 M,25.200,561.000,2020
+1332,Qantas Airways,Australia,12.4 B,582 M,14.300,3.700,2020
+1333,Quinenco,Chile,8.2 B,278 M,63.400,2.400,2020
+1334,Times Property Holdings,China,6.2 B,749 M,23.100,3.300,2020
+1335,East West Bancorp,United States,2.1 B,655 M,45.900,5.000,2020
+1336,Starwood Property Trust,United States,1.3 B,506 M,78.000,3.700,2020
+1337,Ooredoo Q.P.S.C,Qatar,8.2 B,474 M,24.200,5.600,2020
+1338,People's United Financial,United States,2.4 B,536 M,60.400,5.400,2020
+1339,RenaissanceRe Holdings,Bermuda,4.2 B,740 M,25.600,6.400,2020
+1340,Dentsu,Japan,9.6 B,-742 M,34.900,5.900,2020
+1341,Banco Btg Pactual,Brazil,3.3 B,646 M,40.300,5.600,2020
+1342,Bombardier,Canada,15.8 B,-1.8 B,25.000,860.000,2020
+1343,Celanese,United States,6.1 B,733 M,9.500,9.800,2020
+1344,Yunnan Baiyao Group,China,4.4 B,663 M,7.300,16.400,2020
+1345,Zhongyuan Bank,China,4.8 B,461 M,101.900,3.500,2020
+1346,AGL Energy,Australia,9.2 B,652 M,10.200,7.000,2020
+1347,Jacobs,United States,13 B,-17 M,12.200,11.000,2020
+1348,Cathay Pacific Airways,Hong Kong,13.7 B,216 M,27.500,4.700,2020
+1349,Bank of India,India,7.1 B,109 M,89.200,1.500,2020
+1350,Hunan Valin Steel,China,14.5 B,614 M,12.200,3.500,2020
+1351,Bausch Health Companies,Canada,8.6 B,-1.8 B,33.900,6.400,2020
+1352,Keppel,Singapore,5.8 B,484 M,22.800,7.700,2020
+1353,Greentown China Holdings,China,9 B,178 M,48.400,2.300,2020
+1354,Cincinnati Financial,United States,6.8 B,76 M,23.300,10.600,2020
+1355,IndusInd Bank,India,5 B,629 M,40.600,4.300,2020
+1356,BorgWarner,United States,10.2 B,746 M,9.700,5.900,2020
+1357,Host Hotels & Resorts,United States,5.5 B,920 M,12.300,8.700,2020
+1358,Canadian Tire,Canada,11 B,587 M,15.100,4.300,2020
+1359,Geberit,Switzerland,3.1 B,651 M,3.800,16.200,2020
+1360,Bank Pekao,Poland,2.6 B,564 M,53.700,3.300,2020
+1361,YPF,Argentina,13.9 B,-706 M,26.300,2.600,2020
+1362,Weyerhaeuser,United States,6.6 B,-76 M,16.400,16.300,2020
+1363,Covivio,France,1.4 B,836 M,29.000,5.500,2020
+1364,Old Dominion Freight Line,United States,4.1 B,615 M,3.900,17.400,2020
+1365,Wuestenrot & Wuerttembergische,Germany,7.1 B,278 M,84.700,1.700,2020
+1366,Kobe Steel,Japan,17.5 B,-17 M,22.200,1.200,2020
+1367,SG Holdings,Japan,10.8 B,435 M,7.200,8.900,2020
+1368,Ronshine China Holdings,China,7.5 B,459 M,30.800,1.800,2020
+1369,Migdal Insurance,Israel,8.6 B,-176 M,49.300,680.000,2020
+1370,Packaging Corp of America,United States,6.9 B,648 M,7.200,9.200,2020
+1371,B3,Brazil,1.5 B,688 M,10.300,14.500,2020
+1372,Match Group,United States,2.1 B,535 M,2.400,21.900,2020
+1373,Smurfit Kappa Group,Ireland,10.1 B,532 M,11.600,7.500,2020
+1374,Red ElÃ©ctrica,Spain,2.2 B,804 M,14.300,9.500,2020
+1375,VEON,Netherlands,8.8 B,624 M,16.700,3.000,2020
+1376,Coca-Cola HBC,Switzerland,7.9 B,546 M,9.200,9.300,2020
+1377,Fastighets Balder,Sweden,804 M,947 M,16.900,7.100,2020
+1378,Bank of Zhengzhou,China,3.9 B,482 M,75.100,2.700,2020
+1379,SLM,United States,2.6 B,782 M,31.800,3.100,2020
+1380,Mebuki Financial Group,Japan,2.2 B,403 M,165.500,2.500,2020
+1381,Tech Data,United States,37 B,375 M,13.300,5.000,2020
+1382,China Feihe,China,2 B,569 M,2.000,18.600,2020
+1383,Aramark,United States,16.2 B,344 M,14.300,6.900,2020
+1384,Meritz Financial Group,South Korea,7.9 B,329 M,53.100,1.100,2020
+1385,Suzano Papel e Celulose,Brazil,6.6 B,-714 M,24.300,9.800,2020
+1386,Israel Discount Bank,Israel,3.5 B,478 M,75.200,3.800,2020
+1387,ResMed,United States,2.9 B,513 M,4.500,22.500,2020
+1388,China Grand Automotive Services,China,22.7 B,201 M,18.100,4.000,2020
+1389,JG Summit Holdings,Philippines,5.6 B,604 M,18.400,7.200,2020
+1390,Henry Schein,United States,10 B,508 M,7.200,7.800,2020
+1391,Arkema,France,9.8 B,608 M,12.300,6.400,2020
+1392,Advance Auto Parts,United States,9.7 B,487 M,11.200,8.400,2020
+1393,Norwegian Cruise Line Holdings,United States,6.5 B,930 M,16.700,3.500,2020
+1394,Bank of Guizhou,China,2.8 B,516 M,58.800,4.600,2020
+1395,Burlington Stores,United States,7.3 B,465 M,5.600,12.000,2020
+1396,Great Wall Motor,China,11.9 B,441 M,14.800,6.100,2020
+1397,Vulcan Materials,United States,4.9 B,618 M,10.900,15.000,2020
+1398,Alaska Air Group,United States,8.8 B,769 M,14.000,4.000,2020
+1399,Chow Tai Fook Jewellery,Hong Kong,8.5 B,533 M,8.200,8.500,2020
+1400,Hang Lung Group,Hong Kong,1.2 B,870 M,27.400,3.100,2020
+1401,Iida Group Holdings,Japan,12.5 B,554 M,13.600,3.900,2020
+1402,Meritz Securities,South Korea,7.4 B,432 M,33.000,1.500,2020
+1403,XPO Logistics,United States,16.6 B,381 M,14.100,6.100,2020
+1404,Chang Hwa Bank,Taiwan,1.6 B,374 M,71.200,6.600,2020
+1405,Cencosud,Chile,14.7 B,399 M,17.300,3.500,2020
+1406,Nomura Research Institute,Japan,4.9 B,637 M,4.900,14.700,2020
+1407,Huntington Ingalls Industries,United States,8.9 B,549 M,7.500,7.800,2020
+1408,ICA Gruppen,Sweden,12.7 B,375 M,10.400,8.800,2020
+1409,Zain,Kuwait,5.5 B,714 M,15.600,7.400,2020
+1410,Cenovus Energy,Canada,14.4 B,216 M,23.500,4.500,2020
+1411,Synopsys,United States,3.4 B,483 M,7.200,23.600,2020
+1412,Sistema,Russia,10.2 B,442 M,20.300,1.900,2020
+1413,Medipal Holdings,Japan,29.7 B,319 M,16.000,4.100,2020
+1414,Alstom,France,9.3 B,373 M,14.100,9.200,2020
+1415,Banque Cantonale Vaudoise,Switzerland,1.2 B,365 M,49.900,7.600,2020
+1416,Avery Dennison,United States,7.1 B,585 M,6.300,9.200,2020
+1417,China National Chemical,China,14.3 B,426 M,15.900,4.300,2020
+1418,Hyundai Engineering,South Korea,14.8 B,421 M,15.800,3.200,2020
+1419,BNK Financial Group,South Korea,4.2 B,434 M,90.400,1.400,2020
+1420,Covestro,Germany,13.4 B,437 M,13.200,6.100,2020
+1421,RSA Insurance Group,United Kingdom,8.8 B,440 M,23.400,4.700,2020
+1422,Bunzl,United Kingdom,11.9 B,446 M,7.900,7.300,2020
+1423,China Resources Cement Holdings,Hong Kong,4.7 B,1.1 B,7.600,9.500,2020
+1424,Shanghai International Airport,China,1.4 B,534 M,5.100,19.300,2020
+1425,Mettler-Toledo International,United States,3 B,561 M,2.800,17.300,2020
+1426,SS&C Technologies,United States,4.7 B,457 M,16.000,14.100,2020
+1427,Taishin Financial Holdings,Taiwan,2.1 B,469 M,67.800,4.600,2020
+1428,Beijing Capital Development,China,5.4 B,479 M,44.700,2.400,2020
+1429,Lixil Group,Japan,17 B,-217 M,20.300,3.500,2020
+1430,AGNC Investment,United States,-1.2 B,-2 B,85.100,7.100,2020
+1431,Far East Horizon,Hong Kong,4 B,629 M,37.400,3.100,2020
+1432,LEG Immobilien AG,Germany,1.1 B,915 M,14.600,7.900,2020
+1433,Nippon Paint,Japan,6.3 B,337 M,13.600,18.600,2020
+1434,New Residential Investment,United States,2.9 B,563 M,45.000,2.500,2020
+1435,Grupo Bimbo,Mexico,15.2 B,328 M,14.800,6.800,2020
+1436,Sino-Ocean Group Holding,China,7.7 B,388 M,35.000,2.000,2020
+1437,Sumitomo Metal Mining,Japan,7.8 B,471 M,16.100,7.000,2020
+1438,Lindt & Sprungli,Switzerland,4.5 B,513 M,8.400,19.900,2020
+1439,Bawag Group,Austria,1.8 B,514 M,51.300,3.000,2020
+1440,SCA,Sweden,2 B,1.6 B,10.100,7.600,2020
+1441,Verisk Analytics,United States,2.6 B,450 M,7.100,24.900,2020
+1442,Masco,United States,7.4 B,459 M,4.800,10.800,2020
+1443,Husky Energy,Canada,14.6 B,-2.6 B,21.800,3.200,2020
+1444,Alexandria Real Estate Equities,United States,1.6 B,245 M,19.700,19.800,2020
+1445,BPER Banca,Italy,3 B,425 M,88.700,1.300,2020
+1446,S-Oil,South Korea,20.4 B,-785 M,13.400,6.700,2020
+1447,Guangdong Investment,Hong Kong,2.1 B,644 M,9.800,13.600,2020
+1448,Commercial Bank For Investment & Development Of Vietnam,Vietnam,5.1 B,368 M,64.300,6.100,2020
+1449,Arrow Electronics,United States,28.1 B,-295 M,15.400,5.000,2020
+1450,AutoNation,United States,21.3 B,450 M,10.700,3.300,2020
+1451,Caesars Entertainment,United States,8.7 B,-1.2 B,25.300,6.600,2020
+1452,NiSource,United States,5.2 B,383 M,24.100,9.600,2020
+1453,Metropolitan Bank & Trust,Philippines,2.8 B,534 M,46.700,3.500,2020
+1454,Bank of East Asia,Hong Kong,4.4 B,329 M,111.000,6.200,2020
+1455,Western Union,United States,5.3 B,1.1 B,8.800,7.800,2020
+1456,Atmos Energy,United States,2.9 B,532 M,14.400,12.500,2020
+1457,Commercial International Bank,Egypt,2.8 B,702 M,24.100,6.000,2020
+1458,Persimmon,United Kingdom,4.7 B,1.1 B,5.900,8.900,2020
+1459,Norsk Hydro,Norway,17 B,-206 M,18.700,5.200,2020
+1460,GCI Liberty,United States,895 M,1.9 B,12.300,6.400,2020
+1461,KION Group,Germany,9.7 B,477 M,15.500,5.900,2020
+1462,STRABAG,Austria,18 B,417 M,13.600,2.900,2020
+1463,China Molybdenum,China,12.2 B,285 M,17.600,6.500,2020
+1464,Sofina,Belgium,216 M,1.3 B,8.600,7.900,2020
+1465,Halyk Bank,Kazakhstan,2.6 B,873 M,24.100,2.600,2020
+1466,Arab Bank,Jordan,2.3 B,597 M,37.100,4.300,2020
+1467,Barratt Developments,United Kingdom,6.2 B,959 M,9.200,6.600,2020
+1468,Zhejiang Zheneng Electric Power,China,7.1 B,543 M,15.500,6.700,2020
+1469,Hong Leong Financial,Malaysia,2.2 B,465 M,59.800,3.500,2020
+1470,Colruyt,Belgium,10.8 B,417 M,4.900,8.300,2020
+1471,Shizuoka Bank,Japan,2.1 B,384 M,117.500,3.500,2020
+1472,Abu Dhabi Islamic Bank,United Arab Emirates,2 B,625 M,34.300,3.600,2020
+1473,Arca Continental,Mexico,8.5 B,541 M,12.700,6.900,2020
+1474,Cattolica Assicurazioni,Italy,8.3 B,84 M,41.200,922.000,2020
+1475,Yuexiu Property,Hong Kong,5.6 B,505 M,33.700,2.900,2020
+1476,SKF Group,Sweden,8.9 B,531 M,10.200,7.300,2020
+1477,iHeartMedia,United States,4.3 B,9.5 B,11.000,469.000,2020
+1478,Navient,United States,5.2 B,363 M,93.200,1.500,2020
+1479,Teleflex,United States,2.6 B,552 M,6.700,15.600,2020
+1480,Korea Shipbuilding & Offshore Engineering,South Korea,13.5 B,272 M,21.700,4.800,2020
+1481,Weatherford International,United States,5.2 B,3.6 B,7.300,315.000,2020
+1482,Ansys,United States,1.5 B,451 M,4.800,22.500,2020
+1483,Sun Pharma Industries,India,4.5 B,568 M,9.200,14.900,2020
+1484,China International Marine,China,11.8 B,71 M,24.800,3.200,2020
+1485,IDEXX Laboratories,United States,2.5 B,437 M,1.900,23.700,2020
+1486,NARI Technology Development,China,4.3 B,629 M,7.800,13.100,2020
+1487,Empire,Canada,19.5 B,398 M,10.600,6.000,2020
+1488,China Communications Services,China,17 B,443 M,12.600,4.900,2020
+1489,Onex,Canada,306 M,4.3 B,12.500,4.600,2020
+1490,Nordstrom,United States,15.5 B,497 M,9.700,2.900,2020
+1491,Synovus Financial,United States,2.4 B,482 M,50.600,3.100,2020
+1492,Kerry Properties,Hong Kong,2.4 B,880 M,22.800,4.000,2020
+1493,Pinnacle West,United States,3.5 B,538 M,18.500,8.700,2020
+1494,UBI Banca,Italy,5.3 B,281 M,142.000,3.200,2020
+1495,Hainan Airlines,China,10.4 B,-533 M,27.600,4.100,2020
+1496,Nippon Yusen,Japan,15.6 B,-156 M,18.800,2.300,2020
+1497,Tiffany & Co.,United States,4.4 B,541 M,6.700,15.300,2020
+1498,Hologic,United States,3.3 B,616 M,6.800,12.900,2020
+1499,AECOM Technology,United States,18.4 B,-272 M,15.200,5.800,2020
+1500,China Conch Venture Holdings,China,739 M,1 B,6.100,8.700,2020
+1501,Mashreq Bank,United Arab Emirates,2.8 B,514 M,44.300,3.300,2020
+1502,Bank Audi,Lebanon,3.7 B,493 M,47.500,764.000,2020
+1503,E-mart,South Korea,16.3 B,195 M,18.200,2.700,2020
+1504,Teleperformance,France,6 B,448 M,7.700,13.200,2020
+1505,Ajinomoto,Japan,10.2 B,284 M,12.900,9.800,2020
+1506,International Flavors & Fragrances,United States,5.1 B,453 M,13.300,14.000,2020
+1507,Xerox,United States,8.8 B,589 M,14.800,3.900,2020
+1508,Electric Power Development,Japan,8.4 B,389 M,26.000,3.700,2020
+1509,Saudi Arabian Mining,Saudi Arabia,4.7 B,-197 M,26.000,12.200,2020
+1510,Kawasaki Heavy Industries,Japan,15 B,191 M,18.900,2.600,2020
+1511,Union Bank of India,India,5.9 B,-531 M,74.900,1.200,2020
+1512,Newcrest Mining,Australia,3.8 B,559 M,11.900,13.800,2020
+1513,China Merchants Port Holdings,Hong Kong,1.1 B,1.1 B,19.100,4.400,2020
+1514,Reliance Steel,United States,10.6 B,573 M,8.100,5.700,2020
+1515,Incyte,United States,2.2 B,447 M,3.400,21.200,2020
+1516,Gudang Garam,Indonesia,7.9 B,774 M,4.700,5.900,2020
+1517,Ceconomy,Germany,23.9 B,207 M,14.900,917.000,2020
+1518,China International Travel Service,China,5.9 B,316 M,4.200,25.300,2020
+1519,Shopify,Canada,1.6 B,-125 M,3.500,73.700,2020
+1520,Chipotle Mexican Grill,United States,5.7 B,338 M,5.200,24.500,2020
+1521,OneMain Holdings,United States,4.9 B,735 M,24.700,3.300,2020
+1522,AIB Group,Ireland,3.4 B,366 M,110.600,3.700,2020
+1523,Live Nation Entertainment,United States,11.5 B,-5 M,11.000,9.700,2020
+1524,DCC,Ireland,19.3 B,296 M,9.400,7.000,2020
+1525,EMS-Chemie Holding,Switzerland,2.2 B,530 M,2.300,15.200,2020
+1526,Shimano,Japan,3.2 B,565 M,4.900,13.700,2020
+1527,Steel Dynamics,United States,10.2 B,654 M,8.300,5.200,2020
+1528,Technipfmc,United Kingdom,13.7 B,-5.7 B,19.900,4.000,2020
+1529,Xiamen International Trade Group,China,32.5 B,310 M,13.400,1.700,2020
+1530,Ternium,Luxembourg,10.3 B,571 M,12.900,2.700,2020
+1531,Bajaj Auto,India,4.3 B,748 M,4.000,10.100,2020
+1532,US Foods,United States,25.9 B,385 M,11.300,4.700,2020
+1533,Dai Nippon Printing,Japan,12.9 B,238 M,16.400,6.200,2020
+1534,Vingroup,Vietnam,5.6 B,323 M,17.400,13.300,2020
+1535,Epiroc,Sweden,4.2 B,618 M,4.400,12.100,2020
+1536,Magnitogorsk Iron & Steel,Russia,7.4 B,756 M,8.400,6.100,2020
+1537,Magnit,Russia,21.2 B,148 M,15.300,5.100,2020
+1538,Santos,Australia,4.1 B,672 M,18.200,6.700,2020
+1539,Booz Allen Hamilton Holding,United States,7.3 B,432 M,4.600,10.300,2020
+1540,Flex,Singapore,25 B,-25 M,14.100,4.900,2020
+1541,Sekisui Chemical,Japan,10.4 B,542 M,10.200,5.900,2020
+1542,Akamai Technologies,United States,3 B,494 M,6.900,15.800,2020
+1543,CPFL Energia,Brazil,7.6 B,685 M,11.000,6.200,2020
+1544,Manpower,United States,20.4 B,414 M,8.700,4.400,2020
+1545,Kansas City Southern,United States,2.9 B,588 M,9.800,12.400,2020
+1546,Enstar Group,Bermuda,2 B,938 M,19.400,3.200,2020
+1547,Petronas Chemicals,Malaysia,4 B,680 M,9.800,10.400,2020
+1548,Square,United States,4.7 B,375 M,4.600,28.600,2020
+1549,Wayfair,United States,9.1 B,-985 M,3.000,11.700,2020
+1550,Martin Marietta Materials,United States,4.7 B,611 M,10.400,11.800,2020
+1551,American National Insurance,United States,3.5 B,620 M,28.700,2.200,2020
+1552,Essex Property Trust,United States,1.5 B,439 M,12.700,16.200,2020
+1553,Sonova Holding,Switzerland,2.9 B,622 M,4.500,11.500,2020
+1554,Grupo Inbursa,Mexico,3.8 B,671 M,25.700,4.000,2020
+1555,Korean Air,South Korea,10.9 B,-539 M,23.400,1.600,2020
+1556,Mitsubishi Materials,Japan,13.9 B,-13 M,18.300,2.700,2020
+1557,Antofagasta,United Kingdom,5 B,500 M,14.600,10.100,2020
+1558,Compal Electronics,Taiwan,31.7 B,225 M,12.800,2.800,2020
+1559,Blom Bank,Lebanon,2.7 B,502 M,38.500,670.000,2020
+1560,Safaricom,Kenya,2.5 B,653 M,2.200,10.600,2020
+1561,Johnson Matthey,United Kingdom,13.3 B,491 M,8.000,4.900,2020
+1562,Fgl Holdings,Cayman Islands,1.6 B,507 M,37.400,2.200,2020
+1563,KT&G,South Korea,4.3 B,889 M,9.300,8.400,2020
+1564,Next,United Kingdom,5.4 B,779 M,4.800,7.600,2020
+1565,BOK Financial,United States,2.2 B,450 M,47.100,3.600,2020
+1566,Voestalpine,Austria,14.8 B,-13 M,17.300,3.700,2020
+1567,Sichuan Language Development,China,5.3 B,499 M,29.900,2.500,2020
+1568,Wendel,France,9.6 B,447 M,16.400,3.700,2020
+1569,Banca MPS,Italy,4.7 B,-1.1 B,148.500,1.300,2020
+1570,SinoPac Financial,Taiwan,1.8 B,404 M,61.200,4.600,2020
+1571,Jabil Circuit,United States,26.3 B,133 M,13.100,4.300,2020
+1572,AVIC Capita,China,2.9 B,437 M,48.300,4.900,2020
+1573,PTT Global Chemical,Thailand,13.3 B,376 M,15.100,5.200,2020
+1574,Xiamen Xiangyu,China,40.8 B,159 M,11.800,1.800,2020
+1575,Commercial Bank of Qatar,Qatar,2.3 B,481 M,40.200,4.400,2020
+1576,Barry Callebaut,Switzerland,7.5 B,383 M,7.800,10.800,2020
+1577,IAC/InterActiveCorp,United States,4.8 B,431 M,8.300,19.000,2020
+1578,NH Investment & Securities,South Korea,6.8 B,284 M,43.300,2.400,2020
+1579,Industries Qatar,Qatar,1.4 B,578 M,9.200,11.700,2020
+1580,Jyske Bank,Denmark,2.1 B,342 M,97.600,2.000,2020
+1581,Mercuries & Associates,Taiwan,6.8 B,113 M,42.800,576.000,2020
+1582,Alfresa Holdings,Japan,24.8 B,323 M,13.100,4.300,2020
+1583,Hertz Global Holdings,United States,9.8 B,-58 M,24.600,575.000,2020
+1584,Hokuhoku Financial Group,Japan,1.6 B,221 M,126.700,1.100,2020
+1585,Hyundai Glovis,South Korea,15.7 B,431 M,8.800,3.100,2020
+1586,Ramsay Health Care,Australia,8.8 B,371 M,11.500,9.100,2020
+1587,Autodesk,United States,3.3 B,215 M,6.200,41.100,2020
+1588,INTL FCStone,United States,37.6 B,82 M,10.100,771.000,2020
+1589,ONO Pharmaceutical,Japan,2.7 B,553 M,6.100,12.100,2020
+1590,President Chain Store,Taiwan,8.3 B,341 M,6.500,10.800,2020
+1591,Lendlease Group,Australia,10.1 B,531 M,12.700,4.500,2020
+1592,Wirecard,Germany,2.8 B,546 M,7.600,12.200,2020
+1593,CSPC Pharmaceutical Group,Hong Kong,3.2 B,538 M,3.800,12.400,2020
+1594,World Fuel Services,United States,36 B,183 M,5.500,1.600,2020
+1595,Vietin Bank,Vietnam,4.1 B,407 M,53.500,3.200,2020
+1596,Asian Paints,India,2.9 B,386 M,2.300,22.500,2020
+1597,Goodyear,United States,14.2 B,-869 M,16.700,1.700,2020
+1598,Mitsui Chemicals,Japan,12.5 B,416 M,13.700,3.900,2020
+1599,Atlassian,United Kingdom,1.4 B,-247 M,3.500,38.200,2020
+1600,RTL Group,Luxembourg,7.7 B,788 M,9.600,5.100,2020
+1601,Qurate Retail Group,United States,13.5 B,-456 M,17.300,3.400,2020
+1602,Zoom Video Communications,United States,623 M,23 M,1.300,37.700,2020
+1603,Yamato Holdings,Japan,14.9 B,128 M,10.700,7.000,2020
+1604,Novozymes,Denmark,2.2 B,487 M,3.000,13.800,2020
+1605,Dexus,Australia,642 M,1.1 B,12.500,6.500,2020
+1606,Virgin Money UK,United Kingdom,3.4 B,-323 M,112.100,1.400,2020
+1607,Cooper Companies,United States,2.7 B,454 M,6.500,15.300,2020
+1608,Gap,United States,16.4 B,351 M,13.700,3.000,2020
+1609,New York Community Bancorp,United States,1.9 B,395 M,54.300,5.000,2020
+1610,Canadian Utilities,Canada,2.9 B,717 M,15.500,6.700,2020
+1611,Nippon Express,Japan,19.1 B,160 M,14.100,4.600,2020
+1612,Workday,United States,3.6 B,-481 M,6.800,36.100,2020
+1613,Otsuka,Japan,8.2 B,408 M,4.200,8.600,2020
+1614,Koito Manufacturing,Japan,7.5 B,601 M,6.900,6.100,2020
+1615,Taiwan Cement,Taiwan,4 B,783 M,12.300,7.900,2020
+1616,Teck Resources,Canada,8.4 B,-453 M,27.200,4.700,2020
+1617,Hansoh Pharmaceutical Group,China,1.3 B,370 M,2.800,23.000,2020
+1618,Almarai,Saudi Arabia,3.9 B,496 M,8.700,13.100,2020
+1619,Agnico Eagle Mines,Canada,2.5 B,471 M,8.800,14.100,2020
+1620,Showa Denko,Japan,8.3 B,671 M,9.900,3.200,2020
+1621,Cellnex Telecom,Spain,1.1 B,-10 M,14.600,20.200,2020
+1622,Qingdao Rural Commercial Bank,China,2.3 B,409 M,49.100,3.500,2020
+1623,Braskem,Brazil,13.3 B,-673 M,16.900,3.100,2020
+1624,Continental Resources,United States,4.6 B,776 M,16.300,6.000,2020
+1625,Avis Budget Group,United States,9.2 B,302 M,24.000,1.100,2020
+1626,Kyushu Financial Group,Japan,1.5 B,195 M,100.500,1.900,2020
+1627,Nishi-nippon Financial Holdings,Japan,1.3 B,172 M,99.100,868.000,2020
+1628,Hachijuni Bank,Japan,1.4 B,234 M,99.100,1.800,2020
+1629,Zoomlion Heavy Industry,China,6.3 B,637 M,13.200,6.100,2020
+1630,SBA Communications,United States,2 B,147 M,9.800,32.500,2020
+1631,Hulic,Japan,3.6 B,601 M,17.300,6.700,2020
+1632,Waters,United States,2.4 B,537 M,2.700,11.600,2020
+1633,Yamaguchi Financial,Japan,1.5 B,236 M,95.300,1.400,2020
+1634,Wistron,Taiwan,28.4 B,220 M,11.500,2.700,2020
+1635,Hengyi Petrochemical,China,11.2 B,441 M,12.900,4.900,2020
+1636,Latam Airlines,Chile,10.1 B,212 M,21.100,2.300,2020
+1637,Kesko,Finland,12.1 B,372 M,7.700,6.500,2020
+1638,Hengan International Group,China,3.3 B,566 M,6.200,10.600,2020
+1639,Wingtech Technology,China,6 B,181 M,9.400,17.000,2020
+1640,Franco-Nevada,Canada,843 M,344 M,5.300,25.100,2020
+1641,North Pacific Bank,Japan,1.2 B,99 M,92.500,702.000,2020
+1642,Banco Comercial Portugues,Portugal,3.6 B,313 M,92.100,1.700,2020
+1643,Kingfisher,United Kingdom,14.9 B,233 M,15.200,4.200,2020
+1644,Banco Davivienda,Colombia,3.7 B,448 M,37.200,3.300,2020
+1645,DexCom,United States,1.6 B,148 M,2.400,30.900,2020
+1646,Japan Securities,Japan,267 M,33 M,90.900,438.000,2020
+1647,Acciona,Spain,8 B,394 M,19.500,5.400,2020
+1648,China Longyuan Power,China,4 B,631 M,22.500,4.000,2020
+1649,Pinduoduo,China,4.3 B,-1 B,10.900,30.500,2020
+1650,Adyen,Netherlands,3 B,228 M,2.900,29.800,2020
+1651,Bank of Kyoto,Japan,1.2 B,301 M,88.000,2.600,2020
+1652,Mitsui OSK Lines,Japan,10.6 B,300 M,19.400,2.100,2020
+1653,Hiroshima Bank,Japan,1.1 B,231 M,86.900,1.300,2020
+1654,WEG,Brazil,3.4 B,425 M,3.300,15.500,2020
+1655,Rajesh Exports,India,25.9 B,170 M,4.300,2.400,2020
+1656,Sino Biopharmaceutical,Hong Kong,3.5 B,393 M,8.400,18.300,2020
+1657,Lundin Energy,Sweden,2.2 B,834 M,6.200,7.400,2020
+1658,MercadoLibre,Argentina,2.3 B,-172 M,4.800,29.100,2020
+1659,Taylor Wimpey,United Kingdom,5.5 B,860 M,6.900,6.100,2020
+1660,Renesas Electronics,Japan,6.9 B,141 M,15.400,9.300,2020
+1661,Hotai Motor,Taiwan,6.9 B,381 M,8.500,10.200,2020
+1662,Daishi Hokuetsu Financial Group,Japan,1.2 B,139 M,83.300,1.000,2020
+1663,Kinross Gold,Canada,3.5 B,716 M,9.100,8.300,2020
+1664,Unisplendour,China,7.4 B,247 M,7.700,12.100,2020
+1665,Veeva Systems,United States,1.1 B,301 M,2.300,28.500,2020
+1666,Tahoe Group,China,4.5 B,470 M,32.300,1.600,2020
+1667,PGE Polska Grupa Energetyczna,Poland,9.8 B,-1 B,20.500,1.900,2020
+1668,Steinhoff International,Netherlands,12 B,-1.3 B,16.900,251.000,2020
+1669,Beijing Shougang,China,10.1 B,169 M,20.000,2.200,2020
+1670,Teradyne,United States,2.5 B,546 M,2.800,10.400,2020
+1671,"United Natural Foods,",United States,24.5 B,-339 M,7.700,570.000,2020
+1672,PBF Energy,United States,24.5 B,319 M,9.100,1.400,2020
+1673,Zalando,Germany,7.3 B,112 M,4.900,12.100,2020
+1674,Chugoku Bank,Japan,1.1 B,141 M,79.400,1.800,2020
+1675,LG Uplus,South Korea,10.6 B,376 M,15.500,4.800,2020
+1676,Royal Mail,United Kingdom,13.8 B,412 M,10.800,2.100,2020
+1677,77 Bank,Japan,908 M,175 M,79.300,998.000,2020
+1678,Shandong Gold Mining,China,9.1 B,191 M,8.500,9.200,2020
+1679,Powerlong Real Estate,China,3.9 B,584 M,23.300,2.500,2020
+1680,Cemig,Brazil,6.4 B,774 M,12.400,2.600,2020
+1681,Gunma Bank,Japan,1.3 B,203 M,77.500,1.300,2020
+1682,Invitation Homes,United States,1.8 B,49 M,17.400,12.900,2020
+1683,Berry Global Group,United States,9.7 B,363 M,17.000,5.300,2020
+1684,China Development Bank Financial Leasing,China,2.6 B,425 M,37.500,1.800,2020
+1685,Genting,Malaysia,5.2 B,482 M,25.100,3.700,2020
+1686,Nippon Steel Trading,Japan,23.2 B,204 M,8.500,1.000,2020
+1687,FMC,United States,4.6 B,485 M,9.900,11.900,2020
+1688,Interactive Brokers Group,United States,2.6 B,158 M,75.800,3.100,2020
+1689,Tenneco,United States,17.5 B,-314 M,13.200,422.000,2020
+1690,Tokyu Fudosan,Japan,8.4 B,316 M,23.600,3.600,2020
+1691,Haidilao International Holding,China,3.8 B,338 M,3.000,23.100,2020
+1692,Performance Food Group,United States,22.9 B,173 M,6.100,3.900,2020
+1693,Domino's Pizza,United States,3.7 B,430 M,1.400,14.200,2020
+1694,Ultrapar Participacoes,Brazil,22.6 B,95 M,7.900,2.900,2020
+1695,Hubei Biocause Pharmaceutical,China,7.3 B,257 M,29.200,3.900,2020
+1696,Snap,United States,1.9 B,-1 B,3.900,25.500,2020
+1697,Eurobank Ergasias,Greece,2.9 B,146 M,72.700,1.500,2020
+1698,Companhia Brasileira de Distribuicao,Brazil,14.4 B,104 M,14.400,3.300,2020
+1699,Fibra Uno,Mexico,1 B,965 M,15.000,3.300,2020
+1700,First Citizens Bank,United States,1.8 B,403 M,41.600,4.000,2020
+1701,Pgnig Group,Poland,10.8 B,357 M,15.600,5.200,2020
+1702,National Bank of Greece,Greece,2.3 B,-220 M,72.100,1.200,2020
+1703,Zebra Technologies,United States,3.8 B,468 M,1.900,12.200,2020
+1704,Tsim Sha Tsui Properties,Hong Kong,861 M,452 M,24.300,6.100,2020
+1705,Vodafone Idea,India,6.4 B,-9.5 B,34.800,1.600,2020
+1706,Alpha Bank,Greece,3.2 B,109 M,71.200,1.100,2020
+1707,Community Health Systems,United States,12.9 B,-539 M,15.400,363.000,2020
+1708,Rite Aid,United States,21.9 B,-452 M,10.500,784.000,2020
+1709,Xylem,United States,5.3 B,401 M,7.700,12.900,2020
+1710,IHI,Japan,12.5 B,36 M,15.700,1.900,2020
+1711,M3,Japan,1.2 B,198 M,1.900,24.700,2020
+1712,Bank Muscat,Oman,1.6 B,449 M,31.900,2.700,2020
+1713,Accor,France,4.5 B,519 M,15.600,7.500,2020
+1714,American Equity Investment,United States,2.6 B,246 M,69.700,1.900,2020
+1715,Iyo Bank,Japan,1.1 B,176 M,69.600,1.700,2020
+1716,Lens Technology,China,4.6 B,495 M,6.700,11.000,2020
+1717,TP ICAP,United Kingdom,2.4 B,86 M,69.000,2.400,2020
+1718,Piraeus Bank,Greece,2.6 B,301 M,68.700,582.000,2020
+1719,XCMG Construction Machinery,China,7.8 B,500 M,9.700,6.200,2020
+1720,Air Lease,United States,2 B,587 M,21.700,3.000,2020
+1721,Commerce Bank,United States,1.4 B,373 M,26.800,6.900,2020
+1722,CoStar Group,United States,1.5 B,303 M,4.700,23.800,2020
+1723,Grupo Bolivar,Colombia,5 B,374 M,40.800,1.200,2020
+1724,Bank of Suzhou,China,1.9 B,358 M,49.300,4.100,2020
+1725,Seattle Genetics,United States,917 M,-159 M,2.200,23.600,2020
+1726,Sinotruk Hong Kong,China,9 B,487 M,9.500,5.600,2020
+1727,Harel Insurance Investments & Financial Services,Israel,6.5 B,67 M,32.000,1.400,2020
+1728,Avary Holding (Shenzhen),China,3.8 B,423 M,4.100,13.700,2020
+1729,Liberty Broadband,United States,15 M,117 M,12.300,21.800,2020
+1730,Jiangxi Bank,China,3.4 B,300 M,65.500,2.700,2020
+1731,Unibail-Rodamco,Netherlands,499 M,95 M,15.700,13.600,2020
+1732,CPI Property Group,Luxembourg,763 M,766 M,12.000,7.000,2020
+1733,Daelim Industrial,South Korea,8.4 B,564 M,11.600,2.800,2020
+1734,Moscow Exchange,Russia,710 M,312 M,64.900,3.700,2020
+1735,Minebea,Japan,8.6 B,407 M,8.400,6.900,2020
+1736,PVH,United States,9.9 B,417 M,13.600,3.500,2020
+1737,News Corp,United States,9.7 B,-183 M,16.300,5.800,2020
+1738,Brambles,Australia,4.1 B,481 M,7.400,11.000,2020
+1739,JetBlue Airways,United States,8.1 B,569 M,11.900,2.600,2020
+1740,SDIC Capital,China,1.9 B,342 M,28.100,7.200,2020
+1741,Haseko,Japan,7.8 B,609 M,6.800,3.300,2020
+1742,Deutsche Pfandbriefbank,Germany,575 M,200 M,63.800,989.000,2020
+1743,Western Alliance Bancorp.,United States,1.3 B,462 M,29.200,3.600,2020
+1744,Celltrion,South Korea,968 M,255 M,3.400,23.100,2020
+1745,Unicaja Banco,Spain,1.5 B,192 M,63.700,863.000,2020
+1746,Wuxi Apptec,China,1.9 B,269 M,4.200,23.000,2020
+1747,Aristocrat Leisure,Australia,3.1 B,492 M,4.300,10.600,2020
+1748,Bank of Xi'an,China,1.9 B,394 M,39.600,3.400,2020
+1749,China Aviation Oil,Singapore,20.4 B,100 M,1.900,629.000,2020
+1750,Alrosa,Russia,3.6 B,959 M,6.900,6.200,2020
+1751,SBI Holdings,Japan,3.4 B,345 M,51.100,4.400,2020
+1752,Suzuken,Japan,20.3 B,241 M,11.600,3.500,2020
+1753,Will Semiconductor,China,1.8 B,116 M,2.700,22.800,2020
+1754,Adani Ports & Special Economic Zone,India,1.6 B,669 M,8.800,7.900,2020
+1755,Broadridge Financial,United States,4.3 B,421 M,4.400,13.300,2020
+1756,Momentum Metropolitan Holdings,South Africa,5.9 B,175 M,36.200,1.400,2020
+1757,DGB Financial Group,South Korea,2.6 B,276 M,62.700,732.000,2020
+1758,Mercantil Servicios,Venezuela,2.6 B,1.5 B,852.000,309.000,2020
+1759,Offcn Education Technology,China,1.3 B,261 M,1.400,22.600,2020
+1760,Bangkok Dusit Medical Services,Thailand,2.7 B,500 M,4.500,10.200,2020
+1761,Huafa Industrial,China,4.6 B,406 M,36.700,2.000,2020
+1762,Huaibei Mining Holdings,China,8.9 B,509 M,9.200,2.600,2020
+1763,Aeroflot-Russian Airlines,Russia,10.4 B,164 M,17.200,1.100,2020
+1764,Inchcape,United Kingdom,12 B,412 M,5.900,2.500,2020
+1765,Splunk,United States,2.4 B,-337 M,5.400,22.300,2020
+1766,El Puerto de Liverpool,Mexico,7.4 B,629 M,8.500,3.400,2020
+1767,Hyakugo Bank,Japan,805 M,111 M,60.100,743.000,2020
+1768,VICI Properties,United States,895 M,546 M,13.300,8.200,2020
+1769,BayWa,Germany,19.1 B,41 M,10.000,1.100,2020
+1770,Constellation Software,Canada,3.5 B,334 M,3.500,20.400,2020
+1771,Nitto Denko,Japan,6.8 B,434 M,8.500,7.800,2020
+1772,Ares Capital,United States,1.5 B,793 M,14.900,5.500,2020
+1773,Juroku Bank,Japan,953 M,108 M,59.800,663.000,2020
+1774,Hakuhodo DY Holdings,Japan,13.4 B,380 M,7.700,4.200,2020
+1775,Tosoh,Japan,7.4 B,624 M,8.200,4.000,2020
+1776,CIT Group,United States,3.2 B,-213 M,58.900,1.900,2020
+1777,Bank of Qingdao,China,2.5 B,332 M,53.600,3.100,2020
+1778,Bohai Leasing,China,5.6 B,99 M,38.100,2.400,2020
+1779,Quanta Services,United States,12.1 B,402 M,8.300,5.000,2020
+1780,Taiwan Business Bank,Taiwan,1.2 B,218 M,58.300,2.600,2020
+1781,Hikari Tsushin,Japan,4.8 B,547 M,9.200,9.000,2020
+1782,Mosaic,United States,8.9 B,-1.1 B,19.300,4.400,2020
+1783,Shiga Bank,Japan,828 M,142 M,58.000,1.200,2020
+1784,Targa Resources,United States,8.7 B,-209 M,20.100,3.000,2020
+1785,TMB Bank,Thailand,2.2 B,317 M,57.600,2.900,2020
+1786,CNO Financial Group,United States,3.9 B,409 M,34.200,2.000,2020
+1787,Avnet,United States,18.2 B,-113 M,8.100,3.000,2020
+1788,Wynn Resorts,United States,6.6 B,123 M,13.900,9.200,2020
+1789,Steel Authority of India,India,9.6 B,336 M,17.200,1.800,2020
+1790,Axiata Group,Malaysia,5.9 B,330 M,16.300,8.400,2020
+1791,First Pacific,Hong Kong,8.1 B,-254 M,21.900,901.000,2020
+1792,Far Eastern New Century,Taiwan,8.1 B,347 M,19.200,4.700,2020
+1793,San-In Godo Bank,Japan,798 M,116 M,55.300,826.000,2020
+1794,Chongqing Zhifei Biological Products,China,1.5 B,343 M,1.600,18.000,2020
+1795,Hanwa,Japan,17.8 B,115 M,8.300,658.000,2020
+1796,Red Star Macalline Group,China,2.3 B,651 M,17.600,2.300,2020
+1797,Uniqa,Austria,6.1 B,276 M,31.400,2.100,2020
+1798,Aozora Bank,Japan,1.5 B,332 M,50.800,2.100,2020
+1799,Ogaki Kyoritsu Bank,Japan,706 M,74 M,55.000,861.000,2020
+1800,FinecoBank,Italy,769 M,323 M,31.500,6.800,2020
+1801,Kirkland Lake Gold,Canada,1.4 B,559 M,2.600,8.700,2020
+1802,Rexel,France,15.4 B,229 M,12.400,2.800,2020
+1803,Banco BBVA Peru,Peru,1.9 B,482 M,24.700,4.200,2020
+1804,Swiss Prime Site,Switzerland,1.3 B,611 M,12.700,7.200,2020
+1805,Toho Bank,Japan,580 M,33 M,54.100,594.000,2020
+1806,Avenue Supermarts,India,2.9 B,129 M,1.200,20.500,2020
+1807,AmBank Group,Malaysia,2 B,375 M,38.600,2.100,2020
+1808,First Horizon National,United States,1.7 B,354 M,43.500,2.800,2020
+1809,Want Want China,China,3 B,543 M,4.100,8.900,2020
+1810,Nanto Bank,Japan,732 M,86 M,53.600,690.000,2020
+1811,Ralph Lauren,United States,6.4 B,665 M,7.400,5.400,2020
+1812,Tenaris,Luxembourg,7.2 B,-168 M,14.100,8.300,2020
+1813,Banque Centrale Populaire,Morocco,2.3 B,347 M,45.100,4.200,2020
+1814,Credito Emiliano,Italy,2.1 B,225 M,53.500,1.500,2020
+1815,Advantest,Japan,2.5 B,492 M,3.300,9.800,2020
+1816,UGI,United States,7.1 B,404 M,14.300,6.300,2020
+1817,Angang Steel,China,14.4 B,241 M,12.700,2.600,2020
+1818,RingCentral,United States,903 M,-54 M,1.500,20.100,2020
+1819,Bendigo & Adelaide Bank,Australia,1.9 B,222 M,52.500,2.300,2020
+1820,Nine Dragons Paper Holdings,Hong Kong,7.7 B,560 M,11.400,4.500,2020
+1821,Wuxi Biologics,China,575 M,147 M,2.500,20.100,2020
+1822,Mowi ASA,Norway,4.6 B,535 M,6.600,8.900,2020
+1823,Tech Mahindra,India,5.2 B,619 M,5.000,7.000,2020
+1824,WPG Holdings,Taiwan,17.1 B,209 M,7.700,2.200,2020
+1825,Bank of Jiujiang,China,2.6 B,267 M,52.200,3.400,2020
+1826,Fluor,United States,17 B,-1.3 B,7.900,1.600,2020
+1827,Tokyo Kiraboshi Financial Group,Japan,719 M,43 M,52.100,299.000,2020
+1828,Orient,Japan,2.2 B,211 M,51.600,2.000,2020
+1829,Admiral Group,United Kingdom,1.8 B,552 M,7.300,8.600,2020
+1830,Bureau Veritas,France,5.7 B,412 M,7.900,9.300,2020
+1831,Duke Realty,United States,935 M,402 M,8.600,12.800,2020
+1832,Core-Mark Holding,United States,16.7 B,58 M,2.000,1.300,2020
+1833,Huntsman,United States,7.6 B,562 M,8.300,3.700,2020
+1834,Newell Brands,United States,8.9 B,107 M,15.600,5.900,2020
+1835,Palo Alto Networks,United States,3.1 B,-174 M,7.200,19.600,2020
+1836,Prosperity Bancshares,United States,1.1 B,381 M,31.700,5.600,2020
+1837,Vopak,Netherlands,1.4 B,639 M,7.300,7.400,2020
+1838,Senshu Ikeda Holdings,Japan,758 M,54 M,50.500,441.000,2020
+1839,Fortinet,United States,2.2 B,327 M,3.900,18.600,2020
+1840,Aier Eye Hospital Group,China,1.3 B,167 M,1.800,19.400,2020
+1841,Shanghai Fosun Pharmaceutical,China,4.1 B,480 M,10.900,9.800,2020
+1842,Zenith Bank,Nigeria,1.8 B,576 M,18.700,1.200,2020
+1843,Dali Foods Group,China,3.1 B,557 M,2.900,8.400,2020
+1844,Polymetal International,Russia,2.2 B,482 M,4.200,9.700,2020
+1845,Sartorius,Germany,2.1 B,184 M,3.200,19.200,2020
+1846,DocuSign,United States,974 M,-208 M,1.900,19.200,2020
+1847,Adient,Ireland,16.3 B,-641 M,10.400,1.400,2020
+1848,Inventec,Taiwan,16.2 B,178 M,6.400,2.800,2020
+1849,East Money Information,China,741 M,333 M,10.700,17.400,2020
+1850,Asustek Computer,Taiwan,11.4 B,393 M,11.700,5.100,2020
+1851,China SCE Group Holdings,China,3.1 B,509 M,21.400,1.800,2020
+1852,Poly Property Group Co.,Hong Kong,5.1 B,489 M,20.400,1.300,2020
+1853,Canadian Apartment Properties Real Estate Investment Trust,Canada,592 M,901 M,10.800,5.900,2020
+1854,Yes Bank,India,4.6 B,-2.9 B,48.900,4.700,2020
+1855,Central Bank of India,India,3.6 B,-803 M,48.900,1.200,2020
+1856,Okta,United States,586 M,-209 M,2.000,18.600,2020
+1857,Cronos Group,Canada,28 M,1.2 B,2.100,2.100,2020
+1858,First American Financial,United States,6.4 B,661 M,11.700,5.100,2020
+1859,TCF Financial,United States,2.3 B,277 M,48.600,4.500,2020
+1860,Murphy Oil,United States,2.7 B,1.1 B,11.700,1.800,2020
+1861,Cullen/Frost Bankers,United States,1.3 B,379 M,34.100,4.500,2020
+1862,Snap-on,United States,4 B,653 M,5.600,7.100,2020
+1863,Spirit AeroSystems,United States,7.9 B,530 M,7.600,2.300,2020
+1864,Bank Of Gansu,China,2.4 B,75 M,48.100,1.100,2020
+1865,Guangdong Haid Group,China,7.1 B,263 M,3.500,9.700,2020
+1866,Ningxia Baofeng Energy Group,China,2 B,517 M,5.100,8.800,2020
+1867,Shaw Communications,Canada,4.1 B,545 M,11.600,8.400,2020
+1868,IDEX,United States,2.5 B,417 M,3.900,11.600,2020
+1869,Teledyne Technologies,United States,3.2 B,409 M,4.600,11.900,2020
+1870,Healthpeak Properties,United States,2 B,44 M,14.000,13.200,2020
+1871,Shanghai Ganglian E-Commerce Holdings,China,15.4 B,26 M,1.900,1.800,2020
+1872,SEB SA,France,8.2 B,425 M,8.800,6.000,2020
+1873,Caltex Australia,Australia,15.3 B,266 M,5.900,4.100,2020
+1874,LT Group,Philippines,1.8 B,448 M,25.000,1.700,2020
+1875,Extra Space Storage,United States,1.3 B,419 M,8.500,11.400,2020
+1876,Chewy,United States,4.8 B,-252 M,932.000,17.400,2020
+1877,Stifel Financial,United States,3.5 B,448 M,24.900,3.000,2020
+1878,United Utilities,United Kingdom,2.3 B,395 M,17.400,7.800,2020
+1879,Frontier Communications,United States,8.1 B,-5.9 B,19.300,9.000,2020
+1880,Sysmex,Japan,2.8 B,356 M,3.400,14.500,2020
+1881,Orient Securities,China,2 B,353 M,37.800,3.600,2020
+1882,Liberbank,Spain,862 M,125 M,47.100,609.000,2020
+1883,TransUnion,United States,2.7 B,346 M,6.900,15.000,2020
+1884,Alfa Laval,Sweden,4.9 B,552 M,6.500,7.900,2020
+1885,Westlake Chemical,United States,8.1 B,418 M,13.300,5.500,2020
+1886,Clal Insurance Enterprises,Israel,5.5 B,-156 M,33.100,676.000,2020
+1887,Hasbro,United States,5.1 B,424 M,10.400,9.900,2020
+1888,E-L Financial,Canada,1.2 B,561 M,18.300,2.000,2020
+1889,Keiyo Bank,Japan,625 M,71 M,46.400,643.000,2020
+1890,Yamada Denki,Japan,14.9 B,244 M,11.300,4.200,2020
+1891,Pirelli,Italy,6 B,490 M,15.600,3.900,2020
+1892,Basler Kantonalbank,Switzerland,670 M,113 M,46.300,366.000,2020
+1893,Luzerner Kantonalbank,Switzerland,633 M,204 M,46.300,3.400,2020
+1894,Trimble,United States,3.3 B,514 M,6.600,8.600,2020
+1895,Banca Popolare di Sondrio,Italy,1.2 B,154 M,46.200,713.000,2020
+1896,Aareal Bank,Germany,1.5 B,162 M,46.200,978.000,2020
+1897,Hyakujushi Bank,Japan,628 M,55 M,46.200,531.000,2020
+1898,Beijing Kingsoft Office Software.,China,226 M,58 M,268.000,17.200,2020
+1899,Foot Locker,United States,8 B,498 M,6.600,2.700,2020
+1900,Marathon Oil,United States,5.1 B,480 M,20.200,4.800,2020
+1901,Changchun High & New Technology,China,1 B,280 M,2.000,17.100,2020
+1902,Wheaton Precious Metals,Canada,861 M,84 M,6.300,17.100,2020
+1903,Jointown Pharmaceutical Group,China,14.6 B,284 M,10.100,4.800,2020
+1904,Marketaxess Holdings,United States,556 M,227 M,976.000,17.100,2020
+1905,Medical Properties Trust,United States,968 M,378 M,15.200,9.000,2020
+1906,Steris,Ireland,3 B,393 M,5.300,12.100,2020
+1907,Yuzhou Properties,China,3.4 B,505 M,20.300,2.200,2020
+1908,Equifax,United States,3.6 B,270 M,7.600,16.900,2020
+1909,General Insurance Corporation Of India,India,6.4 B,394 M,18.500,3.300,2020
+1910,Hokkoku Bank,Japan,650 M,76 M,44.600,816.000,2020
+1911,Fuyo General Lease,Japan,6.3 B,260 M,25.300,1.500,2020
+1912,Kiyo Bank,Japan,681 M,150 M,44.500,1.000,2020
+1913,Chimera Investment,United States,987 M,414 M,27.100,1.500,2020
+1914,Delivery Hero,Germany,1.4 B,-771 M,3.000,16.700,2020
+1915,Klepierre,France,1.8 B,364 M,27.700,5.800,2020
+1916,BioMarin Pharmaceutical,United States,1.8 B,114 M,4.700,16.600,2020
+1917,Magazine Luiza,Brazil,5 B,234 M,4.900,14.900,2020
+1918,China Everbright International,Hong Kong,4.8 B,664 M,15.300,3.600,2020
+1919,MTU Aero Engines AG,Germany,5.2 B,535 M,9.200,7.200,2020
+1920,Oshkosh,United States,8.1 B,486 M,5.900,4.600,2020
+1921,Yonyou Network Technology,China,1.2 B,171 M,2.500,16.500,2020
+1922,Berkeley Group Holdings,United Kingdom,2.8 B,669 M,6.600,6.600,2020
+1923,Azrieli Group,Israel,772 M,589 M,10.200,7.200,2020
+1924,China Nuclear Engineering Corporation,China,8.7 B,185 M,16.900,2.300,2020
+1925,Ovintiv,United States,7.1 B,234 M,21.500,1.600,2020
+1926,Lamb Weston Holdings,United States,3.9 B,479 M,3.500,9.000,2020
+1927,Xinyu Iron & Steel,China,8.5 B,456 M,6.600,1.800,2020
+1928,Murphy USA,United States,14.1 B,239 M,2.600,3.100,2020
+1929,Guangzhou Baiyunshan Pharmaceutical Holdings,China,9.1 B,428 M,8.000,4.300,2020
+1930,Musashino Bank,Japan,578 M,125 M,43.000,426.000,2020
+1931,Semiconductor Manufacturing International,China,3.1 B,235 M,16.400,9.900,2020
+1932,Genmab,Denmark,804 M,325 M,2.300,15.600,2020
+1933,Coty,United States,8.4 B,-2.8 B,17.400,4.100,2020
+1934,Saipem,Italy,10.2 B,13 M,14.700,2.600,2020
+1935,Samsung Securities,South Korea,1.2 B,336 M,38.700,2.200,2020
+1936,Abengoa,Spain,1.7 B,999 M,4.300,305.000,2020
+1937,Parkland Fuel,Canada,13.9 B,288 M,7.200,3.500,2020
+1938,Pou Chen,Taiwan,10.1 B,383 M,12.100,2.800,2020
+1939,Toll Brothers,United States,7.2 B,535 M,10.600,3.000,2020
+1940,Amdocs,United States,4.1 B,490 M,5.600,8.700,2020
+1941,EFG International,Switzerland,1.6 B,95 M,42.300,1.800,2020
+1942,Securitas,Sweden,11.7 B,355 M,6.600,4.300,2020
+1943,Inspur Electronic Information Industry,China,7.5 B,134 M,4.200,8.500,2020
+1944,Indian Bank,India,3.4 B,133 M,42.100,422.000,2020
+1945,Marks & Spencer,United Kingdom,13.1 B,75 M,12.100,2.300,2020
+1946,Hyatt Hotels,United States,5 B,766 M,8.400,5.700,2020
+1947,Montage Technology,China,266 M,111 M,1.100,15.700,2020
+1948,IDBI Bank,India,3.6 B,-2.5 B,41.900,3.000,2020
+1949,Twilio,United States,1.1 B,-307 M,5.200,15.700,2020
+1950,Brilliance China Automotive Holdings,Hong Kong,559 M,979 M,7.100,4.700,2020
+1951,Guoco Group,Hong Kong,2.4 B,557 M,17.400,4.600,2020
+1952,Makita,Japan,4.6 B,469 M,6.500,8.900,2020
+1953,Brown & Brown,United States,2.5 B,423 M,7.600,10.200,2020
+1954,China Resources Beer (Holdings),Hong Kong,4.8 B,197 M,6.000,15.500,2020
+1955,Kingspan Group PLC,Ireland,5.2 B,414 M,4.800,9.200,2020
+1956,JB Financial Group,South Korea,2 B,282 M,41.100,771.000,2020
+1957,NCR,United States,6.9 B,550 M,9.600,2.700,2020
+1958,Roku,United States,1.1 B,-60 M,1.500,15.400,2020
+1959,Wintrust Financial,United States,1.8 B,329 M,38.800,2.400,2020
+1960,FIBI Holdings,Israel,1.4 B,117 M,40.900,1.100,2020
+1961,Swedish Match,Sweden,1.6 B,436 M,1.900,9.600,2020
+1962,Tongling Nonferrous Metals,China,13.4 B,104 M,6.900,2.900,2020
+1963,Prysmian,Italy,12.9 B,327 M,11.800,5.000,2020
+1964,Delek Group,Israel,2.2 B,90 M,40.600,525.000,2020
+1965,Electrolux Group,Sweden,13.3 B,265 M,11.400,4.000,2020
+1966,Orkla,Norway,5 B,436 M,6.500,9.100,2020
+1967,US Steel,United States,12.2 B,-1.1 B,12.400,1.300,2020
+1968,Just Eat Takeaway.com,Netherlands,465 M,-129 M,1.900,15.100,2020
+1969,ST Engineering,Singapore,5.8 B,424 M,7.300,7.600,2020
+1970,Financial Street Holdings,China,3.6 B,434 M,23.300,2.900,2020
+1971,F.N.B.,United States,1.5 B,341 M,35.000,2.600,2020
+1972,Moderna,United States,60 M,-515 M,1.600,15.100,2020
+1973,Nuernberger Beteiligungs,Germany,4.9 B,76 M,36.900,860.000,2020
+1974,Sears Holdings,United States,13.2 B,-1.7 B,6.700,68.000,2020
+1975,BJ's Wholesale Club,United States,13.2 B,187 M,5.300,3.600,2020
+1976,Mid-america Apartment Communities,United States,1.6 B,353 M,11.200,12.800,2020
+1977,Shenzhen Goodix Technology,China,938 M,303 M,1.100,15.000,2020
+1978,Paycom,United States,780 M,196 M,2.300,15.000,2020
+1979,Dollarama,Canada,2.9 B,426 M,3.100,9.800,2020
+1980,Take-Two Interactive Software,United States,2.9 B,339 M,4.900,13.700,2020
+1981,Kojamo Oyj,Finland,422 M,924 M,7.400,4.400,2020
+1982,Valley Natl Bancorp,United States,1.5 B,284 M,39.100,3.400,2020
+1983,Chesapeake Energy,United States,8.6 B,-308 M,16.200,171.000,2020
+1984,JTEKT,Japan,13 B,-61 M,11.200,2.600,2020
+1985,Alnylam Pharmaceuticals,United States,220 M,-886 M,2.400,14.900,2020
+1986,Dixons Carphone,United Kingdom,13 B,102 M,10.300,1.100,2020
+1987,Credit Bank of Moscow,Russia,2.3 B,137 M,39.000,2.200,2020
+1988,Just Group,United Kingdom,4.9 B,365 M,29.400,729.000,2020
+1989,Inmobiliaria Colonial,Spain,412 M,694 M,13.900,4.900,2020
+1990,Cabot Oil & Gas,United States,1.7 B,472 M,4.500,8.600,2020
+1991,Holmen AB,Sweden,1.8 B,910 M,6.100,4.700,2020
+1992,Indorama Ventures,Thailand,11.4 B,138 M,12.700,5.000,2020
+1993,L Brands,United States,12.9 B,-366 M,10.100,3.300,2020
+1994,Slack Technologies,United States,630 M,-571 M,1.400,14.900,2020
+1995,Diamondback Energy,United States,4 B,240 M,23.500,6.900,2020
+1996,Founder Securities,China,1.4 B,115 M,18.600,8.300,2020
+1997,Merlin Properties SOCIMI S.A,Spain,594 M,631 M,14.900,4.300,2020
+1998,Heico,United States,2.1 B,371 M,3.100,11.800,2020
+1999,W.P. Carey,United States,1.2 B,305 M,14.100,11.300,2020
+2000,Zhejiang Century Huatong Group,China,2.2 B,365 M,4.700,12.100,2020
